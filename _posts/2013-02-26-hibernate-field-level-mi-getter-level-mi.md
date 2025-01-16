@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hibernate: Field Level Mı? Getter Level Mı?
+title: Hibernate:: Field Level Mı? Getter Level Mı?
 author: Kenan Sevindik
 ---
 

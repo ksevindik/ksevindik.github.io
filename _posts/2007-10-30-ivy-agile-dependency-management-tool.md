@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ivy: Agile Dependency Management Tool
+title: Ivy:: Agile Dependency Management Tool
 author: Kenan Sevindik
 ---
 

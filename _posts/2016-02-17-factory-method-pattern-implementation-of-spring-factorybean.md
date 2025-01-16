@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Factory Method Pattern Implementation of Spring: FactoryBean
+title: Factory Method Pattern Implementation of Spring:: FactoryBean
 author: Kenan Sevindik
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hibernate EntityCopyObserver: What Is It Used For?
+title: Hibernate EntityCopyObserver:: What Is It Used For?
 author: Kenan Sevindik
 ---
 
