@@ -260,8 +260,8 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Istanbul"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /:title/ #/:year-:month-:day-:title/
+paginate: 25
 
 kramdown:
   input: GFM
