@@ -22,8 +22,8 @@ author: Kenan Sevindik
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Courses at Udemy: "coursesatudemy"
+    - Books Published: "bookspublished"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ social-network-links:
   github: ksevindik
   twitter: KenanSevindik
 #  patreon: DeanAttali
-  youtube: "@KurumsalJavaEğitimleri"
+  youtube: "KurumsalJavaEgitimleri"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
