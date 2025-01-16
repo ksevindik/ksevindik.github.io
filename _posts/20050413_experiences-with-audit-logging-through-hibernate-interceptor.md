@@ -1,3 +1,9 @@
+---
+layout: post
+title: Experiences with Audit Logging through Hibernate Interceptor
+author: Kenan Sevindik
+---
+
 # Experiences with Audit Logging through Hibernate Interceptor
 
 In our current project, we make use of the Hibernate Interceptor to perform auditing and track operations performed with 
