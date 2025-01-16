@@ -14,7 +14,7 @@ devam edilmiş olunur.
 Stok kontrol ve bütçe kontrol senaryoları birbirine benzemektedir. Bunların önemli kısımları üzerinden geçerek SWF JBPM 
 entegrasyonunu incelemeye devam edelim.
 
-![](images/jbpm-swf-2-01.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-2-01.png)
 
 ```xml
 <flow> 
@@ -49,16 +49,16 @@ ise o andaki aktif JBPM taskı da sonlandırılır.
 
 ## Satın Alma İş Adımı
 
-![](images/jbpm-swf-2-02.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-2-02.png)
 
 Stok ve bütçe kontrol taskları, ilgili kullanıcılar tarafından yürütüldüğü vakit iş akışı satın alma aşamasına gelecektir. 
 Satın almadan sorumlu kullanıcı sisteme girip kendisine atanmış satın alma işlemini onaylarsa iş akışı başarılı biçimde 
 sonlanacak, siparişi veren kullanıcıya da siparişin onaylandığına dair bir e-posta mesajı gönderilecektir. Aksi takdirde 
 iş akışı siparişin iptali ile sonlanmış olacak kullanıcıya da bu yönde bir e-posta JBPM tarafından gönderilecektir.
 
-![](images/jbpm-swf-2-02.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-2-02.png)
 
-![](images/jbpm-swf-2-03.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-2-03.png)
 
 ```xml
 <flow> 
@@ -73,7 +73,7 @@ iş akışı siparişin iptali ile sonlanmış olacak kullanıcıya da bu yönde
 </flow>
 ```
 
-![](images/jbpm-swf-2-04.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-2-04.png)
 
 Satın alma flow’unda kullanıcı onay veya red butonlarından hangisine tıklarsa SWF tarafında o butona karşılık gelen 
 transition flow’u end state’ine geçirip sonlandırmaktadır. Bu aşamada JBPM satın alma task’ına da hangi transition ile 

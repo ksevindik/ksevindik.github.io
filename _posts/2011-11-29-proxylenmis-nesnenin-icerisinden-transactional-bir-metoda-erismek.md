@@ -9,7 +9,7 @@ Birisinde ilgili sınıfın sahip olduğu herhangi bir arayüz implement edilir,
 extend edilerek proxy sınıf türetilir. Her iki yöntemde de proxy nesneler söz konusudur. İstemciler açısından en temel 
 problem target nesnenin, sadece public ve final olmayan metotların proxy nesne üzerinden çağrılabilmesidir.
 
-![](images/tx_proxy.png)
+![](http://kenansevindik.com/assets/images/tx_proxy.png)
 
 Yukarıdaki diagramda da gördüğünüz gibi istemci target nesneye erişirken, transparan biçimde proxy nesne devreye girmektedir 
 ve proxy nesne vasıtası ile dekleratif TX yönetimi gibi çaprazkesen fonksiyonlar çalıştırılabilmektedir. Ancak, proxy 

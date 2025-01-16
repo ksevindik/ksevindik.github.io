@@ -33,7 +33,7 @@ e-posta ile bilgilendirilerek iş akışı sonlandırılır.
 JBPM GPD kurulduktan sonra Eclipse içerisinde “Open Perspective” ile JBPM JPDL perspektifine geçilir. Daha sonra yeni 
 bir “process definition” oluşturulur.
 
-![](images/jbpm_admin_console_01.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_01.png)
 
 Artık yeni tanımladığımız sipariş iş akışının adımlarını oluşturabiliriz. Her iş akışı tanımı mutlaka bir “start state” 
 ile başlamalıdır. Biz de “order start” isimli start state’imizi ekledik. “Order start” state’inde siparişi verecek olan 
@@ -42,8 +42,8 @@ görevi icra edecektir. Bunun için “order start” state’inin properties vi
 olan “Task pane”inden görevle ilgili detayları girelim. Sipariş giriş görevinde kullanıcı “name” ve “price” bilgilerini 
 girdikten sonra “Sipariş Ver” butonuna tıklayarak siparişi gerçekleştirecektir.
 
-![](images/jbpm_admin_console_02.png)
-![](images/jbpm_admin_console_03.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_02.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_03.png)
 
 Siparişin “name” ve “price” bilgilerini kullanıcının “order start” taskında girmesi için Controller tabından giderek iki 
 tane okunabilir ve yazılabilir “task scoped” değişken tanımlayabiliriz. Bir görev içerisinde tanımlanan controller’ın 
@@ -52,8 +52,8 @@ bulunmadan lokal biçimde değiştirilmesini sağlamaktır. “Task scoped” de
 karşılıklarına görevin sonlanması sırasında yansıtılır. Aslında doğrudan process değişkenlerini de güncelleyebiliriz. 
 Ancak bu biraz programımız içerisinde global değişkenleri kullanmak gibi olur.
 
-![](images/jbpm_admin_console_04.png)
-![](images/jbpm_admin_console_05.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_04.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_05.png)
 
 Görev içerisinde kullanılacak değişkenleri tanımladıktan sonra kullanıcının bu görevi yerine getirmek için kullanacağı UI 
 formu oluşturulabilir. “Details” tabında “Generate Form…” butonuna tıkladığımız vakit form içerisinde yer alacak girdi ve 
@@ -62,7 +62,7 @@ dialog penceresi açılır. Bu pencerede gerekli bilgileri girdikten sonra iş a
 aynı isimde bir xhtml oluşturulur. Ayrıca yine iş akışı ile aynı dizinde forms.xml dosyası içerisinde task-form 
 eşleştirmesi eklenir.
 
-![](images/jbpm_admin_console_06.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_06.png)
 
 Siparişin girişinden sonra iş akışının bir sonraki adımı verilen siparişin stok ve muhasebe bölümleri tarafından ayrı ayrı 
 değerlendirilmesidir. Bu değerlendirme iki departman tarafından eş zamanlı olarak yürütülebilir. Bu nedenle iş akışının 
@@ -70,7 +70,7 @@ bu aşamasında bir “çatallanma” (fork) söz konusudur. Bunun için GPD ile
 çatallanmada izlenecek iki yol vardır. Birisi “stok kontrol” diğeri “bütçe kontrol”. Her birisi için iki ayrı “task node” 
 yine GPD ile iş akışı tanımına eklenir.
 
-![](images/jbpm_admin_console_07.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_07.png)
 
 Stok ve bütçe kontrol görevlerinde ilgili kullanıcıların yapması gereken sipariş bilgilerini kontrol ederek siparişi 
 onaylamaları veya reddetmeleridir. Bunun için her iki task node içerisinde de properties view’ı kullanılarak birer task 
@@ -79,8 +79,8 @@ ile tanımlanır. Burada name ve price değişkenleri salt okunur, inventoryChec
 yazılabilir ve okunabilir olarak tanımlanır. Ardından kullanıcının bu bilgileri görebileceği ve değiştirebileceği UI formu, 
 Details tabına geçerek oluşturulur.
 
-![](images/jbpm_admin_console_08.png)
-![](images/jbpm_admin_console_09.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_08.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_09.png)
 
 Stok ve bütçe kontrol görevleri yerine getirildikten sonra iş akışında bu adımlarda girilen değerlere göre siparişin 
 gerçekleşip gerçekleşmeyeceğine karar verilmelidir. Bunun için öncelikle stok ve bütçe kontrol görevleri ile ortaya çıkan 
@@ -92,24 +92,24 @@ mümkündür. Biz projelerimizde drools rule base tabanlı ve groovy script taba
 bu handler nesnesine geçirmeyi sağlayan bir handler proxy sınıfı oluşturduk. Bu sınıfın kullanımı ve iş akış tanımı 
 içerisindeki ayarları aşağıdaki resimlerde görülebilir.
 
-![](images/jbpm_admin_console_11.png)
-![](images/jbpm_admin_console_12.png)
-![](images/jbpm_admin_console_13.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_11.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_12.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_13.png)
 
 Sipariş iş akışındaki karar adımında varılacak sonuca göre akışın iki şekilde sonlanması söz konusudur. Eğer stok ve bütçe 
 kontrolleri olumlu ise sipariş onaylanacaktır. Aksi takdirde sipariş reddedilecektir. Bu durumları ifade etmek için iki 
 tane ayrı “end state” tanımlanmalıdır. Her iki end state’e varıldığında da siparişi veren kullanıcıya bir e-posta 
 gönderilerek sipariş değerlendirme sonucu hakkında bilgi verilir.
 
-![](images/jbpm_admin_console_14.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_14.png)
 
 Siparişi yapan kişiye e-posta gönderilmesinin ayarları, approved ve rejected end state’lerine geçişi sağlayan transition 
 tanımları üzerinde yapılır. İlgili geçişler sırayla seçilip properties view’daki Actions tabında “New Mail” ile e-posta 
 ayarları yapılabilir. E-postaların hem spesifik kullanıcılara hem de belirli görevleri icra etme sorumluluğu verilmiş 
 aktör’lere gönderilmesi mümkündür.
 
-![](images/jbpm_admin_console_15.png)
-![](images/jbpm_admin_console_16.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_15.png)
+![](http://kenansevindik.com/assets/images/jbpm_admin_console_16.png)
 
 Bu aşamada artık sipariş iş akışı tanımlanmış olup değişik yöntemlerle JBPM ortamına deploy edilebilir durumdadır. Bir 
 sonraki bölümde iş akışının deploy edilmesi ve admin-console vasıtası ile yürütülmesi üzerinde duracağım.

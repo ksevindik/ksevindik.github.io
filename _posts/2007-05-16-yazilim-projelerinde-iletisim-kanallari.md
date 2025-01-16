@@ -1,6 +1,6 @@
 # Yazılım Projelerinde İletişim Kanalları
 
-![](images/iletisim_kanallari.gif)
+![](http://kenansevindik.com/assets/images/iletisim_kanallari.gif)
 
 Başarılı agile projelerin en belirgin özelliklerinden birisi de ofis organizasyonu ve değişik iletişim kanalları vasıtası 
 ile oluşturulan “**osmotic knowledge acquisition**”dır. Peki bu iletişim kanalları nelerdir? Hangi temel özelliklere sahiplerdir? 

@@ -1,6 +1,6 @@
 # How to populate your DB with sample data during Hibernate bootstrap?
 
-![](images/jpa_hibernate_data_population.png)
+![](http://kenansevindik.com/assets/images/jpa_hibernate_data_population.png)
 
 One of the undocumented features of Hibernate is its execution of SQL scripts given within a special file during the 
 bootstrap process. It is a very useful feature in order to populate your DB with sample data during testing or development 

@@ -1,6 +1,6 @@
 # Peki Bizim Kullanıcı Arayüzlerimiz Nasıl?
 
-![](images/our_ux_experience.jpeg)
+![](http://kenansevindik.com/assets/images/our_ux_experience.jpeg)
 Resim şimdilerde Fransa’daki kazadan sonra uçuşları durdurulmuş Concorde’ların cockpit’inden bir görüntü. Sizin de bazen 
 geliştirdiğiniz uygulamaların kullanıcı arayüzlerinin de bu cockpit kadar karmaşık olduğunu düşündüğünüz oluyor mu? 
 Uygulama geliştirme süreci boyunca sürekli olarak aynı arayüzü kullanmaktan ötürü ortaya çıkan aşinalık, kullanıcı 

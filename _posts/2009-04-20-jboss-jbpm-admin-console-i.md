@@ -9,7 +9,7 @@ içerisinde gömülü olarak çalıştırmak için yaptığımız işlemlerle ba
 
 ## Dosyaların ve Dizinlerin Kopyalanması
 
-![](images/jbpm-admin-01.png)
+![](http://kenansevindik.com/assets/images/jbpm-admin-01.png)
 
 `jsf-console.war` bundle’ı açtığımızda aşağıdaki gibi bir dizin yapısı ile karşılaşırız.
 

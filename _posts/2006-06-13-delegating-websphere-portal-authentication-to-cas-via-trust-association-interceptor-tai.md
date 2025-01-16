@@ -22,7 +22,7 @@ As a result, other IBM products, such as portal, get authenticated via this LTPA
 The following diagram shows our IBM portal and CAS SSO integration architecture via TAI. I want to explain what is going 
 on when an unauthenticated request arrives at our portal.
 
-![](images/cas_tai_integration.png)
+![](http://kenansevindik.com/assets/images/cas_tai_integration.png)
 
 When an unauthenticated request comes to the portal’s main page (`wps/myportal`), normally users are redirected to the 
 portal’s login page. In our solution, we modified that login page and redirected users automatically to the CAS’s login 

@@ -6,7 +6,7 @@ as winners by the jury. What was more interesting with that result was that, two
 components and `JDeveloper` in their development. I am still confused about the result, as it looks like an indisputable 
 approval of JDeveloper.
 
-| ![](images/rad_race_attendees2.jpg)  | ![](images/javapolis_tshirts.jpg)  |
+| ![](http://kenansevindik.com/assets/images/rad_race_attendees2.jpg)  | ![](http://kenansevindik.com/assets/images/javapolis_tshirts.jpg)  |
 |---|---|
 |  RAD Race Results |  JavaPolis 2005 T-Shirts :) |
 
@@ -23,7 +23,7 @@ blog. Anyway, Rod’s overall performance was above average, and in my opinion, 
 emphasizing `Spring 2.0`’s `JDK 1.3` compatibility, in addition to newly added many `J2SE 5.0` specific features in the 
 framework.
 
-|  ![](images/kenan_rod_hasan.jpg) |
+|  ![](http://kenansevindik.com/assets/images/kenan_rod_hasan.jpg) |
 |---|
 | Kenan Sevindik, Rod Johnson, Hasan Türksoy  |
 
@@ -58,7 +58,7 @@ tags and turned their build process into an incremental manner with the help of 
 compatible with `EJB 3.0 annotations`, and just generated `EJB 2.x` compatible wrappers from those codings at the moment, 
 but by doing so, they expect a smooth migration path to `EJB 3.0` when it becomes ready for production.
 
-|  ![](images/i_need_you_for_mustang.jpg) |
+|  ![](http://kenansevindik.com/assets/images/i_need_you_for_mustang.jpg) |
 |---|
 |Call for Participating Mustang Development   |
 
@@ -75,6 +75,6 @@ If you remember only one thing, this year’s organization in terms of its conte
 year’s one. Anyway, we had a very nice week in Metropolis, found a chance to meet with many people from Java community, 
 and learn what is new from the first hands. Thanks for all guys who involved in such an organization.
 
-|  ![](images/metropolis_at_night.jpg) |
+|  ![](http://kenansevindik.com/assets/images/metropolis_at_night.jpg) |
 |---|
 | Metropolis Business Center at Night  |

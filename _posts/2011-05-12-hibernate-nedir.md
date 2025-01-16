@@ -1,6 +1,6 @@
 # Hibernate Nedir?
 
-![](images/what_is_hibernate.jpeg)
+![](http://kenansevindik.com/assets/images/what_is_hibernate.jpeg)
 
 Bu soruya hepimizin vereceğimiz cevap hemen hemen şu şekildedir: “Hibernate bir object relational mapping framework’dür.” 
 “object relational mapping framework”ün ne olduğuna dair sorduğumuzda ise aldığımız cevaplar

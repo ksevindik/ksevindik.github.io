@@ -7,7 +7,7 @@ Kısa bir zaman sonra takip ettiğim twitlerden birisinde aşağıdaki [yazı](h
 belirdi. Steve, yazıda 35 yılı bulan, kendi tabiri ile “mediated reality” yani “aracılı gerçeklik” tecrübelerinden ve 
 Google’ın “gözlük” projesi hakkındaki fikirlerinden bahsediyor.
 
-![](images/ilerleme_sureklilik_ister.jpeg)
+![](http://kenansevindik.com/assets/images/ilerleme_sureklilik_ister.jpeg)
 
 Steve Mann’ın 70’lerin sonlarındaki ilk çalışmalarına baktığımızda kafasında büyükçe, antenli ve garip bir kask görüyoruz. 
 Steve bu çalışmalarını ilk dönemlerden itibaren günlük hayatta da tecrübe ediyormuş. Muhtemelen kendisi ile dalga geçen, 

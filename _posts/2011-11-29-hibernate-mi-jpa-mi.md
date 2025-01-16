@@ -8,7 +8,7 @@ JPA hepimizin bildiği gibi bir spesifikasyon, enterprise Java ve ORM dünyasın
 Kullanabilmek için bunun ete kemiğe bürünmüş hali lazım. İşte bu da “implementasyon” oluyor. Hibernate, EclipseLink, 
 DataNucleus birer JPA implementasyonudur.
 
-![](images/hibernate_or_jpa_01.png)
+![](http://kenansevindik.com/assets/images/hibernate_or_jpa_01.png)
 
 Hemen her spesifikasyonda ve API’de olduğu gibi, implementasyonlar spesifikasyon ile uyumlu olmanın ötesinde çoğunlukla 
 kendilerine özel kabiliyetlerde barındırırlar. Dolayısı ile yukarıda bahsettiğim sorulara bir de hangi JPA implementasyonu? 
@@ -25,7 +25,7 @@ edilebilmektedir.
 Geliştiriciler arasında persistence ve ORM kavramlarının yaygınlaşmasına, ORM konusunda deneyimli geliştiricilerin sayısının 
 çoğalmasına yardımcı olmaktadır.
 
-![](images/hibernate_or_jpa_02.png)
+![](http://kenansevindik.com/assets/images/hibernate_or_jpa_02.png)
 
 Ancak uygulama geliştirme safhasında bu artılar sizin için çok da önemli olmayabilir. JPA ile çalışmak, arka tarafta 
 kullandığınız ORM implementasyonundan tamamen izole olmak demek değildir. ORM implementasyonuna özgü konfigürasyon 

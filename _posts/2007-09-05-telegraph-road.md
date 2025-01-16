@@ -1,5 +1,5 @@
 # Telegraph Road
-![](images/telegraph_road.jpeg)
+![](http://kenansevindik.com/assets/images/telegraph_road.jpeg)
 
 I am a big fan of the British music band Dire Straits. Their “Telegraph Road” song is among the ones I like the most and 
 listen to over and over again. It tells the story of a lone man settling down in the wilderness, and his followers coming 

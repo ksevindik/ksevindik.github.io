@@ -18,7 +18,7 @@ ve web uygulamalarının yaygın olmadığı dönemlerde çoğu uygulama bu şek
 yaygınlaşması ve uygulamaların çoğunlukla web platformunda çalışacak biçimde geliştirilmesi ile multi-tenant uygulama 
 geliştirme ihtiyacı da bu tür kurumsal uygulamalar için gün geçtikçe artmaktadır. Konumuza bir örnek üzerinden devam edelim: 
 
-![](images/hibernate_multitenancy.png)
+![](http://kenansevindik.com/assets/images/hibernate_multitenancy.png)
 
 Örneğin `Bayi` ve `Gorev` şeklinde iki sınıfımız olsun. Her bir bayi üzerine atanan bir veya daha fazla da görev olsun. 
 Görevler tamamlandığında bayi tarafından görevin tamamlandığı belirtilsin. Yukarıdaki gibi bir model üzerinde, her bir 

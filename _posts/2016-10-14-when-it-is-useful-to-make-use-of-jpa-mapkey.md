@@ -1,6 +1,6 @@
 # When It is Useful to Make Use of JPA @MapKey?
 
-![](images/jpa_hibernate_mapkey.png)
+![](http://kenansevindik.com/assets/images/jpa_hibernate_mapkey.png)
 
 As you probably know, JPA provides a way to map collection associations using `java.util.Map`. However, usage scenarios 
 for such mappings are very limited; but when it comes, they become highly invaluable to easily extract necessary 

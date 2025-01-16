@@ -1,6 +1,6 @@
 # Activating Authorization Success Event Publish Feature
 
-![](images/spring_security.png)
+![](http://kenansevindik.com/assets/images/spring_security.png)
 
 Spring Security publishes various authentication and authorization events during its security checks. Spring-managed 
 beans which implement the `ApplicationListener` interface or beans with methods annotated with `@EventListener` can 

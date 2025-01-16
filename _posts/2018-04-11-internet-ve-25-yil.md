@@ -1,6 +1,6 @@
 # İnternet ve 25 Yıl
 
-<img src="images/25_yıl_01_internet_kupur.jpg" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yıl_01_internet_kupur.jpg" height="300" width="400"/>
 
 Türkiye’de İnternet bağlantısı ilk olarak 12 Nisan 1993 yılında ODTÜ ve Tübitak’ın birlikte yürüttüğü bir proje ile 
 sağlanıyor. Yani İnternet ile tam 25 yıl geçmiş. Ben de bu 25 yılın neredeyse 24 yılına bir Internet kullanıcısı olarak 
@@ -8,7 +8,7 @@ sağlanıyor. Yani İnternet ile tam 25 yıl geçmiş. Ben de bu 25 yılın nere
 bilgisayar lablarında İnternet’te surf yapmaya başlamıştım. Dolayısı ile Türkiye’deki İnternet kullanıcılarından ilk 
 birkaç bini arasındayım diyebilirim.
 
-<img src="images/25_yil_02_kasim_on_sayfa_mosaic.jpg" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yil_02_kasim_on_sayfa_mosaic.jpg" height="300" width="400"/>
 
 O yıllar aslında dünyada da İnternet’in hemen hemen emekleme yıllarıydı diyebiliriz. Lablardaki PC’lerde Mosaic ve Netscape 
 browser’lar (Mosaic Browser daha sonra ortadan kalktı, Netscape’in ise 1.0 sürümü ile çalıştım :-)) ile İnternet’e bağlanır 
@@ -31,7 +31,7 @@ Internet’de World Wide Web’in dominantlık kazanmasından evvel Gopher isiml
 sunucuları üzerinde Veronica ile arama da yaptığımızı hatırlıyorum. Gopher’a çoğunlukla UNIX hesaplarımızdan bağlanırdık. 
 O zamanlar içeriğin büyük kısmı metin olduğu için bu çok da sorun olmazdı.
 
-<img src="images/25_yil_03_odtu_unix_tutorial.jpg" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yil_03_odtu_unix_tutorial.jpg" height="300" width="400"/>
 
 O zamanlar ODTÜ’ye başlayan bütün öğrencilere hazırlıktan sonra birinci sınıfa başladıklarında ODTÜ Bilgi İşlem’den bir 
 UNIX hesap verilirdi. Narwhal isimli bir sunucuya bağlanırdık. Bu hesapların ismi de o zamanlar narwhal account’u olarak 
@@ -41,7 +41,7 @@ hacker diye tabir edilebilecek birisiydi ve yanılmıyorsam CERN veya buna benze
 bulunmaya çalıştığı için oralardan da kendisine küçük bir uyarı yazısı gelmişti. O arkadaşın hesabı ile yurt lablarında 
 İnternet’e bağlanırken, arada sırada kapıdan içeri Jandarma girecek ve ensemizde bitecek diye tedirgin de olmuyor değildim 🙂
 
-<img src="images/25_yil_04_herkes_icin_internet.jpg" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yil_04_herkes_icin_internet.jpg" height="300" width="400"/>
 
 İstanbul Küçükçekmece Lisesi’nden bir arkadaşım da o yıl Karadeniz Teknik Üniversitesi’nde sanırım Bilgisayar Bilimleri 
 gibi bir bölümü kazanmıştı. Yaz tatilinde onunla bir araya geldiğimizde bana Tan Deniz Sarıhan’ın Herkes İçin İnternet 
@@ -50,7 +50,7 @@ de ben edinmiş ve tatil’de baştan sona okuyup, ilginç bulduğum adreslerden
 sonra e-posta ile bir konu hakkında soru sorduğumda, kendisinden elektronik ortamda soru sorma adabı ile ilgili gayet 
 sert ve kırıcı içerikli bir cevap alınca kendisine karşı pek de iyi duygular beslediğimi söyleyemem.
 
-<img src="images/25_yil_05_guvenli_internet_afis.jpg" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yil_05_guvenli_internet_afis.jpg" height="300" width="400"/>
 
 Geçen hafta kızımın okulunda bilişim teknolojileri dersinin öğretmeninin kapısında böyle bir afiş dikkatimi çekti. 
 Malesef çocukların gözünde İnternet’i emniyetsiz, tehlikeli ve karanlık bir yer şeklinde gösteren, İnternet’e bağlanırken 
@@ -58,7 +58,7 @@ iki kere düşündürten bu tür yaklaşımlar gelecek nesillerin bu dünyanın 
 fırsatlardan yararlanmalarını zorlaştırır, onların zihinlerinde gerçek potansiyellerini açığa çıkarmaları noktasında 
 engeller yaratır diye düşünüyorum.
 
-<img src="images/25_yil_06_teknoloji_bagimliligi.png" height="300" width="400"/>
+<img (src="http://kenansevindik.com/assets/images/25_yil_06_teknoloji_bagimliligi.png" height="300" width="400"/>
 
 İnternet ve bilgisayarlar benim için ilk andan itibaren bir alışkanlık, tutku halini almıştı. Hazırlık sona erip proficiency 
 sınavına girince mecburen İstanbul’a, eve dönmüş ve lablardan uzak kalmıştım. Ancak proficiency sınav sonucunu öğrenme 
@@ -77,7 +77,7 @@ web siteleri oluşturmalar vs. Benim için 94-95’de İnternet’li ilk yıllar
 gerçeklik vs konuları, her yerden, her türlü cihaz ile bağlanabilme ve ucu bucağı olmayan bir depolama ve veri işleme 
 kapasitesi ile çok farklı dünyalara yelken açıyoruz.
 
-|  <img src="images/25_yil_07_akgul_kupur.jpg" height="300" width="400"/> |  <img src="images/25_yil_08_akgul_bilkent_doc.jpg" height="300" width="400"/>|
+|  <img (src="http://kenansevindik.com/assets/images/25_yil_07_akgul_kupur.jpg" height="300" width="400"/> |  <img (src="http://kenansevindik.com/assets/images/25_yil_08_akgul_bilkent_doc.jpg" height="300" width="400"/>|
 |---|---|
 
 Bütün bu 25 yıl içerisinde Türkiye genelinde İnternet ile özdeşleşen pek çok isim olmuştur. Ancak ben bunlardan kısa zaman 

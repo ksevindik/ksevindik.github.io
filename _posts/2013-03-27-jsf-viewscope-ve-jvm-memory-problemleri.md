@@ -16,7 +16,7 @@ Peki biz bu “hafıza sızıntısı”sını nasıl tespit ettik? Projedeki ark
 incelediğimizde aşağıdakine benzer bir yükseliş trendindeki bir eğriyi gördüğünüzde aklınıza gelecek ilk şey bir hafıza 
 sızıntısı olmalıdır.
 
-![](images/jsf_viewscope_jvm_memory_problems.png)
+![](http://kenansevindik.com/assets/images/jsf_viewscope_jvm_memory_problems.png)
 
 Bizde buna benzer bir grafik gördükten sonra “visual vm” yardımı ile bir takım senaryoları incelerken “full GC”yi 
 tetikledikten sonra senaryonun o adımına gelindiğinde ortada görünmemesi gerekirken hala heap’de yer kaplayan nesneleri 

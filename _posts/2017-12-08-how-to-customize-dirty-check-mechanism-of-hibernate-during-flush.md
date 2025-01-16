@@ -1,6 +1,6 @@
 # How to Customize Dirty Check Mechanism of Hibernate During Flush
 
-![](images/comparing.png)
+![](http://kenansevindik.com/assets/images/comparing.png)
 
 Hibernate needs to identify which entities in the Session has been changed, in other words become dirty in the meantime, 
 so that it can issue an update sql statement to reflect those changes into the database. The default mechanism to identify 

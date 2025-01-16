@@ -1,6 +1,6 @@
 # Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java Teknolojileri Hacettepe Sunumu
 
-![](images/me_2008_hacettepe_sunum.jpeg)
+![](http://kenansevindik.com/assets/images/me_2008_hacettepe_sunum.jpeg)
 
 Daha önce ODTÜ Bilgisayar Mühendisliği Bölümü’nde yaptığım Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java 
 Teknolojileri sunumunu 15 Mayıs 2008 Perşembe günü Hacettepe Bilgisayar Mühendisliği öğrencilerine de yapma fırsatı buldum. 

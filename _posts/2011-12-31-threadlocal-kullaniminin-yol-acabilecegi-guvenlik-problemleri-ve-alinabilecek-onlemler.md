@@ -49,7 +49,7 @@ böyledir; değişkenin içeriği, bağlamsal veri üzerinde çalışma tamamlan
 kaldığı müddetçe yer kaplayacaktır. Java'da yüklenen sınıfların hafızadan çıkarılması (unload) da söz konusu olmadığı için 
 bu hafıza alanları JVM açık kaldığı müddetçe hafıza temizlemeye (garbage collection) tabi tutulmayacaktır.
 
-![](images/tubitak_threadlocal_01.jpg)
+![](http://kenansevindik.com/assets/images/tubitak_threadlocal_01.jpg)
 
 Diğer bir problem ise güvenlik noktasında karşımıza çıkar. Web uygulamaları çoğunlukla bir uygulama sunucusuna deploy 
 edilirler ve sunucu, uygulamaya gelen web isteklerinin ayrı ayrı thread'ler tarafından ele alınmasını sağlar. Uygulama 

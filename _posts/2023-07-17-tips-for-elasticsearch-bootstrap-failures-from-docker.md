@@ -6,7 +6,7 @@ In case you face such clueless failures one of the parts you should check is the
 preferences. In my case, the memory upper limit was set to 2GB, which was insufficient for Elasticsearch to bootstrap as 
 a docker container. Increasing the memory limit made the trick
 
-![](images/elasticsearch_docker_failure.png)
+![](http://kenansevindik.com/assets/images/elasticsearch_docker_failure.png)
 
 Aside from this error, I noticed another error during my trial and error process which is caused by missing environment 
 variable discovery.type.

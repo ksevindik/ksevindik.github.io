@@ -1,6 +1,6 @@
 # Kıssadan Hisse
 
-![](images/kissadan_hisse.jpeg)
+![](http://kenansevindik.com/assets/images/kissadan_hisse.jpeg)
 
 Mevlana’nın Mesnevi adlı eserinde bir hikaye vardır. Günlerden birgün cins bir ata binmiş silahlı iri cüsseli bir er 
 ormana dalmış gidiyordu. Usta bir okçu onu görünce yayını gerdi, onu vurmaya hazırlandı. Oku fırlatmadan hemen önce, er 

@@ -6,14 +6,14 @@ Java Teknolojileri Etkinliği’ni gerçekleştirdik. CETÜRK Anadolu turunun de
 başarılı geçti, katılım oranı da oldukça yüksekti. Daha önce Çankaya, Fırat, 18 Mart ve Doğu Akdeniz üniversitelerinde 
 düzenlenen serinin bu kez durağı ODTÜ idi.
 
-| ![](images/ceturk-ank-01.jpeg) | ![](images/ceturk-ank-02.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-01.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-02.jpeg) |
 |--------------------------------|--------------------------------|
 
 
 Açılış konuşmasını CETÜRK kurucusu Mehmet Aca gerçekleştirdi. Konuşmasında kısaca CETÜRK’ten ve faaliyetlerinden 
 bahsettikten sonra programa geçildi.
 
-| ![](images/ceturk-ank-03.jpeg) | ![](images/ceturk-ank-04.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-03.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-04.jpeg) |
 |--------------------------------|--------------------------------|
 
 Program olarak oldukça dolu ve kapsamlı bir etkinlik oldu. İlk önce STM’den Hasan Türksoy, son dönemde “rich internet 
@@ -21,13 +21,13 @@ applications” geliştirmeye yönelik olarak kurumsal java teknolojileri dünya
 Web Toolkit hakkında güzel bir sunum yaptı. Sunumla birlikte iki örnek uygulama geliştirilerek `GWT`’nin mimarisi ve 
 kabiliyetleri gösterildi.
 
-| ![](images/ceturk-ank-05.jpeg) | ![](images/ceturk-ank-06.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-05.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-06.jpeg) |
 |--------------------------------|--------------------------------|
 
 İkinci sunum en son Enterprise Java Beans spesifikasyonu hakkında oldu. Sunumu gerçekleştiren Vardar Yazılım’dan Ümit 
 Vardar, `EJB 3.1` ile gelen yeniliklerden ve bileşen tabanlı yazılım geliştirme teknolojilerindeki gelişmelerden bahsetti.
 
-| ![](images/ceturk-ank-07.jpeg) | ![](images/ceturk-ank-08.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-07.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-08.jpeg) |
 |--------------------------------|--------------------------------|
 
 Bu sunumların ardından İnnova çalışanlarından Mustafa Demir ve Mustafa Daşgın arkadaşlarımız `Spring Web Servis Framework`’ünü 
@@ -35,7 +35,7 @@ tanıtan bir sunum yaptılar. İki arkadaşımız da uzun zamandır `Spring Web 
 kullanarak bu framework ve genel olarak web servis geliştirme konuları hakkında ciddi bir bilgi birikimi ve deneyim 
 sahibi olmuşlardı. Sunumda da bu deneyimlerini gerçek bir örnek üzerinden katılımcılarla paylaştılar.
 
-| ![](images/ceturk-ank-09.jpeg) | ![](images/ceturk-ank-10.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-09.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-10.jpeg) |
 |--------------------------------|--------------------------------|
 
 Etkinlikteki diğer bir sunum ise kurumsal java dünyasındaki modülerlik, koşut zamanda dinamik olarak yeniden yüklenebilirlik, 
@@ -43,7 +43,7 @@ sınıf yükleme gibi kronikleşmiş problemlere çözüm olabilecek `OSGI` hakk
 Mehmet Gürsul, sunumunu herkesten farklı olarak powerpoint yerine zihin haritalama yöntemi ile FreeMind aracını kullanarak 
 yaptı. Bu açıdan da sunum izleyiciler için farklı bir tecrübe oldu.
 
-| ![](images/ceturk-ank-11.jpeg) | ![](images/ceturk-ank-12.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-11.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-12.jpeg) |
 |--------------------------------|--------------------------------|
 
 Son olarak ben, bu sene ekim ayında düzenlenecek olan Ulusal Yazılım Mühendisliği Sempozyumu’na göndermiş olduğum, 
@@ -51,7 +51,7 @@ Son olarak ben, bu sene ekim ayında düzenlenecek olan Ulusal Yazılım Mühend
 hazırladığım sunumu katılımcılara takdim ettim. Sunum sonunda `Spring AOP` ve `Hibernate` kullanarak ana hatları ile benzer 
 sistemin nasıl geliştirilebileceğini örnek uygulama ile gösterme fırsatım da oldu.
 
-| ![](images/ceturk-ank-13.jpeg) | ![](images/ceturk-ank-14.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ank-13.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ank-14.jpeg) |
 |--------------------------------|--------------------------------|
 
 Etkinlik sonunda katılımcılar arasında yapılan çekilişle üç kişiye Özcan Acar arkadaşımızın yazdığı *Extreme Programming* 

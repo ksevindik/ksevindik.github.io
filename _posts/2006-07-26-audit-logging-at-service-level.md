@@ -40,7 +40,7 @@ The following class diagram depicts main parts of the solution. Service level an
 and in a close coordination with `IAuditLogger` interface, which actually performs creation, and persistence of audit log 
 records.
 
-![](images/service_level_auditing_class_diagram.png)
+![](http://kenansevindik.com/assets/images/service_level_auditing_class_diagram.png)
 
 `ServiceAuditLogInterceptor` starts auditing at service level by delegating actual work to `AuditLogger` class. We need 
 to clarify something right here. Service beans are obviously stateless, and may serve many clients simultaneously. Between 
@@ -125,7 +125,7 @@ public class EntityAuditLogInterceptor extends EmptyInterceptor{
 ```
 The following diagram shows the sequence of operations mentioned above.
 
-![](images/service_level_auditing_sequence_diagram.png)
+![](http://kenansevindik.com/assets/images/service_level_auditing_sequence_diagram.png)
 
 So far so good. We are already able to intercept changes on our persistent entities, and create audit log records for any 
 changes that occur on them. However, we are at a point that we create log records at entity level, and those audits are 
@@ -207,7 +207,7 @@ creating a new `ServiceAuditRecord` instance if current method is executing insi
 active `ServiceAuditRecord` exist in `AuditLogRecordsHolder`. Finally, our interceptor proceeds with its normal method 
 invocation.
 
-![](images/service_level_auditing_sequence_diagram_2.png)
+![](http://kenansevindik.com/assets/images/service_level_auditing_sequence_diagram_2.png)
 
 ### How Do We Save Audit Information at the End?
 After starting service level auditing, all entity level operations in the current transaction are logged by 
@@ -218,7 +218,7 @@ checks status of completed transaction, and if TX is commited it calls `saveCurr
 Finally, `EntityAuditLogInterceptor` removes current `ServiceAuditRecord` so that logs belonging to rollbacked transactions 
 won’t be persisted.
 
-![](images/service_level_auditing_sequence_diagram_3.png)
+![](http://kenansevindik.com/assets/images/service_level_auditing_sequence_diagram_3.png)
 
 Some service beans that enable auditing may call other service beans’ methods that may also trigger auditing. Currently 
 we only create a new `ServiceAuditRecord` when a new transaction is created for those service methods. For example `methodA` 

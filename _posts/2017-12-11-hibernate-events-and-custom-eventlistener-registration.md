@@ -1,6 +1,6 @@
 # Hibernate Events and Custom EventListener Registration
 
-![](images/event_listener.jpg)
+![](http://kenansevindik.com/assets/images/event_listener.jpg)
 
 Since Hibernate 3, each and every operation through Session API fires one or more persistence events during the course 
 of its execution. For example, when you invoke session.get(Foo.class,1L), in order to fetch Foo entity with PK 1, 

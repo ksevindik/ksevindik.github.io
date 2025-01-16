@@ -10,7 +10,7 @@ stoktan tedarik edilip edilemeyeceği kontrol edilir. Diğer adımında ise sipa
 adımda siparişe onay verirse bu sefer satın alma adımına geçilir. Satın alma bölümü de bu siparişi onayladığı vakit 
 sürecimiz siparişin onaylandığı ile ilgili olarak siparişi veren kullanıcıyı bilgilendirerek sonlanır.
 
-![](images/jbpm-swf-01.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-01.png)
 
 Yukarıda ayrıntılandırdığımız bu iş akışında sipariş girişi, stok kontrol, bütçe kontrol, satın alma adımları değişik 
 rollere sahip kullanıcılar tarafından gerçekleştirilen senaryolara karşılık gelmektedir. Bahsedilen bu senaryoların her 
@@ -24,7 +24,7 @@ kaşılık gelmektedir.
 SWF’de `siparisKayit` `flow`’u yeni bir spariş girişini gerçekleştirir. Yeni siparişin kaydedilmesi ile beraber JBPM 
 tarafında da sipariş iş akışı başlamış olur.
 
-![](images/jbpm-swf-02.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-02.png)
 
 ```xml
 <flow>
@@ -48,7 +48,7 @@ tanımından yeni bir `processInstance` oluşturulur. Kullanıcı sipariş kayı
 çalışan `yeniKayitYaratAction`’ı içerisinde ise `flow`’daki `Siparis` nesnesini JBPM `processInstance`’ına aktardıktan 
 sonra JBPM’e kaldığı state’den default transition ile devam etmesi için sinyal gönderip `processInstance`’ı save edilir.
 
-![](images/jbpm-swf-03.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-03.png)
 
 Sipariş kaydının ardından JBoss JBPM Admin Console’u vasıtası ile sipariş `processInstance`’ı nı incelediğimizde iş 
 akışının stok kontrol ve bütçe kontrol tasklarında beklediğini görürüz. Bu aşamada stok kontrol ve bütçe kontrol 
@@ -58,7 +58,7 @@ tasklarının atandığı kullanıcıların sisteme giriş yapıp üzerlerine at
 
 Web uygulamamızda kullanıcılara atanmış JBPM `task`’larının listelenmesini sağlayan bir `flow` geliştirdik.
 
-![](images/jbpm-swf-04.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-04.png)
 
 ```xml
 <flow> 
@@ -75,7 +75,7 @@ Web uygulamamızda kullanıcılara atanmış JBPM `task`’larının listelenmes
 `isListesi``flow`’u başladığında o andaki kullanıcıya atanmış taskları `workflowService` `bean`’ı aracılığı ile listelenir.
 Kullanıcı listeden herhangi bir `task`’ı seçtiği vakit ise o `task`’a karşılık gelen SWF `flow`’una yönlendirilir.
 
-![](images/jbpm-swf-05.png)
+![](http://kenansevindik.com/assets/images/jbpm-swf-05.png)
 
 Süreci örnek üzerinden anlatmaya bir sonraki yazımda devam edeceğim.
 

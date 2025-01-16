@@ -4,7 +4,7 @@ by day information about this year's workouts, and other interesting happenings 
 consisted mainly of University, Conference, BOF, Quicky sessions and lasted 5 days between 12th and 16th of December.
 
 
-|  ![](images/me_faruk_hasan_at_javapolis.jpg) | ![](images/me_wearing_java_10th_year_tshirt2.jpg)  |
+|  ![](http://kenansevindik.com/assets/images/me_faruk_hasan_at_javapolis.jpg) | ![](http://kenansevindik.com/assets/images/me_wearing_java_10th_year_tshirt2.jpg)  |
 |---|---|
 | Kenan Sevindik, H. Faruk Safi, and Hasan Türksoy  | Kenan Sevindik  |
 
@@ -15,7 +15,7 @@ anyone who works on enterprise software system development and deployment. He de
 items from his samely named book, in such a funny and laughing manner that, at the end of the presentation, we all decided 
 that this book is a must-read for all enterprise software developers.
 
-| ![](images/kenan_and_ted_neward.jpg)  | ![](images/ted_neward_sql_injection_security_s.jpg)  |
+| ![](http://kenansevindik.com/assets/images/kenan_and_ted_neward.jpg)  | ![](http://kenansevindik.com/assets/images/ted_neward_sql_injection_security_s.jpg)  |
 |---|---|
 | Kenan Sevindik, Ted Neward  | Ted Neward, during his presentation, showing sql injection attack  |
 
@@ -26,7 +26,7 @@ are about xsd enabled xml bean definitions, xml tags for commonly used elements 
 define and use custom bean tags, new AOP support, included in Spring, with newest aspect-oriented programming capabilities, 
 using AspectJ directly with Spring Framework, and about synchronous and asynchronous JMS messaging support.
 
-| ![](images/rob_juergen_me.jpg)  |  ![](images/rob_juergen_nurettin.jpg) |
+| ![](http://kenansevindik.com/assets/images/rob_juergen_me.jpg)  |  ![](http://kenansevindik.com/assets/images/rob_juergen_nurettin.jpg) |
 |---|---|
 | Rob Harrop, Jürgen Höller, Kenan Sevindik  | Rob Harrop, Jürgen Höller, Nurettin Çetinkaya  |
 
@@ -50,7 +50,7 @@ Thomas also said that, it was possible to replace JSF with any other web framewo
 framework, and application server just with Tomcat for example, but there were no solid indicators of those promises in 
 the scene as far as Seam's short life was considered.
 
-|  ![](images/javapolis_audience.jpg) | ![](images/javapolis_booth2.jpg)  |
+|  ![](http://kenansevindik.com/assets/images/javapolis_audience.jpg) | ![](http://kenansevindik.com/assets/images/javapolis_booth2.jpg)  |
 |---|---|
 | JavaPolis 2005 attendees  | Scene from JavaPolis Booths  |
 
@@ -68,7 +68,7 @@ performance really deserved a big applause. Well, actually, I wasn't able to cor
 anyway the whole talk was very entertaining. They had worn blue worker dressings and were looking in them like auto mechanics. 
 What about calling them as "heavy java workers with blue collars"?
 
-| ![](images/javapolis_spoonsutra.jpg)  |
+| ![](http://kenansevindik.com/assets/images/javapolis_spoonsutra.jpg)  |
 |---|
 |JavaPolis 2005 Spoonsutra :)|
 

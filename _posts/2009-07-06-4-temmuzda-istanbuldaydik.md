@@ -2,7 +2,7 @@
 CETÜRK bünyesinde düzenlediğimiz etkinliklerin devamında **4 Temmuz 2009 Cumartesi günü İstanbul’daydık**. Aslında bu 
 etkinlik `13 Haziran’da` Ankara’da düzenlediğimiz `Java Teknolojileri Etkinliği`’nin bir tekrarı oldu.
 
-| ![](images/ceturk-ist-01.jpeg) | ![](images/ceturk-ist-02.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ist-01.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ist-02.jpeg) |
 |--------------------------------|--------------------------------|
 
 
@@ -20,7 +20,7 @@ boyutta, nitelikli organizasyonlar düzenleyebilmek için sponsor desteğinin ö
 bu tür etkinliklere cüzi de olsa verdikleri destek kendilerine çok daha büyük oranlarda pozitif bir imaj ve reklam olarak 
 geri dönüyor.
 
-| ![](images/ceturk-ist-03.jpeg) | ![](images/ceturk-ist-04.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk-ist-03.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk-ist-04.jpeg) |
 |--------------------------------|--------------------------------|
 
 Bence firmalar kendi bünyelerinde, çalışma mekanlarında da dışarıdan katılıma açık benzer etkinlikler düzenlemeliler. Bu 

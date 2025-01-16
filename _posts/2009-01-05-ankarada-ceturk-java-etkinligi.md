@@ -3,14 +3,14 @@ Cumartesi günü CETURK’ün Ankara’da düzenlediği Java etkinliğine konuş
 `Murat Aydın`, `Ahmet Pirimoğlu` ve `Mehmet Aca` arkadaşlarımıza, Çankaya Üniversitesi’nden `Abdülkadir Görür`’e ve bu 
 organizasyona emeği geçen diğer herkese teşekkür etmek istiyorum.
 
-| ![](images/ceturk_2009_me_1.jpeg)  | ![](images/ceturk_2009_me_2.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk_2009_me_1.jpeg)  | ![](http://kenansevindik.com/assets/images/ceturk_2009_me_2.jpeg) |
 |---|-----------------------------------|
 
 Etkinlik bir günlük olmasına rağmen, bence çok verimli ve doyurucu oldu. Konuşmacıların sunumlarının her birisinden 
 katılan herkesin yeni ve faydalı birşeyler öğrendiğini düşünüyorum. Umarım bundan sonra da Ankara’da benzer aktivitelerin 
 gerçekleşmesi mümkün olur.
 
-| ![](images/ceturk_2009_me_3.jpeg) | ![](images/ceturk_2009_me_4.jpeg) |
+| ![](http://kenansevindik.com/assets/images/ceturk_2009_me_3.jpeg) | ![](http://kenansevindik.com/assets/images/ceturk_2009_me_4.jpeg) |
 |-----------------------------------|-----------------------------------|
 
 Konuşmamla ilgili dokümanları CETURK’e gönderdim. Ayrıca bu dokümanlara aşağıdaki linklerden de erişebilirsiniz.

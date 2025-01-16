@@ -1,6 +1,6 @@
 # Java Garbage Collector'da Beynimiz Gibi Çalışıyor
 
-![](images/java_garbage_collector_01.jpeg)
+![](http://kenansevindik.com/assets/images/java_garbage_collector_01.jpeg)
 
 Eğer birisi size bu sabah kahvaltıda yediklerini say dese, ya da dün karşılaştığınız telefon numaralarından birisini 
 hatırlamanızı istese büyük ihtimalle her ikisine de cevap vermekte oldukça zorlanacaksınız, muhtemelen de cevap 
@@ -20,7 +20,7 @@ oluşturulan nesnelerin %80-90’ının çok kısa ömürlü oldukları istatist
 içerisindeki çoğu nesneye sadece çok kısa süreliğine ihtiyaç duyuyoruz, işimizi halleder etmez de bu nesneleri bir daha 
 görmek dahi istemiyoruz.
 
-![](images/java_garbage_collector_02.png)
+![](http://kenansevindik.com/assets/images/java_garbage_collector_02.png)
 
 Java hafıza havuzu (JVM heap) belirli bölgelere ayrılmıştır. Nesneler öncelikle `young generation` olarak adlandırılan 
 bölgede yaratılırlar. Garbage collector belirli periyotlarda devreye girerek `young generation`da bulunan nesnelere 

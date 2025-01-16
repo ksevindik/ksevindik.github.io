@@ -1,6 +1,6 @@
 # JPA/Hibernate Pratikleri ve Püf Noktaları
 
-![](images/jpa_hibernate_tips_tricks.png)
+![](http://kenansevindik.com/assets/images/jpa_hibernate_tips_tricks.png)
 
 Yaklaşık 2004 yılından bu yana önce Hibernate sonra da JPA üzerinde çalışıyorum. O dönemden bu yana pek çok projenin 
 geliştirilmesinde görev aldım, danışmanlık ve mentörlük yaptım. Yıllar önce Ted Neward, ORM teknolojilerini bilgisayar 

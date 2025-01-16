@@ -1,6 +1,6 @@
 # Yine Yeniden Aikido
 
-![](images/aikido_scott.jpeg)
+![](http://kenansevindik.com/assets/images/aikido_scott.jpeg)
 
 Scott Sensei’nin ayağındaki bir rahatsızlıktan dolayı yaklaşık bir aydır Aikido çalışmalarımıza ara vermiştik. Sonunda 
 yarın tekrar dojomuza ve çalışmalarımıza geri dönüyoruz. Scott Evans ile Aikido çalışmak bizim için büyük bir şans. 

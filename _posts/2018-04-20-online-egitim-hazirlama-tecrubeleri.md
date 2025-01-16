@@ -32,7 +32,7 @@ olduğu gibi birebir online ortama taşıyarak sunmayı imkansız kılıyor.
 
 Paylaşımıma online eğitimleri kaydetmek için nasıl bir ortam oluşturduğumuzu anlatarak devam etmek istiyorum.
 
-<img height="300" src="images/chroma_key_perde.png" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/chroma_key_perde.png" width="300"/>
 
 Eğitim içeriğini kaydetmek ve daha sonrasında üzerinde değişiklikler yapabilmek için birkaç aracı ve programı temin etmek 
 ve kurmak gerekti. Bunlardan birisi chroma key perdesi idi. Çektiğimiz eğitim videolarında eğitmenin görüntüsünün yer 
@@ -44,7 +44,7 @@ yapabiliyorlar. Böylece video’da sadece eğitmenin görüntüsünden başka a
 almamış oluyor.  Ayrıca transparan bu bölümlerin altında kalan yazı, grafik gibi kısımlarda arka plan transparan olduğu 
 için rahatlıkla okunur kalıyor.
 
-<img height="300" src="images/obs.png" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/obs.png" width="300"/>
 
 Video kayıt programı olarak açık kaynak kodlu OBS uygulamasını tercih ettik. OBS gerçekten profesyonel ayarda ve pek çok 
 farklı senaryoyu destekleyecek kabiliyette bir screencasting aracı. Benden tam puan aldı diyebilirim. OBS ile farklı 
@@ -95,7 +95,7 @@ Gain: 10,20 dB
 Ayrıca Settings>Hotkeys bölümünden start/stop recording ve scene switch’leri için hotkey tanımlamak da çekimler sırasında 
 kullanımı oldukça pratik hale getiriyor.
 
-<img height="300" src="images/tripod.jpg" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/tripod.jpg" width="300"/>
 
 Kamera olarak laptop üzerindeki built-in HD kamerayı kullandım. Ancak harici bir kamera veya webcam kullanacaksanız, yada
 cep telefonunuzu kamera olarak bilgisayarınıza bağlayacaksanız bir tripod’a ihtiyacınız olacak. Bu noktada çekim sırasında 
@@ -108,7 +108,7 @@ kendiliğinden kapanması oldu. Muhtemelen bu cep telefonunun inaktif kalması i
 ayar ile çözülebilirdi, ancak laptop üzerindeki built-in kameranın HD olduğunu gördükten sonra onu kullanmak daha pratik 
 ve kolay geldi.
 
-<img height="300" src="images/mic.jpg" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/mic.jpg" width="300"/>
 
 Mikrofon olarak USB üzerinden bağlanan Trust 20378 modelini tercih ettim. Ses kalitesi gayet güzel. Yalnız Linux üzerinden 
 çalıştırırken biraz zorlandım. Bunun nedeni benim harici mikrofonların, mikrofon ve kulaklık girişi combo olan dizüstü 
@@ -132,7 +132,7 @@ ve solunda siyah şeritler ortaya çıkınca bu hatamın farkına vardım. Allah
 slide’ların içeriğinde çok büyük kaymalar olmadı, birkaç slide’da meydana gelen format problemlerini düzelterek bu sorunu 
 aşmış oldum.
 
-<img height="300" src="images/openshot.png" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/openshot.png" width="300"/>
 
 OBS ile çekilen video’ları ham video’lar olarak tanımlayabiliriz. Çünkü bu video’ların başında veya sonunda istemediğimiz 
 kısımlar olabiliyor, yada slide’ları anlatırken hatalar oluyor ve belirli bölümleri tekrar anlatıyoruz veya daha sonra 
@@ -155,7 +155,7 @@ Progressive: Yes
 Export alırken de açılan dialogda Target olarak MP4 (h.264) , Quality olarak da High seçeneklerini seçtiğimizde gayet 
 kaliteli ve sıkıştırılmış bir mp4 çıktısı elde edebildim.
 
-<img height="300" src="images/telekast.jpg" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/telekast.jpg" width="300"/>
 
 Slide üzerinde konuşurken yapılan çekimde konuşmanın akıcılığını sağlamak için bir prompter kullanmayı düşündüm. Bunun 
 için Internet’te bir arama yaptığımda karşıma [TeleKast](http://telekast.sourceforge.net/) isimli browser üzerinden çalışan 

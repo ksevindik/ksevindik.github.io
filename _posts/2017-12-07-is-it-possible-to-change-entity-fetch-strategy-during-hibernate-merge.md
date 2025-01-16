@@ -1,6 +1,6 @@
 # Is It Possible To Change Entity Fetch Strategy During Hibernate Merge?
 
-![](images/hibernate_sherlock_holmes.jpg)
+![](http://kenansevindik.com/assets/images/hibernate_sherlock_holmes.jpg)
 
 When I talk with my colleague about my experience with Hibernate [merge behavior on lazy associations](http://www.kenansevindik.com/more-about-eager-initialization-of-lazy-associations-during-hibernate-merge/) 
 with cascade type `merge`, he suggested me to check if Hibernate allows us to change fetch logic it applies on detached 

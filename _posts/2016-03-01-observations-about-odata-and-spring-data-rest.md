@@ -84,7 +84,7 @@ public void readEntity(ODataRequest request, ODataResponse response, UriInfo uri
 }
 ```
 
-![](images/odata_spring_rest_01.png)
+![](http://kenansevindik.com/assets/images/odata_spring_rest_01.png)
 
 Finally, you need to write an `ODataServlet` in which you bring those pieces together and handle the current web request. 
 `ODataServlet`, Processors and OData service gateway can be seen as composing a Controller layer altogether.
@@ -115,7 +115,7 @@ public class ODataServlet extends HttpServlet {
 }
 ```
 
-![](images/odata_spring_rest_02.png)
+![](http://kenansevindik.com/assets/images/odata_spring_rest_02.png)
 
 
 The end result is just exposing domain/data model over REST in a standard format/structure. OData specification tries to 

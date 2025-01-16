@@ -12,7 +12,7 @@ uygulaması içerisinde çoğu zaman bir tane tanımlansa bile, gerektiği durum
 yapılabilir. Bu durumda her bir DispatcherServlet instance’ının kendine ait bir Spring Container’ı olduğu gibi, bütün bu 
 container nesneleri ContextLoaderListener tarafından oluşturulan WebApplicationContext’in child container’ı durumundadır.
 
-![](images/spring_container_hierarchy.png)
+![](http://kenansevindik.com/assets/images/spring_container_hierarchy.png)
 
 Yukarıdaki diagramda da görüldüğü gibi birden fazla ApplicationContext instance’ı uygulamanın farklı katmanlarındaki 
 Spring bileşenlerini yönetmek için ideal bir yapı sunmaktadır. Web katmanına ait olan controller, view gibi bileşenler 

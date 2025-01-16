@@ -1,6 +1,6 @@
 # Korkunun Ecele Faydası Yok Derler
 
-![](images/me_tenis.jpeg)
+![](http://kenansevindik.com/assets/images/me_tenis.jpeg)
 
 Uzun zamandır tenis oynuyorum. Her fırsatta profesyonel oyuncuların katıldıkları turnuvaları izlemeye çalışırım. İlk yılı 
 hariç İstanbul Cup’ı kaçırmadım ve orada pekçok profesyonel oyuncuyu yakından izleme fırsatı buldum. Zaman içerisinde 
@@ -15,7 +15,7 @@ odağı olma, insanların merkezinde yer alma durumu ona manevi olarak daha zor 
 seyrederken dikkatimi çeken en ilginç şey, tekniklerinde çok büyük farklar olmamasına rağmen bir oyuncuyu yıldız yapan 
 ve diğerini sıradan bir oyuncu olarak bırakan psikolojik nedenlerden biri olarak bunu gördüm diyebilirim.
 
-![](images/acun_varmisin_yokmusun.jpeg)
+![](http://kenansevindik.com/assets/images/acun_varmisin_yokmusun.jpeg)
 
 Yukarıda bahsettiğim psikolojik olgu ile birebir olmasa bile yine de bir bağlantısı olduğunu düşündüğüm bir durumu da 
 yakın zamanda tv’deki bir yarışma programında gözlemledim. Acun Ilıcalı’nın “Var mısın, Yok musun” yarışma programının 

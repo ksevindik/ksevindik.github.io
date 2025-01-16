@@ -9,7 +9,7 @@ composite örüntü de bu özyinelemeli tekrar üzerine kuruludur. Composite ör
 alınmasında ve istemcinin en alt düzeydeki bileşen ile composite bileşenlere aynı şekilde davranması gerektiği 
 durumlarda çok kullanışlıdır.
 
-![](images/fraktal_composite.png)
+![](http://kenansevindik.com/assets/images/fraktal_composite.png)
 
 Bu örüntüdeki kritik nokta, en alt düzeydeki bileşen ile composite bileşenlerin aynı soyutlamaya tabi tutulmasıdır. 
 Aşağıda composite örüntünün sınıf diagramını görüyorsunuz. Composite örüntü GOF’da yapısal bir örüntü olarak 

@@ -25,7 +25,7 @@ is really correct. He asked that; shouldn’t we call it a Strategy instead? Wel
 Template Method patterns are very similar in their behavioural aspects. Indeed, we can call them cousins with some slightly 
 different characteristics. They both try to encapsulate an algorithm. However, they vary in how that encapsulation is achieved.
 
-![](images/strategy_vs_template_method_01.png)
+![](http://kenansevindik.com/assets/images/strategy_vs_template_method_01.png)
 
 The Strategy pattern encapsulates the algorithm using object composition or delegation. The subject depends on the `Strategy` 
 interface, and a concrete implementation of the Strategy is chosen and invoked based on decisions made at runtime. That way, 
@@ -57,7 +57,7 @@ In the above code sample, `AuthenticationProvider` depends on `UserService` in o
 which queries `User` by username from different user realms. Any of those concrete implementations can be injected into 
 `AuthenticationProvider` at runtime.
 
-![](images/strategy_vs_template_method_02.png)
+![](http://kenansevindik.com/assets/images/strategy_vs_template_method_02.png)
 
 On the other hand, the Template Method pattern handles encapsulation of the algorithm and selection of it at compile time, 
 usually based on inheritance. It fixes the main steps of the algorithm in a base class, called the Template Method class, 

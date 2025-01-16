@@ -23,7 +23,7 @@ Ne Chrome, ne Firefox, ne de IE pazara tek başına hakim olabilir. Ancak Google
 yaygınlığı vasıtası ile Chrome’u ve dolayısı ile ona has yenilikleri web dünyasının önüne koyup, tarayıcıların kabiliyetleri 
 açısından istediği ortamı oluşturmayı hedefliyor.
 
-![](images/google_chrome.jpeg)
+![](http://kenansevindik.com/assets/images/google_chrome.jpeg)
 
 Yukarıdaki resmi Chrome’u anlatan cizgi roman içinden aldım. Bu resimde de anlatılmak istenen tarayıcının kullanıcı ile 
 uygulamalar arasında tamamen transparan bir ortam haline gelmesidir. “We don’t want to interruptanything the user is 

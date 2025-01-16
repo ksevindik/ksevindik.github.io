@@ -5,7 +5,7 @@ Mehmet Aca'ya, Yazılım Kulübü'nden Hakkı, Selçuk, Sinan ve Olcay arkadaşl
 üniversite yönetimine teşekkür ederim. Küçük aksaklıklar olsa da arkadaşlar Kıbrıs için çok güzel ve yararlı bir 
 etkinliği gayet başarılı biçimde organize ettiler.
 
-![](images/ceturk-09-01.jpeg)
+![](http://kenansevindik.com/assets/images/ceturk-09-01.jpeg)
 
 Etkinliğin ikinci günü yaptığım sunumda `Spring Security Framework`'ten bahsettim. `Spring Security Framework` daha 
 öncesinde `Acegi Security Framework` adı ile biliniyordu, ancak Spring dünyasında gördüğü ilgi ve yaygın kullanımı 
@@ -32,7 +32,7 @@ kendilerini geliştirmeleri gereken noktalardan bahsettik. Bunun yanında biliş
 bunlarla ilgili tartışma fırsatımız da oldu. Yaklaşık bir saat süren panel sanırım herkes için oldukça doyurucu bir 
 aktivite oldu.
 
-![](images/ceturk-09-02.jpeg)
+![](http://kenansevindik.com/assets/images/ceturk-09-02.jpeg)
 
 Doğu Akdeniz Üniversitesi'nde düzenlenen bu etkinliğe katılanların neredeyse hepsi Kıbrıs'taki değişik üniversitelerde 
 okuyan öğrenci arkadaşlarımızdı. Daha önce CETÜRK'ün Ankara Çankaya Üniversitesi'nde düzenlediği etkinlikte de gözlediğim 

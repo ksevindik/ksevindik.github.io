@@ -6,7 +6,7 @@ tabanlı bir mimari üzerine bina etmek oldukça kolaydır. Spring container kur
 yapabilir. Uygulama içerisindeki farklı modüller, birbirleri ile event tabanlı olarak loose-coupled biçimde entegre 
 olabilirler. **ApplicationContext**, modüller arasında iletişim ortamı, bir başka deyişle **Mediator** rolünü üstlenmektedir.
 
-![](images/spring_event_bus.png)
+![](http://kenansevindik.com/assets/images/spring_event_bus.png)
 
 Spring tarafından yönetilen **bean**’lar iş akış sürecinde meydana gelen bir takım event’leri **ApplicationContext** 
 vasıtası ile publish ederler. Bu event’ler **ApplicationEvent** sınıfından extend etmelidir. Yine Spring tarafından 

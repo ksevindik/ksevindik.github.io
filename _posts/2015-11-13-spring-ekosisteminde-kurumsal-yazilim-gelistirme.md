@@ -5,7 +5,7 @@ Ekosisteminde Kurumsal Yazılım Geliştirme isimli bir sunum yaptık. Katılım
 uygulamaların özellikleri ve orta katman ihtiyaçları ile ilgili kısa bir bilgilendirmenin ardından demo ağırlıklı 
 gerçekleştirdik.
 
-![](images/ulakbim_spring_01.jpeg)
+![](http://kenansevindik.com/assets/images/ulakbim_spring_01.jpeg)
 
 
 Harezmi Bilişim Çözümleri olarak düzenlediğimiz “Kurumsal Java Eğitimleri”nde sürekli olarak kullandığımız petclinic 
@@ -13,7 +13,7 @@ Harezmi Bilişim Çözümleri olarak düzenlediğimiz “Kurumsal Java Eğitimle
 ApplicationContext nasıl yaratılır ve kullanılır ile başlayarak Spring’in sağladığı pek çok kabiliyeti adım adım 
 örnekledik.
 
-![](images/ulakbim_spring_02.jpeg)
+![](http://kenansevindik.com/assets/images/ulakbim_spring_02.jpeg)
 
 Bu örnekler arasında Spring ile entegrasyon birim testleri, JDBC ile veri erişim kabiliyetleri nelerdir, transaction 
 yönetimi, servis metotları düzeyinde cache’leme ve validasyon kabiliyetleri, aspect oriented programlamada Spring’in 

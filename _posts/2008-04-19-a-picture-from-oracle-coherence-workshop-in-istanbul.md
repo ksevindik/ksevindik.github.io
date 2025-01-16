@@ -1,6 +1,6 @@
 # A Picture From Oracle Coherence Workshop in Istanbul
 
-![](images/me_andras_at_coherence_workshop.jpeg)
+![](http://kenansevindik.com/assets/images/me_andras_at_coherence_workshop.jpeg)
 
 We had a very nice 3-day `OracleCoherenceWorkshop` in Istanbul last month. `AndrasJokuthy` from Hungary was next to me 
 during this event. We chatted about Istanbul, Hungary, traffic jams, life in two countries, and about weather and water, 

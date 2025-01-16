@@ -1,7 +1,7 @@
 # Spring JavaConfig ve Döngüsel Bağımlılıklar
 
-![](images/spring_javaconfig_circularity_01.png)
-![](images/spring_javaconfig_circularity_02.png)
+![](http://kenansevindik.com/assets/images/spring_javaconfig_circularity_01.png)
+![](http://kenansevindik.com/assets/images/spring_javaconfig_circularity_02.png)
 
 Sonda söyleyeceğimiz daha baştan söyleyerek başlayalım. Aslında en doğrusu döngüsel bağımlılıklardan tamamen kaçınmak. 
 Ancak zaman zaman karşımıza doğrudan veya dolaylı olarak Java nesneleri arasında döngüsel bağımlılık ihtiyacı çıkabiliyor.

@@ -104,7 +104,7 @@ where
 foo0_.id=?
 ```
 
-![](images/hibernate_shoot_yourself.jpg)
+![](http://kenansevindik.com/assets/images/hibernate_shoot_yourself.jpg)
 
 After playing with Hibernate for about more than a decade, I strongly feel that it is much better and safer to consider 
 ORM in general, Hibernate in particular only as an advanced SQL mapper, nothing more. Quite a few features of ORM tools 

@@ -1,6 +1,6 @@
 # EhCache Configuration in Replicated Mode
 
-<img height="300" src="images/cache_peers.png" width="300"/>
+<img height="300" (src="http://kenansevindik.com/assets/images/cache_peers.png" width="300"/>
 
 In cluster environments, you can configure EhCache in two different topologies, one is distributed, and the other is 
 replicated. In replicated mode, each EhCache instance in the network acts as a peer. There is no master cache. Instances 

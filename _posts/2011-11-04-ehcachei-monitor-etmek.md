@@ -5,7 +5,7 @@ EhCache özellikle Hibernate’deki ikincil önbellek kabiliyetini sağlamak iç
 
 1. Yol: EhCache Monitor Uygulamasını Kullanabiliriz
 
-![](images/ehcache_monitor_01.png)
+![](http://kenansevindik.com/assets/images/ehcache_monitor_01.png)
 
 Öncelikle Terracotta firması tarafından geliştirilen ve geliştirme amaçlı olarak ücretsiz kullanılabilen ehcache-monitor 
 uygulaması Terracotta sitesinden indirilmelidir. Monitor uygulaması web uygulaması olarak çalıştırılarak değişik 
@@ -38,7 +38,7 @@ en basit şekli ile bunu nasıl yapabileceğimiz gösterilmektedir.
 MBeanServer mBeanServer = ManagementFactory.getPlatformMBeanServer();
 ManagementService.registerMBeans(cacheManager,mBeanServer,true,true,true,true);
 ```
-![](images/ehcache_monitor_02.png)
+![](http://kenansevindik.com/assets/images/ehcache_monitor_02.png)
 
 Öncelikle JRE’deki MBean sunucusuna erişilmelidir. Ardından EhCache’in ManagementService sınıfı aracılığı ile cacheManager 
 nesnesi mBeanServer’a register edilir. Boolean input argümanları CacheManager, Cache, CacheConfiguration, CacheStatistics 
