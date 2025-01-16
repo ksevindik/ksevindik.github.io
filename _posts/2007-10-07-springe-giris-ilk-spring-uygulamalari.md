@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring’e Giriş:: İlk Spring Uygulamaları
+title: Spring’e Giriş; İlk Spring Uygulamaları
 author: Kenan Sevindik
 ---
 

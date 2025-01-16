@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Konfigürasyonu:: XML mi, Annotasyonlar mı, Yoksa Java mı?
+title: Spring Konfigürasyonu; XML mi, Annotasyonlar mı, Yoksa Java mı?
 author: Kenan Sevindik
 ---
 
