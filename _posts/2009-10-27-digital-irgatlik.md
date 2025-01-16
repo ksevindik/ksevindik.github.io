@@ -1,4 +1,8 @@
-# Düpedüz Siber Irgatlık Bu!
+---
+layout: post
+title: Düpedüz Siber Irgatlık Bu!
+author: Kenan Sevindik
+---
 
 İnsanlar yüzyıllar boyunca para yahut üründen belirli bir pay karşılığı veya sadece karın tokluğuna toprak sahiplerinin 
 tarlalarında, bağ ve bahçelerinde çalışmışlardı. Bu kimselerin kendilerine ait işleyecekleri, ekip biçecekleri bir toprak 

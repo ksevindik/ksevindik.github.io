@@ -1,4 +1,8 @@
-# Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java Teknolojileri Hacettepe Sunumu
+---
+layout: post
+title: Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java Teknolojileri Hacettepe Sunumu
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/me_2008_hacettepe_sunum.jpeg)
 

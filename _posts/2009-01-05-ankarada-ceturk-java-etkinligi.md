@@ -1,4 +1,8 @@
-# Ankara’da CETURK Java Etkinliği
+---
+layout: post
+title: Ankara’da CETURK Java Etkinliği
+author: Kenan Sevindik
+---
 Cumartesi günü CETURK’ün Ankara’da düzenlediği Java etkinliğine konuşmacı olarak katıldım. Öncelikle CETURK ekibinden 
 `Murat Aydın`, `Ahmet Pirimoğlu` ve `Mehmet Aca` arkadaşlarımıza, Çankaya Üniversitesi’nden `Abdülkadir Görür`’e ve bu 
 organizasyona emeği geçen diğer herkese teşekkür etmek istiyorum.

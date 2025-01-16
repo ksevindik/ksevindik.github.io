@@ -1,4 +1,8 @@
-# İnternet’te Psikoterapi
+---
+layout: post
+title: İnternet’te Psikoterapi
+author: Kenan Sevindik
+---
 
 İnternet’i gerçek yaşamdan farklı kılan en temel özelliklerinden birisi de kullanıcılarının kimliklerini gizleyebilmesidir. 
 Bunun yanında İnternet özünde kullanıcıların, aksi bir durum söz konusu olmadığı takdirde, ilan ettikleri kimliğe sahip 

@@ -1,4 +1,8 @@
-# Spring Security ile Aynı Kullanıcının Oturum Sayısını Yönetmek
+---
+layout: post
+title: Spring Security ile Aynı Kullanıcının Oturum Sayısını Yönetmek
+author: Kenan Sevindik
+---
 
 Spring Security kurumsal web uygulamaları için kapsamlı bir güvenlik framework’üdür. Kurumsal web uygulamalarında karşımıza 
 çıkan pek çok kimliklendirme ve yetkilendirme ihtiyacına hazır bir çözümü içermektedir. Bu ihtiyaçlardan birisi de aynı 

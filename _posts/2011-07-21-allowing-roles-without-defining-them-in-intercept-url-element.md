@@ -1,4 +1,8 @@
-# Allowing roles without defining them in intercept-url element
+---
+layout: post
+title: Allowing roles without defining them in intercept-url element
+author: Kenan Sevindik
+---
 
 Spring Security Framework has lots of authentication and authorization features, and almost all of them can be customized 
 and extended according to your own needs. One of the common requests I come up with is that developers don’t want to 

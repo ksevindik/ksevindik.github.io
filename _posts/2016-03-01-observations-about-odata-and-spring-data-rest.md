@@ -1,4 +1,8 @@
-# Observations about OData and Spring Data REST
+---
+layout: post
+title: Observations about OData and Spring Data REST
+author: Kenan Sevindik
+---
 
 Recently I had a chance to spend some time reading about OData and experiment with Apache OLingo Project in order to 
 understand what OData provides us with in terms of making our REST services more standardized and self-discoverable. 

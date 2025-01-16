@@ -1,4 +1,8 @@
-# Hibernate Nedir?
+---
+layout: post
+title: Hibernate Nedir?
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/what_is_hibernate.jpeg)
 

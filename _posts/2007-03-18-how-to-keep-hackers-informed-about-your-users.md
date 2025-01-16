@@ -1,4 +1,8 @@
-# How to keep hackers informed about your users!?
+---
+layout: post
+title: How to keep hackers informed about your users!?
+author: Kenan Sevindik
+---
 Application developers usually tend to be as specific as possible when providing information about unexpected errors that 
 occur during runtime. Most of the time, this approach is good, but it may not be suitable for all use cases. The user login 
 scenario is one of those exceptions. When a user provides insufficient or invalid credentials, or when a user account is 

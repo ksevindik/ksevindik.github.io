@@ -1,4 +1,8 @@
-# How to Customize Dirty Check Mechanism of Hibernate During Flush
+---
+layout: post
+title: How to Customize Dirty Check Mechanism of Hibernate During Flush
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/comparing.png)
 

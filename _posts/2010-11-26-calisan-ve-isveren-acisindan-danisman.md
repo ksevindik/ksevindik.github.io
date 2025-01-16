@@ -1,4 +1,8 @@
-# Çalışan ve İşveren Açısından Danışman
+---
+layout: post
+title: Çalışan ve İşveren Açısından Danışman
+author: Kenan Sevindik
+---
 
 Sanırım bizim sektörümüzde danışman terimi için herkesin kafasında farklı bir imaj beliriyor. Çalışanlar açısından danışman 
 demek çoğu zaman akıl vererek para kazanmak anlamına geliyor. Danışmanlık yapmak elini taşın altına koymadan, siz 

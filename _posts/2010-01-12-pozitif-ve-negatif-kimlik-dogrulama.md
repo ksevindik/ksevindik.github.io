@@ -1,4 +1,8 @@
-# Pozitif ve Negatif Kimlik Dogrulama
+---
+layout: post
+title: Pozitif ve Negatif Kimlik Dogrulama
+author: Kenan Sevindik
+---
 
 Geçenlerde katıldığım bir eğitimde gördüğüm bir kod parçası üzerinde birkaç noktayı sizinle paylaşmak istiyorum. Eğitimde 
 bir web uygulamasına login olmaya çalışan kullanıcıların kimlik denetimlerinin pozitif ve negatif kimlik doğrulama 

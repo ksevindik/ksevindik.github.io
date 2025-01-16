@@ -1,4 +1,8 @@
-# Configuring web.xml According to Target Deployment Platform
+---
+layout: post
+title: Configuring web.xml According to Target Deployment Platform
+author: Kenan Sevindik
+---
 It is a very common requirement to configure JEE web applications according to their current runtime environment. In JEE, 
 the `web.xml` file is aimed to be the configuration unit of those web applications. Unfortunately, it is not designed 
 with such a requirement in mind.

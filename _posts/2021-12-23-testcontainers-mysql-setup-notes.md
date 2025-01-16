@@ -1,4 +1,8 @@
-# TestContainers  & MySQL Setup Notes
+---
+layout: post
+title: TestContainers  & MySQL Setup Notes
+author: Kenan Sevindik
+---
 
 Integration tests are one of the fundamental building blocks of the testing pyramid. By using integration tests, we try 
 to verify if our software components interact with each other and with their third-party external dependencies according 

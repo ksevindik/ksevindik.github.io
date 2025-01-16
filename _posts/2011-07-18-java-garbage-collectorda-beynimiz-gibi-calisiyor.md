@@ -1,4 +1,8 @@
-# Java Garbage Collector'da Beynimiz Gibi Çalışıyor
+---
+layout: post
+title: Java Garbage Collector'da Beynimiz Gibi Çalışıyor
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/java_garbage_collector_01.jpeg)
 

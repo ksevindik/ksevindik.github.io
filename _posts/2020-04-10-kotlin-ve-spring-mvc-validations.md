@@ -1,4 +1,8 @@
-# Kotlin ve Spring MVC Validations
+---
+layout: post
+title: Kotlin ve Spring MVC Validations
+author: Kenan Sevindik
+---
 
 Kurumsal Java dünyasında pek çok framework ve çözüm, kabiliyetleri ile ilgili metadata tanımlarını Java anotasyonları 
 şeklinde ele almaktadır. Bunlardan birisi de Java Bean Validation spesifikasyonudur. JSR-380 olarak da bilinen bu 

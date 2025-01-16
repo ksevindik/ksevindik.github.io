@@ -1,4 +1,8 @@
-# Spring AOP ile Performans Takibi
+---
+layout: post
+title: Spring AOP ile Performans Takibi
+author: Kenan Sevindik
+---
 
 Spring Application Framework’ün en sevdiğim özelliklerden birisi de aspect oriented programlamayı oldukça kolay yapılabilir 
 bir hale getirmesidir. Spring, hem kendi AOP framework’üne sahiptir, hem de AspectJ ile sağlam bir entegrasyon sunar. 

@@ -1,4 +1,8 @@
-# Spring Uygulamalarında Redis ile Transaction Yönetimi
+---
+layout: post
+title: Spring Uygulamalarında Redis ile Transaction Yönetimi
+author: Kenan Sevindik
+---
 
 [Spring Data Redis projesi](https://docs.spring.io/spring-data/redis/docs/current/reference/html/#reference)nin 
 “Redis Repositories” özelliği sayesinde domain nesnelerinin herhangi bir extra efor harcamadan “Redis” veritabanında 

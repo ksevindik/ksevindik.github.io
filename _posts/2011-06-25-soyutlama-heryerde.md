@@ -1,4 +1,8 @@
-# Soyutlama Heryerde
+---
+layout: post
+title: Soyutlama Heryerde
+author: Kenan Sevindik
+---
 
 Java programlama dili eğitimlerinde java ve object oriented programlama konularını anlatmaya soyutlama kavramı ile 
 başlıyorum. Neden mi? Çünkü soyutlama hemen her an gerçekleştirdiğimiz bir aktivite. Hayatın her yerinde ve her anında 

@@ -1,4 +1,8 @@
-# Kotlin ve Mockito (2)
+---
+layout: post
+title: Kotlin ve Mockito (2)
+author: Kenan Sevindik
+---
 
 Kotlin ve Mockito yazı dizimizin ilkinde Kotlin içerisinde Mockito ile mock nesneler oluştururken veya nesnelerimizi spy 
 yaparken Kotlin sınıflarımızın open olması gerektiğinden bahsetmiştik. Kotlinde Mockito kütüphanesi ile çalışırken

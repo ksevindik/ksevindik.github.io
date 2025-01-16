@@ -1,4 +1,8 @@
-# Auto Scanning JPA Entities
+---
+layout: post
+title: Auto Scanning JPA Entities
+author: Kenan Sevindik
+---
 Most of the time you will find JPA’s auto-scan mechanism for annotated entities very limited. It only scans paths 
 starting from the parent of `classpath:META-INF/` folder from which `persistence.xml` is loaded. If you want to use a 
 `persistence.xml` file located in a different place, for example, in a jar, your annotated entities won’t be scanned 

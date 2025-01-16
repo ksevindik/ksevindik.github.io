@@ -1,4 +1,8 @@
-# Adding New Permission Types to Spring Security ACL
+---
+layout: post
+title: Adding New Permission Types to Spring Security ACL
+author: Kenan Sevindik
+---
 
 Domain object level security is probably the least used feature of Spring Security compared to URL-based and method-level 
 security features for enterprise Java web applications. However, when you have a security requirement something like 

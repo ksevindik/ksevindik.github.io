@@ -1,4 +1,8 @@
-# What If Your Application is Accessed With Two Different IPs
+---
+layout: post
+title: What If Your Application is Accessed With Two Different IPs
+author: Kenan Sevindik
+---
 We have recently deployed one of our projects into the production environment. Our customer is located abroad, and we 
 perform deployments and acceptance tests over the Internet. They use the system within their local network by accessing 
 it from a fake IP, like `192.x.x.x`. In other words, our system is accessed from two different networks.

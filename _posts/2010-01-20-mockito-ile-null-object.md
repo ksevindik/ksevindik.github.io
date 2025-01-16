@@ -1,4 +1,8 @@
-# Mockito ile Null Object
+---
+layout: post
+title: Mockito ile Null Object
+author: Kenan Sevindik
+---
 
 Dün bir iş arkadaşımla bir monitoring kabiliyeti üzerinde çalışırken, kendisinin “Null Object” örüntüsünü kullandığını 
 gördüm. Hepimizin bildiği üzere Null Object örüntüsü, bizim kod içerisinde null referans ile karşılaşabilecek kısımların 

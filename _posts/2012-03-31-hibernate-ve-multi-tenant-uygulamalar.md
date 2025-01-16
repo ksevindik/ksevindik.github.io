@@ -1,4 +1,8 @@
-# Hibernate ve Multi-Tenant Uygulamalar
+---
+layout: post
+title: Hibernate ve Multi-Tenant Uygulamalar
+author: Kenan Sevindik
+---
 Internet’in yaygınlaşması ve uygulamaların web platformuna taşınması ile birlikte farklı organizasyonlara ait verilerin 
 tek bir sunucu uygulamasında yönetimi üzerine kurulu olan multi-tenant uygulamaların sayısı da gün gittikçe artıyor.
 

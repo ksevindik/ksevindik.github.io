@@ -1,4 +1,8 @@
-# Weird Autowiring Behaviour in Spring Framework
+---
+layout: post
+title: Weird Autowiring Behaviour in Spring Framework
+author: Kenan Sevindik
+---
 
 During lab sessions in our Enterprise Java trainings, I usually leave the main track of lab outlines and start trying 
 various cases related to the topic. It is a bit risky for me, but it also becomes beneficial for attendees in terms of 

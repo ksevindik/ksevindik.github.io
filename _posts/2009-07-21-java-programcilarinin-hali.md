@@ -1,4 +1,8 @@
-# Java Programcılarının Hali
+---
+layout: post
+title: Java Programcılarının Hali
+author: Kenan Sevindik
+---
 Geçenlerde Yakov Fain’in 5 java developer ile yaptığı mülakatlarla ilgili [yazısını](http://java.sys-con.com/node/1040135) 
 ve gelen yorumları ilgiyle okudum. 
 Fain, görüştüğü kişilerin kendilerini 5-8 yıllık tecrübeli denebilecek Java geliştiriciler olarak tanımladıklarını 

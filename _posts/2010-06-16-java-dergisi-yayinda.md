@@ -1,4 +1,8 @@
-# Java Dergisi Yayinda
+---
+layout: post
+title: Java Dergisi Yayinda
+author: Kenan Sevindik
+---
 
 Birkaç ay önce [Özcan Acar](http://www.ozcanacar.com/), [Java Dergisi](http://www.javadergisi.com/) çıkaracağını söylemiş, 
 bizim de yazı ile destek verip veremeyeceğimizi sormuştu. 

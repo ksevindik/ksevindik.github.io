@@ -1,4 +1,8 @@
-# AnkaSec09'un Ardından
+---
+layout: post
+title: AnkaSec09'un Ardından
+author: Kenan Sevindik
+---
 
 IstSec09’un ardından 24 Aralık’ta da AnkaSec09 düzenlendi. Gün boyu süren etkinlik içerik olarak gayet doyurucu idi. 
 Konuşmacı arkadaşlar da gerçekten güzel sunumlar gerçekleştirdiler. Etkinlikte yapılan sunumların dokümanlarına 

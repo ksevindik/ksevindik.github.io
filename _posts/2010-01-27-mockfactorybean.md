@@ -1,4 +1,8 @@
-# MockFactoryBean
+---
+layout: post
+title: MockFactoryBean
+author: Kenan Sevindik
+---
 
 Diyelim ki Spring application context dosyalarından birini yükleyerek entegrasyon birim testi gerçekleştirmek istiyorsunuz. 
 Ancak yüklediğiniz application context içerisindeki bean tanımlarından birisi başka bir application context içinde tanımlı 

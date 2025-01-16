@@ -1,4 +1,8 @@
-# Hibernate ve import.sql
+---
+layout: post
+title: Hibernate ve import.sql
+author: Kenan Sevindik
+---
 
 Hibernate’in dokümante edilmemiş özelliklerden birisi de import.sql kabiliyetidir. Eğer root classpath’e import.sql 
 isimli bir dosya eklerseniz ve bu dosya içerisine de SQL ifadeleri yazarsanız Hibernate şema export adımından sonra bu 

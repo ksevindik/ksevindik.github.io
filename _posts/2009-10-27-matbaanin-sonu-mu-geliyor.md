@@ -1,4 +1,8 @@
-# Matbaanın Sonu Mu Geliyor?
+---
+layout: post
+title: Matbaanın Sonu Mu Geliyor?
+author: Kenan Sevindik
+---
 
 Matbaanın Osmanlı’ya 300 yıl sonra gecikmeli olarak gelmesinin başlıca nedenlerinden biri olarak el yazmaları ile geçinen 
 hattatların işlerini kaybetme korkusu ile bu yeniliğe şiddetle karşı çıkmaları söylenir. Gerçekten de matbaa ile birlikte 

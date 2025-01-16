@@ -1,4 +1,8 @@
-# Cactus XOR Mocks or Cactus AND Mocks?
+---
+layout: post
+title: Cactus XOR Mocks or Cactus AND Mocks?
+author: Kenan Sevindik
+---
 We employ both Spring and Hibernate to implement the business and data access layers in our current project. Our aim is 
 to bring clear separation between those two layers. Beans in the business layer act as service entry points; they simply 
 realize our use case scenarios. They are also good candidates as start and endpoints for business transactions and 

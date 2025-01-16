@@ -1,4 +1,8 @@
-# Spring ve ApplicationContext Hiyerarşisi
+---
+layout: post
+title: Spring ve ApplicationContext Hiyerarşisi
+author: Kenan Sevindik
+---
 
 ## Parent-Child ApplicationContext’ler
 

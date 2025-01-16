@@ -1,4 +1,8 @@
-# Ankara’da CETURK Java Teknolojileri Etkinliği
+---
+layout: post
+title: Ankara’da CETURK Java Teknolojileri Etkinliği
+author: Kenan Sevindik
+---
 13 Haziran Cumartesi günü CETURK ODTÜ Kültür Kongre Merkezi'nde Java Teknolojileri etkinliği düzenliyor. Ocak ayındaki 
 etkinlik Çankaya Üniversitesi'de gerçekleşmişti ve oldukça verimli olmuştu. Bu seferki etkinlikte de yine ilginç konular 
 katılımcılara sunulacak.

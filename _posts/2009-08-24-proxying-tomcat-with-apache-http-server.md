@@ -1,4 +1,8 @@
-# Proxying Tomcat with Apache HTTP Server
+---
+layout: post
+title: Proxying Tomcat with Apache HTTP Server
+author: Kenan Sevindik
+---
 There is a bunch of step by step tutorials and good references about putting `Apache` in front of `Tomcat` around net. 
 Nevertheless, I wrote this article, mainly for myself, in case I come up with same requirement in sometime later.
 

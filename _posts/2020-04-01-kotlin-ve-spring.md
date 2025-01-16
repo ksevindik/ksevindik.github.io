@@ -1,4 +1,8 @@
-# Kotlin ve Spring
+---
+layout: post
+title: Kotlin ve Spring
+author: Kenan Sevindik
+---
 
 Kotlin deneyimlerimi paylaşmaya devam ediyorum. Bu yazımızda da Kotlin ile kurumsal yazılım geliştirirken Spring 
 Framework’ün kullanımından bahsedeceğim.

@@ -1,4 +1,8 @@
-# Spring Boot ve JSF
+---
+layout: post
+title: Spring Boot ve JSF
+author: Kenan Sevindik
+---
 
 Java Server Faces (JSF)’i başarısız bir UI framework olarak nitelediğimi değişik ortamlarda ve yazılarımda belirtmişimdir. 
 Ancak ne yapalım ki JSF sıkça kullanılan bir UI framework olarak karşımıza çıkıyor. Spring ekosisteminde JSF’i Spring 

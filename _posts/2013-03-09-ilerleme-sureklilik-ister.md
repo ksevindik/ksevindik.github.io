@@ -1,4 +1,8 @@
-# İlerleme Süreklilik İster
+---
+layout: post
+title: İlerleme Süreklilik İster
+author: Kenan Sevindik
+---
 
 Steve Mann’ı ve çalışmalarını İnternet üzerinden 94’den bu yana aralıklarla takip ediyorum. Kendisi 70’lerin sonlarından 
 bu yana “giyilebilir bilgisayar” sistemleri üzerinde çalışıyor. Çalışmaları en son Google’ın “gözlük” projesini duyunca 

@@ -1,4 +1,8 @@
-# Sadece Ne Gerekiyorsa Onu Kullanın
+---
+layout: post
+title: Sadece Ne Gerekiyorsa Onu Kullanın
+author: Kenan Sevindik
+---
 
 2004 yılının başlarında askerliğimi yaptığım yerde bizden bir yazılım geliştirmemizi istemişlerdi. İnternet bağlantısının 
 bile çok sorunlu olduğu, hiyerarşinin ve bürokrasinin yoğun olduğu bir ortamda sıfırdan enterprise Java geliştirme ortamını 

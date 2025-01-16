@@ -1,4 +1,8 @@
-# JPA, Hibernate ve JDBC Kullanırken AutoCommit Özelliği ve TXler
+---
+layout: post
+title: JPA, Hibernate ve JDBC Kullanırken AutoCommit Özelliği ve TXler
+author: Kenan Sevindik
+---
 
 ### Doğrudan JDBC Kullanırken
 

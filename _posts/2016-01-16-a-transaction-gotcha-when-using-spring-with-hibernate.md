@@ -1,4 +1,8 @@
-# A Transaction Gotcha When Using Spring with Hibernate
+---
+layout: post
+title: A Transaction Gotcha When Using Spring with Hibernate
+author: Kenan Sevindik
+---
 
 Spring’s transaction propagation rule SUPPORTS states that if there exists a transaction when the method is called, it 
 should work within that transaction, otherwise it should work outside any transaction. Similarly, transaction propagation 

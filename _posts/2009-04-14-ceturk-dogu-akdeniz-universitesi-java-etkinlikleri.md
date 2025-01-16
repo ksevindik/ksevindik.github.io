@@ -1,4 +1,8 @@
-# CETÜRK Doğu Akdeniz Üniversitesi Java Etkinlikleri
+---
+layout: post
+title: CETÜRK Doğu Akdeniz Üniversitesi Java Etkinlikleri
+author: Kenan Sevindik
+---
 11-12 Nisan 2009 tarihlerinde CETÜRK ve Doğu Akdeniz Üniversitesi Yazılım Kulübü işbirliği ile düzenlenen Java 
 Etkinlikleri Günü'ne konuşmacı olarak katıldım. Öncelikle bu güzel ve başarılı etkinliği düzenleyen CETÜRK ekibinden 
 Mehmet Aca'ya, Yazılım Kulübü'nden Hakkı, Selçuk, Sinan ve Olcay arkadaşlarımıza ve etkinliğe katılmamızı mümkün kılan 

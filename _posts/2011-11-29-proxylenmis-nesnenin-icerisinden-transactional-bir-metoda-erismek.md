@@ -1,4 +1,8 @@
-# Proxylenmiş Nesnenin İçerisinden Transactional Bir Metoda Erişmek
+---
+layout: post
+title: Proxylenmiş Nesnenin İçerisinden Transactional Bir Metoda Erişmek
+author: Kenan Sevindik
+---
 Spring Application Framework ile çalışırken TX, security vb. kabiliyetlerin arkasındaki yapı AOP proxy nesnelerdir. Spring 
 iki türlü proxy nesne üretebilir.
 

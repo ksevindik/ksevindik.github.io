@@ -1,4 +1,8 @@
-# Spring Application Framework'de Kullanılan Tasarım Örüntüleri
+---
+layout: post
+title: Spring Application Framework'de Kullanılan Tasarım Örüntüleri
+author: Kenan Sevindik
+---
 
 Spring Application Framework’ü öğrenirken, sunduğu kabiliyetlerin hangi iyi pratikler ve design pattern’lar üzerine 
 kurulu olduğunu bilmek şüphesiz framework’ü daha sağlıklı biçimde öğrenmenizi sağlayacaktır. İşte Spring Application 

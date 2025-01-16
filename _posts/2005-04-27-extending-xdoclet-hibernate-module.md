@@ -1,4 +1,8 @@
-# Extending XDoclet Hibernate Module
+---
+layout: post
+title: Extending XDoclet Hibernate Module
+author: Kenan Sevindik
+---
 As you may be aware, Hibernate's bag collection type stores its elements unordered, unindexed, and may contain multiple 
 copies of the same element instance. Since the Java Collection Framework does not inherently provide a concept of a bag, 
 we typically use the available List type to implement bag semantics in Java, even though List maintains its elements ordered.

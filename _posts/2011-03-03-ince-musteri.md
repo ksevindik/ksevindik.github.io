@@ -1,4 +1,8 @@
-# İnce Müşteri
+---
+layout: post
+title: İnce Müşteri
+author: Kenan Sevindik
+---
 
 Son dönemde okuduğum kitaplardan birisi de Yakamoz Yayınları’ndan çıkan Steve Jobs’un hayat hikayesini anlatan bir kitap. 
 Genel olarak çok hoşuma giden ve çeviri dilini de gayet iyi bulduğum bir eser olmasına rağmen, kitabın sonlarına doğru 

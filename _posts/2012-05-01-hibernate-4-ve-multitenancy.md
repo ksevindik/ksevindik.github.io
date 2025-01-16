@@ -1,4 +1,8 @@
-# Hibernate 4 ve Multitenancy
+---
+layout: post
+title: Hibernate 4 ve Multitenancy
+author: Kenan Sevindik
+---
 Multi-tenant uygulamaları kurumsal yazılım projelerinde hayata geçirmenin üç temel yolu vardır. Birinci yol her bir istemci 
 için tamamen ayrı bir fiziksel veritabanı kullanmaktır. Bu yaklaşımda JDBC veritabanı bağlantıları her bir istemci için 
 ayrı ayrı yönetilmektedir. Bu yönetim veritabanı bağlantı havuzları için de geçerlidir. Uygulamalar sisteme login olmuş 

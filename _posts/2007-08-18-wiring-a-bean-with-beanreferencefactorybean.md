@@ -1,4 +1,8 @@
-# Wiring a Bean with BeanReferenceFactoryBean
+---
+layout: post
+title: Wiring a Bean with BeanReferenceFactoryBean
+author: Kenan Sevindik
+---
 For some reason or another, you may have more than one bean definition with the same type configured in your application 
 context, and you may want to use only one of them based on some condition or configuration option.
 

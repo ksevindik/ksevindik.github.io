@@ -1,4 +1,8 @@
-# Audit Logging at Service Level
+---
+layout: post
+title: Audit Logging at Service Level
+author: Kenan Sevindik
+---
 ### What is Service Level Auditing?
 
 Many enterprise business applications have such requirements that they should log their users’ operations; who performs 

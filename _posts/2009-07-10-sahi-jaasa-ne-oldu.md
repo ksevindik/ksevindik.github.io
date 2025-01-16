@@ -1,4 +1,8 @@
-# Sahi JAAS'a Ne Oldu?
+---
+layout: post
+title: Sahi JAAS'a Ne Oldu?
+author: Kenan Sevindik
+---
 [Java Developer’s Journal](http://java.sys-con.com/)’in bu haftaki sayısında 
 “[Whatever Happened To JAAS](http://java.sys-con.com/node/1002315)” başlıklı bir makale dikkatimi çekti. `JAAS`, 
 `java runtime security` üzerinde bina edilmiş bir kimliklendirme ve yetkilendirme framework olarak uzun zamandır kurumsal 

@@ -1,4 +1,8 @@
-# Ikinci Ulusal Model Gudumlu Yazilim Gelistirme Calistayi Yapildi
+---
+layout: post
+title: Ikinci Ulusal Model Gudumlu Yazilim Gelistirme Calistayi Yapildi
+author: Kenan Sevindik
+---
 
 Bedir Tekinerdoğan hocanın öncülüğünde düzenlenen “Ulusal Model Güdümlü Yazılım Geliştirme Çalıştayı”nın 
 [ikincisi](http://www.cs.bilkent.edu.tr/Bilsen/TMODELS-2010/tr/) 22 Mayıs Cumartesi günü Bilkent Üniversitesi’nde yapıldı. 

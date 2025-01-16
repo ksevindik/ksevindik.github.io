@@ -1,4 +1,8 @@
-# JSF Required Validation Still Giving Headaches...
+---
+layout: post
+title: JSF Required Validation Still Giving Headaches...
+author: Kenan Sevindik
+---
 For some time ago, we had decided not to use `JSF`’s `required` attribute and instead handle required validation with a 
 `validator` object implementing `Validator` interface, attached to the current `UIInput` component. By that way, we were 
 able to develop validation bypass mechanism while being able to update the `model`, and group validation capability which 

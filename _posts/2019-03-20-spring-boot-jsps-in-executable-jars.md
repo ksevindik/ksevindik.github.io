@@ -1,4 +1,8 @@
-# Spring Boot & JSPs in Executable JARs
+---
+layout: post
+title: Spring Boot & JSPs in Executable JARs
+author: Kenan Sevindik
+---
 Nowadays, almost everyone employs their favorite JS-based framework while developing their dynamic web applications. 
 There are dozens of client- and server-side UI frameworks around, and you can be sure that you are going to be criticized 
 for your choice no matter which one you choose. Some will ask why it is not Angular, and others will ask why it is Angular. 

@@ -1,4 +1,8 @@
-# What is this SELF in GenericContainer For?
+---
+layout: post
+title: What is this SELF in GenericContainer For?
+author: Kenan Sevindik
+---
 
 `GenericContainer` class belongs to TestContainers library, which is used to create a container instance, launch and 
 control it during integration testing. All other TestContainers classes, like `MySQLContainer`, `KafkaContainer`, etc., 

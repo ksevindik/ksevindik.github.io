@@ -1,4 +1,8 @@
-# Client JVM Odd Behavior
+---
+layout: post
+title: Client JVM Odd Behavior
+author: Kenan Sevindik
+---
 
 Last week, a collegue of mine came and showed an odd behavior of JRE. It applies to both JRE 1.5.0_14 and 1.6.0_02. Here 
 is the test code:

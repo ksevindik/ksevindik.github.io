@@ -1,4 +1,8 @@
-# IstSec09'un Ardından
+---
+layout: post
+title: IstSec09'un Ardından
+author: Kenan Sevindik
+---
 
 12-13 Aralık tarihlerinde İstanbul Bilgi Üniversitesi santral kampüsünde düzenlenen 
 [İstSec09 Bilgi Güvenliği Konferansı](http://www.istsec.org/)‘na 

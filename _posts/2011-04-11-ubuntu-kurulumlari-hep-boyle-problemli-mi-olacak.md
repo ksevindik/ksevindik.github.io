@@ -1,4 +1,8 @@
-# Ubuntu Kurulumları Hep Böyle Problemli mi Olacak?
+---
+layout: post
+title: Ubuntu Kurulumları Hep Böyle Problemli mi Olacak?
+author: Kenan Sevindik
+---
 
 Birkaç senedir dizüstü bilgisayarlarımda ubuntu linux işletim sistemini kullanıyorum. Ubuntu’ya geçiş kararım bir akşam 
 üstü dizüstü bilgisayarımı kapatmaya çalıştığımda Windows XP’nin dakikalar boyunca uğraşması sonucu aniden oluvermişti. 

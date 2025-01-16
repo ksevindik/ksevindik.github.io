@@ -1,4 +1,8 @@
-# Weird Rollback Behavior of Spring TestContext Framework
+---
+layout: post
+title: Weird Rollback Behavior of Spring TestContext Framework
+author: Kenan Sevindik
+---
 
 One of the nice features of TestContext module of Spring Application Framework is its ability to run unit tests within a 
 transaction context. By that way, you are able to both execute your persistence operations which usually expect an active 

@@ -1,4 +1,8 @@
-# JPA/Hibernate'de Flush ve Transaction
+---
+layout: post
+title: JPA/Hibernate'de Flush ve Transaction
+author: Kenan Sevindik
+---
 
 JPA/Hibernate ile ilgili en çok kafa karıştıran noktalardan birisi de *flush* işlemi ve bunun *transaction* ile olan 
 ilişkisidir. Yakın bir zamanda konu ile ilgili aldığım bir soru üzerine önemli gördüğüm noktaları buradan sizinle paylaşmak 

@@ -1,4 +1,8 @@
-# Dealing with SOAP Headers in Axis
+---
+layout: post
+title: Dealing with SOAP Headers in Axis
+author: Kenan Sevindik
+---
 After a long period, I have returned to working with `Axis` to develop web services. `Axis` 1.4 is a framework for 
 creating SOAP processing clients and servers. One of the issues I encountered during my web service development is dealing 
 with SOAP headers.

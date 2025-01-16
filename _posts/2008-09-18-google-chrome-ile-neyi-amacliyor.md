@@ -1,4 +1,8 @@
-# Google Chrome ile Neyi Amaçlıyor?
+---
+layout: post
+title: Google Chrome ile Neyi Amaçlıyor?
+author: Kenan Sevindik
+---
 
 Günlerdir Google’ın yeni tarayıcısı hakkında pek çok şey söyleniyor, diğer tarayıcılarla kıyaslamalar yapılıyor, hızından 
 bahsediliyor. Yapılan pek çok yorumda yeni tarayıcının performansı üzerinde duruluyor, getirdiği yenilikler ve açık kaynak 

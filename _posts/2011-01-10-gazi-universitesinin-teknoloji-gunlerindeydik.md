@@ -1,4 +1,8 @@
-# Gazi Üniversitesi'nin Teknoloji Günlerindeydik
+---
+layout: post
+title: Gazi Üniversitesi'nin Teknoloji Günlerindeydik
+author: Kenan Sevindik
+---
 
 Geçen cuma günü [Gelecex](http://www.gelecex.com/)‘in organizatörlüğünde Gazi Üniversitesi’nde düzenlenen teknoloji 
 günlerinde Ant Ivy SVN ve 

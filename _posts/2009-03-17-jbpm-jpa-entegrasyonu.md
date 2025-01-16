@@ -1,4 +1,8 @@
-# JBPM JPA Entegrasyonu
+---
+layout: post
+title: JBPM JPA Entegrasyonu
+author: Kenan Sevindik
+---
 Bir süredir blog yazılarına ara vermiştim. Bu süre zarfında `BusinessProcessManagement` kabiliyetinin mevcut altyapımıza 
 kazandırılması için çalışmalar yaptık. BPM için tercihimiz `JBPM`’den yana oldu. Bu ve devamındaki yazılarımda `JBPM` ile 
 ilgili tecrübelerimizi, `JBPM`’in `JPA`, `SpringWebFlow`, `AcegiSecurity` gibi diğer frameworklerin de yer aldığı 

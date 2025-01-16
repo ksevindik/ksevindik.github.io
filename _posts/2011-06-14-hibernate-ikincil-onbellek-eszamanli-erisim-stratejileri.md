@@ -1,4 +1,8 @@
-# Hibernate İkincil Önbellek Eşzamanlı Erişim Stratejileri
+---
+layout: post
+title: Hibernate İkincil Önbellek Eşzamanlı Erişim Stratejileri
+author: Kenan Sevindik
+---
 
 Hibernate ikincil önbellek yapısı, değişik eşzamanlı erişim stratejilerini desteklemektedir. Bunlar daha önce de belirttiğimiz 
 gibi transaction isolation düzeylerine benzemektedir. Bu stratejilerin kısıtları azaldıkça performansları artar, ancak 

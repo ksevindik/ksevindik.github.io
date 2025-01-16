@@ -1,4 +1,8 @@
-# Moving FilterInvocation Definitions out of XML Files in Acegi
+---
+layout: post
+title: Moving FilterInvocation Definitions out of XML Files in Acegi
+author: Kenan Sevindik
+---
 
 SpringSource has recently announced that they renamed `AcegiSecurity` as `SpringSecurity`, and are preparing for a major 
 release which will be called `2.0`. Actually, its first milestone release is already available for download. According 

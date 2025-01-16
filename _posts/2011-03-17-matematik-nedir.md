@@ -1,4 +1,8 @@
-# Matematik Nedir?
+---
+layout: post
+title: Matematik Nedir?
+author: Kenan Sevindik
+---
 
 Elime bir “discrete” matematik kitabı geçti. Discrete matematiğe üniversiteden bu yana hep ilgi duymuşumdur. Ancak 
 matematiğin bu kolunu anlatmaya çalışan kitaplardan yana da bu güne kadar pek tatmin olmamışımdır. Sanırım Norman 

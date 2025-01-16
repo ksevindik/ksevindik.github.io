@@ -1,4 +1,8 @@
-# Javanin Gelecegi
+---
+layout: post
+title: Javanin Gelecegi
+author: Kenan Sevindik
+---
 
 Son zamanlarda Java’nın geleceği, nereye doğru gittiği hakkında çok değişik yazılar çıkıyor, yorumlar yapılıyor. Aslında 
 programlama tarihinde Java’dan daha fazla yaygınlığa erişmiş başka bir dil daha olduğunu düşünmüyorum. Muazzam genişlikte 

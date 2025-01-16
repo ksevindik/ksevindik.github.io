@@ -1,4 +1,8 @@
-# Hibernate’de Sınıf İlişkileri 2
+---
+layout: post
+title: Hibernate’de Sınıf İlişkileri 2
+author: Kenan Sevindik
+---
 
 Hibernate’de sınıflar arası ilişkileri incelediğimiz yazı dizimizin [ilk bölümü](http://www.kenansevindik.com/hibernatede-sinif-iliskileri-1/)
 nden sonra ikinci bölüm ile devam ediyoruz. Bu bölümde M:1 ilişkiler üzerinde duracağız.

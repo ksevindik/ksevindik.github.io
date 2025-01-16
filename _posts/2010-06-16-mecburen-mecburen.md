@@ -1,4 +1,8 @@
-# Mecburen Mecburen...
+---
+layout: post
+title: Mecburen Mecburen...
+author: Kenan Sevindik
+---
 
 Bizim yaşımızdakiler iyi bilir, MFÖ’nün Mecburen isimli güzel bir parçası vardı. Şarkının nakarat bölümü de 
 “mecburen mecburen mecburiyetten…” şeklinde uzayıp giderdi. Wirofon’un 0.1.0 sürümü de GPL lisanslı olarak açık kaynak 

@@ -1,4 +1,8 @@
-# Hibernate’s New Feature For Overcoming Frustrating LazyInitializationExceptions
+---
+layout: post
+title: Hibernate’s New Feature For Overcoming Frustrating LazyInitializationExceptions
+author: Kenan Sevindik
+---
 
 For many years LazyInitializationExceptions have become most frustrating point of Hibernate. This exception occurs when 
 you try to access an un-initialised lazy association of a detached entity. In general, entities become detached in three 

@@ -1,4 +1,8 @@
-# StringHttpMessageConverter DEFAULT_CHARSET Limitation for Turkish Content
+---
+layout: post
+title: StringHttpMessageConverter DEFAULT_CHARSET Limitation for Turkish Content
+author: Kenan Sevindik
+---
 
 Spring has its own REST support known as Spring Web MVC. Although, I am happy with its general capabilities, I came up 
 with a small but very annoying problem or, let’s say, a limitation related to one of its `HttpMessageConverter` classes.

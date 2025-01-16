@@ -1,4 +1,8 @@
-# A Hybrid SessionFactoryBean
+---
+layout: post
+title: A Hybrid SessionFactoryBean
+author: Kenan Sevindik
+---
 The `LocalSessionFactoryBean` is a convenient way to create and initialize a Hibernate `SessionFactory` instance in 
 applications. It allows us to configure other objects and properties, such as `DataSource`, and other Hibernate properties 
 that the `SessionFactory` instance depends on during initialization inside Spring's context mechanism. We can easily 

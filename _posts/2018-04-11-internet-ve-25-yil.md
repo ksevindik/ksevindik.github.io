@@ -1,4 +1,8 @@
-# İnternet ve 25 Yıl
+---
+layout: post
+title: İnternet ve 25 Yıl
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/25_yıl_01_internet_kupur.jpg)
 

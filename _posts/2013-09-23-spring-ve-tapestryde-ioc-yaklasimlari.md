@@ -1,4 +1,8 @@
-# Spring ve Tapestry’de IoC Yaklaşımları
+---
+layout: post
+title: Spring ve Tapestry’de IoC Yaklaşımları
+author: Kenan Sevindik
+---
 
 Yıllar boyunca bir çok projede Spring kulanmanın getirdiği bir alışkanlık olarak IoC ve dependency injection kavramları
 benim için vazgeçilmezler arasına girdi. Bu kavramların önerdiği yöntemlerle geliştirilen uygulamalarda sınıflar arası 

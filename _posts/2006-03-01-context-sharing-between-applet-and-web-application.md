@@ -1,4 +1,8 @@
-# Context Sharing Between Applet and Web Application
+---
+layout: post
+title: Context Sharing Between Applet and Web Application
+author: Kenan Sevindik
+---
 In our project, we need to provide some supporting GIS functionality via an `Applet` GUI to our web-based CRUD operations. 
 Users, for example, may populate search criteria, entering input both from the web interface, like name pattern, date 
 range, etc., and from `Applet` GUI, like selecting a specific region on a map, and then execute their queries and display 

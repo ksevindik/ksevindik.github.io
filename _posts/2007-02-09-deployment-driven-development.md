@@ -1,4 +1,8 @@
-# Deployment Driven Development
+---
+layout: post
+title: Deployment Driven Development
+author: Kenan Sevindik
+---
 I had almost forgotten this type of software development after I started using lightweight J2EE technologies, like 
 `Spring`, and `Hibernate`. Recently, however, I had to involve with a project, some part of it depends on `EJBs`! What 
 is worse is that they were `EJB 2.1`. After trying mock approach with `mockejb` and playing with `open-ejb` and `geronimo` 

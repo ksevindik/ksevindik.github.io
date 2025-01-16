@@ -1,4 +1,8 @@
-# Online Eğitim Hazırlama Tecrübeleri
+---
+layout: post
+title: Online Eğitim Hazırlama Tecrübeleri
+author: Kenan Sevindik
+---
 
 Bu blog yazımda size online eğitim hazırlama tecrübelerimden bahsedeceğim. Yaklaşık 3.5 ay önce Udemy’de yayınlanmak 
 üzere bir online eğitim hazırlama işine giriştim. Bu hafta itibari ile [Spring Boot 2.0 ile Dinamik Web Uygulamaları](http://www.udemy.com/spring-boot-egitimi) 

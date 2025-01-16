@@ -1,4 +1,8 @@
-# Activating Authorization Success Event Publish Feature
+---
+layout: post
+title: Activating Authorization Success Event Publish Feature
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/spring_security.png)
 

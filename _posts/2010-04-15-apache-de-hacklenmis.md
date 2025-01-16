@@ -1,4 +1,8 @@
-# Apache de Hacklenmis
+---
+layout: post
+title: Apache de Hacklenmis
+author: Kenan Sevindik
+---
 
 Dün Atlassian’ın şifreleriniz ele geçirilmiş olabilir mesajından [bahsetmiştim](http://www.kenansevindik.com/atlassian-daki-guvenlik-acigi.html). 
 Atlassian hacklenmenin detaylarından çok 

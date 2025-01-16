@@ -1,4 +1,8 @@
-# Kıssadan Hisse
+---
+layout: post
+title: Kıssadan Hisse
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/kissadan_hisse.jpeg)
 

@@ -1,4 +1,8 @@
-# First Impression Is Really Important
+---
+layout: post
+title: First Impression Is Really Important
+author: Kenan Sevindik
+---
 
 I have attended a 3-day workshop for Oracle Coherence Product. Although I am a veteran Eclipse user, we used JDeveloper 
 11g Technology Preview 3 during our lab sessions. During those lab sessions, I noticed an issue related to JDeveloper. 

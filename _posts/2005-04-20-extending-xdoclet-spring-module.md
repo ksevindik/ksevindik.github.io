@@ -1,4 +1,8 @@
-# Extending XDoclet Spring Module
+---
+layout: post
+title: Extending XDoclet Spring Module
+author: Kenan Sevindik
+---
 XDoclet is a wonderful tool, and we extensively use it in our current project to generate Hibernate and Spring configuration 
 files. Our aim is to maintain no configuration files apart from our source code. XDoclet’s help is invaluable in achieving 
 this goal, but sometimes it requires modifications to align with that mission.

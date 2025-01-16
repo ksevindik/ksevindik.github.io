@@ -1,4 +1,8 @@
-# Hibernate’de Sınıf İlişkileri 3
+---
+layout: post
+title: Hibernate’de Sınıf İlişkileri 3
+author: Kenan Sevindik
+---
 
 Hibernate ORM Framework’ündeki sınıflar arası ilişki kurma yöntemlerini incelediğimiz yazı dizimize üçüncüsü ile devam 
 ediyoruz. İlk iki yazımızda

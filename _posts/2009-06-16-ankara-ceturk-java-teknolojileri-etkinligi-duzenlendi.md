@@ -1,4 +1,8 @@
-# Ankara CETÜRK Java Teknolojileri Etkinliği Düzenlendi
+---
+layout: post
+title: Ankara CETÜRK Java Teknolojileri Etkinliği Düzenlendi
+author: Kenan Sevindik
+---
 ### Java Teknolojileri Etkinliği Raporu
 
 13 Haziran Cumartesi günü İnnova Bilişim Çözümleri A.Ş.’nin ve i-Con’un destekleri ile ODTÜ Kültür Kongre Merkezi’nde 

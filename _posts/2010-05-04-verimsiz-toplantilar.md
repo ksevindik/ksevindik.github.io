@@ -1,4 +1,8 @@
-# Verimsiz Toplantılar
+---
+layout: post
+title: Verimsiz Toplantılar
+author: Kenan Sevindik
+---
 
 Bu güne kadar katıldığım çok az toplantının kısa ve öz gerçekleştiğini gözlemlemişimdir. Toplantılar genellikle uzar, 
 birkaç saat sürer ve toplantıdan da yorgun argın çıktığınız için neredeyse o gün mesai saati içerisinde hiçbir şey 

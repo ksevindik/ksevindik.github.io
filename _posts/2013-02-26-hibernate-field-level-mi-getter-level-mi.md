@@ -1,4 +1,8 @@
-# Hibernate: Field Level Mı? Getter Level Mı?
+---
+layout: post
+title: Hibernate: Field Level Mı? Getter Level Mı?
+author: Kenan Sevindik
+---
 
 Entity’lerin persistent property’lerine Hibernate’nin nasıl erişeceği ile ilgili olarak iki yol mevcuttur.
 

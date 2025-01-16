@@ -1,4 +1,8 @@
-# Wepsphere Portal with Multiple User Registries
+---
+layout: post
+title: Wepsphere Portal with Multiple User Registries
+author: Kenan Sevindik
+---
 In our project, we employ the `Websphere Portal` product. Some of our users are defined in `Active Directory` and some 
 others are defined in a relational database. As you may know, `Websphere Portal` has support for `Active Directory` as 
 its user registry, but as we also have user definitions outside of `Active Directory`, we need a way to provide all the 

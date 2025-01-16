@@ -1,4 +1,8 @@
-# Factory Method Pattern Implementation of Spring: FactoryBean
+---
+layout: post
+title: Factory Method Pattern Implementation of Spring: FactoryBean
+author: Kenan Sevindik
+---
 
 Factory method pattern aims to encapsulate object creation process within a separate method in your system. That’s why 
 it is called as so. Factory methods can be created as either static or instance methods within a class. In Spring 

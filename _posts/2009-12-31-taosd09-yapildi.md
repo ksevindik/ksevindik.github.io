@@ -1,4 +1,8 @@
-# TAOSD09 Yapıldı
+---
+layout: post
+title: TAOSD09 Yapıldı
+author: Kenan Sevindik
+---
 
 Bedir Tekinerdoğan Hoca’nın öncülüğünde Bilkent Yazılım Mühendisliği Grubu tarafından düzenlenen Aspect Oriented Software 
 Development Çalıştayı’nın (TAOSD) 4.sü geçen Salı günü yapıldı. Çalıştay Bilkent Üniversitesi’ndeki Aspect Oriented Software 

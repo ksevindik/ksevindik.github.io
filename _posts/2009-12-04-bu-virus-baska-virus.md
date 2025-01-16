@@ -1,4 +1,8 @@
-# Bu virüs başka virüs
+---
+layout: post
+title: Bu virüs başka virüs
+author: Kenan Sevindik
+---
 
 Artık hemen her sene değişik bir hastalık veya grip virüsü ile karşılaşıyoruz. Deli dana derken ardından kuş gribi 
 çıkıvermişti. Şimdilerde de domuz gribi ile başa çıkmaya çalışıyoruz. İşte böyle virüslü bir dönemde kayınpederim de 

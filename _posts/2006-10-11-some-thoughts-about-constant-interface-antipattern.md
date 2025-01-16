@@ -1,4 +1,8 @@
-# Some Thoughts About Constant Interface (Anti)Pattern
+---
+layout: post
+title: Some Thoughts About Constant Interface (Anti)Pattern
+author: Kenan Sevindik
+---
 I have recently restarted to read ***Effective Java Programming Language*** book written by Joshua Bloch. Actually, I had 
 skimmed it several times before, but had no chance to cover it from beginning to end yet. I want to express some of my 
 thoughts about **Item 17: *Use interfaces only to define types***. In this item, he states that the ***constant interface pattern*** 

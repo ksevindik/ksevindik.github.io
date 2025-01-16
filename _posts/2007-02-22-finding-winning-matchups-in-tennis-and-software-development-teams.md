@@ -1,4 +1,8 @@
-# Finding Winning Matchups in Tennis and Software Development Teams
+---
+layout: post
+title: Finding Winning Matchups in Tennis and Software Development Teams
+author: Kenan Sevindik
+---
 I can say that tennis is a lifestyle for me. Watching and playing it for hours are really enjoyable activities. I try to 
 improve my game by modeling tennis pros, taking their approaches to games as reference. I have just finished reading a 
 book about tennis strategies, written by `Glenn Sheiner`. In this book, he had collected his experiences and observations 

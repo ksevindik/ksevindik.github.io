@@ -1,4 +1,8 @@
-# Bu Devirde Şifreleri Hala Kriptolamadan mı Tutuyorsunuz?
+---
+layout: post
+title: Bu Devirde Şifreleri Hala Kriptolamadan mı Tutuyorsunuz?
+author: Kenan Sevindik
+---
 
 _Değerli Üyemiz,_
 

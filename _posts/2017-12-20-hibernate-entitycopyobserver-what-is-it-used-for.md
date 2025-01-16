@@ -1,4 +1,8 @@
-# Hibernate EntityCopyObserver: What Is It Used For?
+---
+layout: post
+title: Hibernate EntityCopyObserver: What Is It Used For?
+author: Kenan Sevindik
+---
 
 JPA merge operation is used to reconnect and synchronize detached entities with active PersistenceContext so that changes 
 performed on them could be reflected onto the database. Due to its complex nature, there might be times when multiple 

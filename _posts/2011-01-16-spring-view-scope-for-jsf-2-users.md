@@ -1,4 +1,8 @@
-# Spring View Scope For JSF 2 Users
+---
+layout: post
+title: Spring View Scope For JSF 2 Users
+author: Kenan Sevindik
+---
 
 In JSF 2, there are several new scopes introduced for managed beans, and one of them is view scope. As any developer who 
 deals with JSF and Spring knows, it is much better to define your JSF managed beans in the Spring application context 

@@ -1,4 +1,8 @@
-# Lookup Tables with Hibernate and JSF
+---
+layout: post
+title: Lookup Tables with Hibernate and JSF
+author: Kenan Sevindik
+---
 Every project comprises several tables containing data mainly in the form of a code-name pair. These tables define states, 
 types, or other similar values as codes, which will be referenced from other tables in the database. Furthermore, their 
 name values are utilized in the GUI to provide users with an understanding of what those code values truly signify in real 

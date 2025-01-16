@@ -1,4 +1,8 @@
-# Delegating Websphere Portal Authentication to CAS via Trust Association Interceptor (TAI)
+---
+layout: post
+title: Delegating Websphere Portal Authentication to CAS via Trust Association Interceptor (TAI)
+author: Kenan Sevindik
+---
 In our current enterprise project, we have a single sign-on requirement, and IBM Portal is planned to be used as the main 
 gateway in our system. Basically, we need to provide an authentication mechanism through which users should only need to 
 log in to the portal and then be able to access all of their authorized web applications without being authenticated again. 

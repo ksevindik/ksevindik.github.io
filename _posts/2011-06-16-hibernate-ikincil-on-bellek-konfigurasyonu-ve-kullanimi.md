@@ -1,4 +1,8 @@
-# Hibernate İkincil Ön Bellek Konfigürasyonu ve Kullanımı
+---
+layout: post
+title: Hibernate İkincil Ön Bellek Konfigürasyonu ve Kullanımı
+author: Kenan Sevindik
+---
 
 İkincil önbelleği aktive etmek için Hibernate konfigürasyonunda üç property tanımına ihtiyaç vardır. EHCache provider 
 için konfigürasyonumuz şu şekilde olabilir.

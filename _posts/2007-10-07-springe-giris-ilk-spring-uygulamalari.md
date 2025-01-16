@@ -1,4 +1,8 @@
-# Spring’e Giriş: İlk Spring Uygulamaları
+---
+layout: post
+title: Spring’e Giriş: İlk Spring Uygulamaları
+author: Kenan Sevindik
+---
 
 Spring, JEE uygulamaları için geliştirilmiş bir iskelet frameworktür. Bildiğimiz gibi JEE uygulamaları geliştirirken 
 ilgilenilmesi gereken pek çok altyapısal (middleware) ihtiyaçlar sözkonusudur. Her katman için bu altyapısal ihtiyaçları 

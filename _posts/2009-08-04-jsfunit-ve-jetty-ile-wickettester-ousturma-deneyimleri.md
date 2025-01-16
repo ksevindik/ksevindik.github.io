@@ -1,4 +1,8 @@
-# JSFUnit ve Jetty ile WicketTester Ouşturma Deneyimleri
+---
+layout: post
+title: JSFUnit ve Jetty ile WicketTester Ouşturma Deneyimleri
+author: Kenan Sevindik
+---
 
 Geçenlerde `JSFUnit`’i değişikliğe uğratarak `WicketTester` benzeri bir test altyapısı kurmaya çalıştım. `WicketTester`, 
 istemci çağrılarını tek bir noktada ele alıyor. `JSFUnit`, `HtmlUnit`, `Selenium` gibi istemci- sunucu iletişimi söz 

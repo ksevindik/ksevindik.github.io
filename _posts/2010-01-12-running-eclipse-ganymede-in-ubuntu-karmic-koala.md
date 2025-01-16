@@ -1,4 +1,8 @@
-# Running Eclipse Ganymede in Ubuntu Karmic Koala
+---
+layout: post
+title: Running Eclipse Ganymede in Ubuntu Karmic Koala
+author: Kenan Sevindik
+---
 
 I wouldn't guess it would be that hard to install Eclipse 3.4.2 Ganymede in Ubuntu 9.10 Karmic Koala. After searching a 
 bit around the web, I concluded that it was not the way to go with `sudo apt-get install eclipse` this time.

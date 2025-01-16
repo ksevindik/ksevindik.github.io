@@ -1,4 +1,8 @@
-# How to populate your DB with sample data during Hibernate bootstrap?
+---
+layout: post
+title: How to populate your DB with sample data during Hibernate bootstrap?
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/jpa_hibernate_data_population.png)
 

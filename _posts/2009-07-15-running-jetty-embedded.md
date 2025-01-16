@@ -1,4 +1,8 @@
-# Running Jetty Embedded
+---
+layout: post
+title: Running Jetty Embedded
+author: Kenan Sevindik
+---
 While I was playing with `JSFUnit`, I just needed to start a web container inside my tests. `Jetty` is very famous as 
 being embeddable in standalone Java applications. Therefore, spots are directed onto Jetty's website, and I downloaded 
 the latest stable version and started playing with it.

@@ -1,4 +1,8 @@
-# Possible bug in Hibernate XML based mapping when using properties element
+---
+layout: post
+title: Possible bug in Hibernate XML based mapping when using properties element
+author: Kenan Sevindik
+---
 
 Assume you have a Person with firstName and lastName properties, and a subclass of it called as Vet. You will have 
 hbm.xml mapping files with the following content.

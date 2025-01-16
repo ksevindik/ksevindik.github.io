@@ -1,4 +1,8 @@
-# Experiences with JasperReports and iReport Designer
+---
+layout: post
+title: Experiences with JasperReports and iReport Designer
+author: Kenan Sevindik
+---
 JasperReports employs the concept of subreporting to handle complex report template requests, dividing the main part into 
 logically related and more manageable smaller subreport chunks. For example, if a report includes a section where a list 
 of data items appears as a data table, that section is a natural candidate for a subreport. The table column labels are 

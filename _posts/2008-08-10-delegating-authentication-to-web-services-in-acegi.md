@@ -1,4 +1,8 @@
-# Delegating Authentication to Web Services in Acegi
+---
+layout: post
+title: Delegating Authentication to Web Services in Acegi
+author: Kenan Sevindik
+---
 
 What I like most about Acegi Security Framework is its configurability and extensibility. I think those two features are 
 very crucial for any framework to be successful. Recently, I have come across a requirement of authenticating users via 

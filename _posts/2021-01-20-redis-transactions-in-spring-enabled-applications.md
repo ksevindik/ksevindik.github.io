@@ -1,4 +1,8 @@
-# Redis Transactions in Spring Enabled Applications
+---
+layout: post
+title: Redis Transactions in Spring Enabled Applications
+author: Kenan Sevindik
+---
 
 Thanks to the [Spring Data Redis](https://docs.spring.io/spring-data/redis/docs/current/reference/html/#reference) project’s **Redis Repositories** support, it is much easier to manage domain objects 
 within the Redis datastore. Redis Repositories also provide support for custom mapping and secondary indexes. Unfortunately,

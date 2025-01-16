@@ -1,4 +1,8 @@
-# Some Notes About Various Certificate Operations Using OpenSSL
+---
+layout: post
+title: Some Notes About Various Certificate Operations Using OpenSSL
+author: Kenan Sevindik
+---
 
 Our system support group delivered a signed certificate to be used in `Apache` SSL configuration. Its extension was 
 `*.pfx`, which meant its contents were in `PKCS12` format, and was containing both `certificate` and its `private key` 

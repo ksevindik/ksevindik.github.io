@@ -1,4 +1,8 @@
-# TransactionTemplate and Rollback Rules
+---
+layout: post
+title: TransactionTemplate and Rollback Rules
+author: Kenan Sevindik
+---
 
 When I was playing with `TransactionTemplate` during one of my Spring training sessions, I promptly suggested the 
 audience try changing the default rollback rules while using `TransactionTemplate`. After all, `TransactionTemplate` 

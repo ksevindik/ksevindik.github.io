@@ -1,4 +1,8 @@
-# Kotlin ve Hibernate
+---
+layout: post
+title: Kotlin ve Hibernate
+author: Kenan Sevindik
+---
 
 Bir süredir Udemy’deki microservice çalışmalarımızda programlama dili olarak Kotlin’i kullanıyoruz. Hepinizin bildiği 
 gibi Kotlin, Java üzerine geliştirilmiş JVM tabanlı bir programlama dili. Sunduğu iyileştirmeler ve değişiklikler büyük 

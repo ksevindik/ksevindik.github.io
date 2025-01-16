@@ -1,4 +1,8 @@
-# Spring Way of Implementing Abstract Factory Pattern
+---
+layout: post
+title: Spring Way of Implementing Abstract Factory Pattern
+author: Kenan Sevindik
+---
 
 In my current work, I am responsible for developing a platform to ease web application development using several JEE 
 technologies such as JSF, SWF, Spring, and JPA/Hibernate or Toplink. One main consideration of our management is to keep 

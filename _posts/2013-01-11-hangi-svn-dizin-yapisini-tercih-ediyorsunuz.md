@@ -1,4 +1,8 @@
-# Hangi SVN Dizin Yapısını Tercih Ediyorsunuz?
+---
+layout: post
+title: Hangi SVN Dizin Yapısını Tercih Ediyorsunuz?
+author: Kenan Sevindik
+---
 
 SVN ile çalışırken iki dizin yapısı karşımıza çıkıyor. Bunlardan ilki
 

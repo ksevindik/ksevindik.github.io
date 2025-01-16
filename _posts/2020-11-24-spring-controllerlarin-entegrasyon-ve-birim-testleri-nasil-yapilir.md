@@ -1,4 +1,8 @@
-# Spring Controller'ların Entegrasyon ve Birim Testleri Nasıl Yapılır?
+---
+layout: post
+title: Spring Controller'ların Entegrasyon ve Birim Testleri Nasıl Yapılır?
+author: Kenan Sevindik
+---
 
 Spring Application Framework ile çalışırken uygulamaya ait sınıflarımızı yazmanın yanı sıra, ApplicationContext olarak 
 tabir edilen Spring Container konfigürasyonunu gerçekleştirdikten sonra, entegrasyon testlerimizde genel olarak iki veya 

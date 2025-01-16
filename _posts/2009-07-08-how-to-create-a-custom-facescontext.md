@@ -1,4 +1,8 @@
-# How to create a custom FacesContext
+---
+layout: post
+title: How to create a custom FacesContext
+author: Kenan Sevindik
+---
 Although I am not happy with several issues in `JSF` spec, I like its customizability. A couple of days ago, I needed to 
 introduce the `Mediator` pattern in my case studies. `FacesContext` instance seemed to be a good candidate as `Mediator` 
 object. You need to execute three easy steps to introduce a custom `FacesContext` implementation into your `JSF` lifecycle.

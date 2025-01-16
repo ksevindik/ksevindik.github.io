@@ -1,4 +1,8 @@
-# Nesnelerin Yaratılması ve OCP Prensibi
+---
+layout: post
+title: Nesnelerin Yaratılması ve OCP Prensibi
+author: Kenan Sevindik
+---
 
 Bir önceki yazımda CustomerOrder constructor’ı içerisinde nesnenin initialization’ı dışında ProjectElement ile 1:M 
 parent-child ilişkinin kurulmasından bahsetmiştim. Ardından da exists metodunu ProjectElement’e eklemeye kalkarsak ne 

@@ -1,4 +1,8 @@
-# Running Jetty Embedded Continued
+---
+layout: post
+title: Running Jetty Embedded Continued
+author: Kenan Sevindik
+---
 
 For some time ago, I had [mentioned](http://www.kenansevindik.com/running-jetty-embedded) running 
 Jetty embedded. This time, while I am still running it embedded, I need to set 

@@ -1,4 +1,8 @@
-# Spring Ekosisteminde Kurumsal Yazılım Geliştirme
+---
+layout: post
+title: Spring Ekosisteminde Kurumsal Yazılım Geliştirme
+author: Kenan Sevindik
+---
 
 ULAKBİM tarafından düzenlenen Kamuda Açık Kaynak Konferansı‘ında Spring Framework’ü etraflıca tanıttığımız Spring 
 Ekosisteminde Kurumsal Yazılım Geliştirme isimli bir sunum yaptık. Katılım oldukça yoğundu. Sunumu Spring, kurumsal 

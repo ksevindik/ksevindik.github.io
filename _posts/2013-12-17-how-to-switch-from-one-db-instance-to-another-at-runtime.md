@@ -1,4 +1,8 @@
-# How to Switch from One DB Instance to Another at Runtime
+---
+layout: post
+title: How to Switch from One DB Instance to Another at Runtime
+author: Kenan Sevindik
+---
 
 Sometimes we may need to switch from one DB instance to another during runtime. Actually, this is very easy if you are 
 using Spring and the DataSource API in order to obtain DB connections. Let's look at our solution for such a requirement.

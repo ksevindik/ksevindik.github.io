@@ -1,4 +1,8 @@
-# Ivy Configurations
+---
+layout: post
+title: Ivy Configurations
+author: Kenan Sevindik
+---
 One of the nicest features of `Maven` is its ability to specify some dependencies as compile time only, and they won’t be 
 included at runtime because they are already provided by the target web container. Here is an example of it.
 ```xml

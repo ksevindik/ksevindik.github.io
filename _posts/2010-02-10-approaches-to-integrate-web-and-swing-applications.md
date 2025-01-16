@@ -1,4 +1,8 @@
-# Approaches to Integrate Web and Swing Applications
+---
+layout: post
+title: Approaches to Integrate Web and Swing Applications
+author: Kenan Sevindik
+---
 
 It was about 8 or 9 years ago when many enterprise applications were being developed using Swing for their presentation 
 layer, and Web Start was the common tool to distribute and run those applications from a central location. Among the 

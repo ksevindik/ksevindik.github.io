@@ -1,4 +1,8 @@
-# If Your Eclipse Hangs...
+---
+layout: post
+title: If Your Eclipse Hangs...
+author: Kenan Sevindik
+---
 
 Recently, my STS installation started to freeze during “initializing java/spring tooling” step. As a first attempt, I 
 suspended all validations from window>preferences>validation, however it didn’t help much. Whenever you experience a hang 

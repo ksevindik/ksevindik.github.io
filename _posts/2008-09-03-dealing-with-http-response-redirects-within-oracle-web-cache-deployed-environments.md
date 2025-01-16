@@ -1,4 +1,8 @@
-# Dealing with HTTP Response Redirects within Oracle Web Cache Deployed Environments
+---
+layout: post
+title: Dealing with HTTP Response Redirects within Oracle Web Cache Deployed Environments
+author: Kenan Sevindik
+---
 
 I don’t think there exists an application that doesn’t make use of `HttpServletResponse`'s `sendRedirect` method. Even if 
 your application doesn’t directly depend on it, I am sure you have one or more frameworks that heavily make use of it.

@@ -1,4 +1,8 @@
-# Yine Yeniden Aikido
+---
+layout: post
+title: Yine Yeniden Aikido
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/aikido_scott.jpeg)
 

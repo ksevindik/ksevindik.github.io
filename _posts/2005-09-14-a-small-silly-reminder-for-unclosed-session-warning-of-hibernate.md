@@ -1,4 +1,8 @@
-# A Small Silly Reminder For Unclosed Session Warning of Hibernate
+---
+layout: post
+title: A Small Silly Reminder For Unclosed Session Warning of Hibernate
+author: Kenan Sevindik
+---
 If you suddenly receive a warning stating "**unclosed connection, forgot to call close() on your Session**" from Hibernate, 
 and you are utilizing **OpenSessionInViewFilter** to manage your Hibernate sessions, it is crucial to verify that the filter 
 mapping of OpenSessionInViewFilter in **web.xml** precedes any other filter mappings, such as Acegi Security Filters. 

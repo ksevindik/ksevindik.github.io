@@ -1,4 +1,8 @@
-# Subversive mi Subclipse mi
+---
+layout: post
+title: Subversive mi Subclipse mi
+author: Kenan Sevindik
+---
 
 Uzun bir zamandır Eclipse üzerinde SVN ile ilgili işlemlerimi subversive plugini ile gerçekleştiriyordum. Subclipse yerine 
 bu plugin’i tercih etmemin en önemli nedeni olarak sadece UI deneyiminin subclipse’e kısaysla daha hoş olması diyebilirim. 

@@ -1,4 +1,8 @@
-# EhCache'i Monitor Etmek
+---
+layout: post
+title: EhCache'i Monitor Etmek
+author: Kenan Sevindik
+---
 
 EhCache özellikle Hibernate’deki ikincil önbellek kabiliyetini sağlamak için yaygın biçimde kullanılmaktadır. EhCache ile 
 çalışırken “cache region” olarak adlandırılan bölgelerdeki aktiviteleri izlemek için değişik yollara başvurabiliriz.

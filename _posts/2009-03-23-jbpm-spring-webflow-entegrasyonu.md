@@ -1,4 +1,8 @@
-# JBPM Spring WebFlow Entegrasyonu
+---
+layout: post
+title: JBPM Spring WebFlow Entegrasyonu
+author: Kenan Sevindik
+---
 
 JBPM ile Business Process Management kabiliyetinin mevcut mimarimize dahil edilmesindeki ikinci adım `Spring WebFlow` 
 entegrasyonu oldu. Bu noktada daha fazla devam etmeden evvel, önceki yazımda bahsettiğim JPA kullanan uygulamalarımızın 

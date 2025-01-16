@@ -1,4 +1,8 @@
-# My applet is signed, but I am still getting AccessControlExceptions!
+---
+layout: post
+title: My applet is signed, but I am still getting AccessControlExceptions!
+author: Kenan Sevindik
+---
 We are currently developing a solution that integrates `applets` and web applications together. Our solution includes a 
 mechanism to notify `applets` when a user switches from a web page to a page that contains an `applet`. We provide this 
 by explicitly invoking a method in `applet` via `JavaScript` when the page is loaded. You may here ask yourself that, why 

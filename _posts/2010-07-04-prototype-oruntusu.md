@@ -1,4 +1,8 @@
-# Prototype Örüntüsü
+---
+layout: post
+title: Prototype Örüntüsü
+author: Kenan Sevindik
+---
 
 Hemen hepimizin projelerimizde sıklıkla Factory Method ve Builder örüntüleri ile karşılaşıyoruz. Zaman zaman da, özellikle 
 belirli bir platforma veya konfigürasyona özgü nesne grubu oluşturmaya ihtiyaç duyulduğu durumlarda Abstract Factory 

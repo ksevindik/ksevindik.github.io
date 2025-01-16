@@ -1,4 +1,8 @@
-# How to Detect JDBC Connection Leakages with C3P0
+---
+layout: post
+title: How to Detect JDBC Connection Leakages with C3P0
+author: Kenan Sevindik
+---
 
 First of all, I must say that the whole credit for discovering this feature goes to my colleague [İlker Çelik](http://www.blogger.com/icelik@gmail.com). In a big 
 codebase with lots of 3rd party libraries and frameworks interacting with JDBC connections, it might be difficult to trap 

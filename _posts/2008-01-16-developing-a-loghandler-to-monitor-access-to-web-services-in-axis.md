@@ -1,4 +1,8 @@
-# Developing A LogHandler To Monitor Access To Web Services in Axis
+---
+layout: post
+title: Developing A LogHandler To Monitor Access To Web Services in Axis
+author: Kenan Sevindik
+---
 We need to monitor access (from where, who, etc.) to our web services, trace incoming and outgoing message contents for 
 auditing purposes. It is better to separate this task from web services themselves and let the web service infrastructure, 
 which is Axis in our case, handle this operation.

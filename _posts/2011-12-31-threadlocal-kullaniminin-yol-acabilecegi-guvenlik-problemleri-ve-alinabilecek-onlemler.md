@@ -1,4 +1,8 @@
-# ThreadLocal Kullanımının Yol Açabileceği Güvenlik Problemleri ve Alınabilecek Önlemler
+---
+layout: post
+title: ThreadLocal Kullanımının Yol Açabileceği Güvenlik Problemleri ve Alınabilecek Önlemler
+author: Kenan Sevindik
+---
 
 ThreadLocal değişkenler hem Java hem de .NET ile geliştirilen kurumsal uygulamalarda zaman zaman karşımıza çıkabilir. 
 ThreadLocal bir değişkenin değeri her Thread için farklı farklı olabilmektedir. Bu değişkenler, en çok uygulamanın 

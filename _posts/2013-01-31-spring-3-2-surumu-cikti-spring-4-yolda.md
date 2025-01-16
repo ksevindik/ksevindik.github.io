@@ -1,4 +1,8 @@
-# Spring 3.2 Sürümü Çıktı, Spring 4 Yolda…
+---
+layout: post
+title: Spring 3.2 Sürümü Çıktı, Spring 4 Yolda…
+author: Kenan Sevindik
+---
 
 Aslında Spring 3.2.0 sürümü Aralık 2012’nin ortalarında çıktı. Biz de projelerimizde Spring 3.2 ile çalışmaya başladık. 
 Spring’in farklı sürümler arasındaki geçişleri yönetme başarısı burada da devam ediyor. Spring 3.x serisi içerisinde 

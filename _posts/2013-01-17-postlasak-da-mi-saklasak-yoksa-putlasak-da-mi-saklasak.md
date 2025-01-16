@@ -1,4 +1,8 @@
-# POST’lasak da mı saklasak yoksa PUT’lasak da mı saklasak?
+---
+layout: post
+title: POST’lasak da mı saklasak yoksa PUT’lasak da mı saklasak?
+author: Kenan Sevindik
+---
 
 Sarımsaklasak da mı saklasak, yoksa sarımsaklamasak da mı saklasak… Yok yok hayır, REST tabanlı bir servis geliştirirken 
 yeni bir resource ekleme ve güncelleme işlemleri için hangi HTTP metodunun tercih edileceğine karar vermek bu tekerlemeyi 

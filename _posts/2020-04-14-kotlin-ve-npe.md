@@ -1,4 +1,8 @@
-# Kotlin ve NPE
+---
+layout: post
+title: Kotlin ve NPE
+author: Kenan Sevindik
+---
 
 Kotlin’in öne çıkan özelliklerinden birisi de uygulama içerisinde null referansların önüne geçmeye çalışmasıdır. Kotlin’in 
 tip sistemi, uygulamalarımızdan NullPointerException hatalarını ortadan kaldırma hedefi ile tasarlanmıştır. Buna 

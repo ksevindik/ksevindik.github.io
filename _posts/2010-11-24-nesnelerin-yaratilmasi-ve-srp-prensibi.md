@@ -1,4 +1,8 @@
-# Nesnelerin Yaratılması ve SRP Prensibi
+---
+layout: post
+title: Nesnelerin Yaratılması ve SRP Prensibi
+author: Kenan Sevindik
+---
 
 Geçen gün şu sıralar birlikte çalıştığım bir müşterimin projesinde şöyle bir durumla karşılaştım. `ProjectElement` ve 
 `CustomerOrder` adında iki entity arasında 1:M parent-child ilişki söz konusuydu. ProjectElement’in tekilliğini businessKey 

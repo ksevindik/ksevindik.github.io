@@ -1,4 +1,8 @@
-# Kurumsal Yazılım 2007’nin Ardından…
+---
+layout: post
+title: Kurumsal Yazılım 2007’nin Ardından…
+author: Kenan Sevindik
+---
 
 Geçen hafta TBD tarafından Bahçeşehir Üniversitesi’nde düzenlenen 3 günlük Kurumsal Yazılım 2007 kongresine katıldım. Bu 
 çalışmanın ardından organizasyon, sunumlar ve genel olarak dikkatimi çeken diğer noktalarla ilgili kısa yorumlarda bulunmak 

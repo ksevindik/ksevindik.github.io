@@ -1,4 +1,8 @@
-# Atlassian daki Guvenlik Acigi
+---
+layout: post
+title: Atlassian daki Guvenlik Acigi
+author: Kenan Sevindik
+---
 
 Pazartesi günü Atlassian’dan bir mesaj geldi. Mesajda kısaca Temmuz 2008’den önce Atlassian’da hesap açtıran kullanıcıların 
 şifrelerinin, sistemlerinde “plain text” halde tutulmasından dolayı ele geçirilmiş olabileceğinden bahsediyordu. Aslında 

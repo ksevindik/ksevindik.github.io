@@ -1,4 +1,8 @@
-# On emir, floppy diskete yazılsaydı ne olurdu?*
+---
+layout: post
+title: On emir, floppy diskete yazılsaydı ne olurdu?*
+author: Kenan Sevindik
+---
 
 Muhtemelen “On Emir” ilk hali ile bugün erişilemez veya okunamaz olurdu. Çünkü daha on yıl öncesine kadar bilgisayar 
 sistemlerinde mevcut olan disket sürücüler bugün artık yok. Floppy disketlerde mazi oldu. Floppy disketlerdeki 

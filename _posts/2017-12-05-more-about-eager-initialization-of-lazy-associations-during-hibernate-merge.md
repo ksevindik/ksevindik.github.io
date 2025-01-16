@@ -1,4 +1,8 @@
-# More about Eager Initialization of Lazy Associations During Hibernate Merge
+---
+layout: post
+title: More about Eager Initialization of Lazy Associations During Hibernate Merge
+author: Kenan Sevindik
+---
 
 After reading my blog post about eager initialization of lazy 1:1 or M:1 associations because of the cascade merge attribute, 
 someone asked about if it applies for 1:M and M:N associations as well? The answer is, yes it applies.

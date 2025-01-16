@@ -1,4 +1,8 @@
-# Kafesin Ortaya Çıkışı
+---
+layout: post
+title: Kafesin Ortaya Çıkışı
+author: Kenan Sevindik
+---
 Ergenekon soruşturması bir açıdan tarafların arasında teknoloji savaşlarına da sahne oluyor. Bir süre önce Genelkurmay 
 karargahından bir subayın gönderdiği iddia edilen ihbar mektubunda, bilgisayarların disklerinin 35 kere silindikten sonra 
 savcılığa gönderildiği ifade edilmişti. Buradaki 35 rakamı ile kast edilenin aslında verilerin silindikten sonra geri 

@@ -1,4 +1,8 @@
-# Context Sensitive Help For Web Applications
+---
+layout: post
+title: Context Sensitive Help For Web Applications
+author: Kenan Sevindik
+---
 
 Providing help topics relevant to current usage scenarios is a demanding requirement in today’s enterprise web applications. 
 It is generally called as context-sensitive help. Those help systems should automatically navigate to relevant help topics 

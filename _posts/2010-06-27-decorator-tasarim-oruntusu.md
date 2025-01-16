@@ -1,4 +1,8 @@
-# Decorator Tasarim Oruntusu
+---
+layout: post
+title: Decorator Tasarim Oruntusu
+author: Kenan Sevindik
+---
 
 Decorator tasarım örüntüsü ile aslında GOF’un kitabından önce tanıştım. Peter Van Der Linden’in *Beyond Java 1.1* isimli 
 bir kitabı vardı. O zamana kadar tam olarak anlamakta zorlandığım Java I/O paketinin mantığını bu kitap sayesinde bir 

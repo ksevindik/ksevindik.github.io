@@ -1,4 +1,8 @@
-# Sorting Your Beans With Spring OrderComparator
+---
+layout: post
+title: Sorting Your Beans With Spring OrderComparator
+author: Kenan Sevindik
+---
 
 Sometimes you may need to execute your collection of beans in a specified order. For example, in one of our projects, we 
 have a collection of EventHandlers which operate when certain Events occur. For each event, there might be more than one 

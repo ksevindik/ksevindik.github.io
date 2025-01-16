@@ -1,4 +1,8 @@
-# iPhone Ne Kadar Güvenli?
+---
+layout: post
+title: iPhone Ne Kadar Güvenli?
+author: Kenan Sevindik
+---
 
 Geçenlerde Ankara ve İstanbul’da düzenlenen bilgi güvenliği seminerlerine katıldım, konuşmacılar bilişim dünyasının 
 değişik alanlarındaki güvenlik problemlerine değinen sunumlar yaptılar. Bunlardan birisi de iPhone’ların hacklenmesi, 

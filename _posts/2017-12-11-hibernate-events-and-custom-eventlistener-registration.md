@@ -1,4 +1,8 @@
-# Hibernate Events and Custom EventListener Registration
+---
+layout: post
+title: Hibernate Events and Custom EventListener Registration
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/event_listener.jpg)
 

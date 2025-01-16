@@ -1,4 +1,8 @@
-# Tips for Elasticsearch bootstrap failures from Docker
+---
+layout: post
+title: Tips for Elasticsearch bootstrap failures from Docker
+author: Kenan Sevindik
+---
 
 There might be several reasons for elastic search failures during the bootstrap process from the docker container. You 
 might get incredibly frustrated in case you don’t have any clue about what is going on. It was such a case for me recently. 

@@ -1,4 +1,8 @@
-# A Slight Difference Between Autowire byType and constructor
+---
+layout: post
+title: A Slight Difference Between Autowire byType and constructor
+author: Kenan Sevindik
+---
 
 Spring documentation states that both autowire byType and constructor modes expect at most one bean definition in the 
 ApplicationContext, so that it can be autowired into the depending bean. Here is the excerpt taken from 

@@ -1,4 +1,8 @@
-# Mocking ResourceBundle
+---
+layout: post
+title: Mocking ResourceBundle
+author: Kenan Sevindik
+---
 If you want to unit test a method that depends on **java.util.ResourceBundle** and you want to isolate bundle access code by 
 mocking ResourceBundle, using, for example, the JMock Dynamic Mocking Library, you will face a restriction. Commonly used 
 methods such as **getString(key)** are defined as final in the ResourceBundle class, and there is no way to extend and override 

@@ -1,4 +1,8 @@
-# Spring ve Bean Scope Tanımları
+---
+layout: post
+title: Spring ve Bean Scope Tanımları
+author: Kenan Sevindik
+---
 
 Spring’in ilk zamanlarında bean tanımları iki değişik kapsama alanına (scope) sahip olabiliyordu. Eğer bir bean singleton 
 olarak tanımlanmış ise Spring container içerisinde bu bean tanımından sadece tek bir nesne mevcut olabiliyordu. Klasik 

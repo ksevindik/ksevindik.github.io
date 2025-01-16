@@ -1,4 +1,8 @@
-# equals, hashCode ve toString icin pojomatic
+---
+layout: post
+title: equals, hashCode ve toString icin pojomatic
+author: Kenan Sevindik
+---
 
 equals ve hashCode metodlarının doğru ve hatasız biçimde kodlanması, yer aldığım projelerde üstünde durduğum temel 
 konulardandır. Her ne kadar basit görünseler de pek çok programcı arkadaşımız hala bu temel metodları nasıl kodlayacaklarını 

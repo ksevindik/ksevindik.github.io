@@ -1,4 +1,8 @@
-# When It is Useful to Make Use of JPA @MapKey?
+---
+layout: post
+title: When It is Useful to Make Use of JPA @MapKey?
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/jpa_hibernate_mapkey.png)
 

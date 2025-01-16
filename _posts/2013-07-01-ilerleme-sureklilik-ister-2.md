@@ -1,4 +1,8 @@
-# İlerleme Süreklilik İster 2
+---
+layout: post
+title: İlerleme Süreklilik İster 2
+author: Kenan Sevindik
+---
 
 Daha önceki bir yazımda Google’ın gözlük projesinden sonra giyilebilir bilgisayarların gelişiminde öncü role sahip Steve 
 Mann’ın hikayesinden bahsetmiş ve Google’ın gözlük projesini bugün konuşuyor isek biraz da bunu 70’lerin sonlarından bu 

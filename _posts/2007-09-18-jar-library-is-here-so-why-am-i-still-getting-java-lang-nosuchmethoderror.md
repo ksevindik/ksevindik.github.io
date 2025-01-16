@@ -1,4 +1,8 @@
-# Jar Library Is Here, So Why Am I Still Getting java.lang.NoSuchMethodError?
+---
+layout: post
+title: Jar Library Is Here, So Why Am I Still Getting java.lang.NoSuchMethodError?
+author: Kenan Sevindik
+---
 
 Then it means that either you have more than one version of that `jar` library, or there is another `jar` library which 
 contains a class with that problematic method with exactly the same signature.

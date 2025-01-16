@@ -1,4 +1,8 @@
-# HQL ve Criteria Sorgularında FetchMode Farklılıkları
+---
+layout: post
+title: HQL ve Criteria Sorgularında FetchMode Farklılıkları
+author: Kenan Sevindik
+---
 
 Lazy tanımlanmış 1:M bir ilişkinizinin fetch tipini eager’a çektiğiniz vakit sorgu sonucu dönen kayıtlar arasında duplikasyon 
 olduğunu tecrübe ettiğiniz oldu mu? Eğer sorgunuzda Criteria API’sini kullanmış iseniz bu durumla pek muhtemelen 

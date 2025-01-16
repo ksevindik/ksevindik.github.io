@@ -1,4 +1,8 @@
-# NoClassDefFoundError vs ClassNotFoundException
+---
+layout: post
+title: NoClassDefFoundError vs ClassNotFoundException
+author: Kenan Sevindik
+---
 
 Her ikisi de biz java programcılarının karşısına sıklıkla çıkan hatalardandır. Her ikisi de uygulamamızın runtime’da 
 ihtiyaç duyduğu bir class’ın bulunamadığını anlatmaktadır. Ancak aralarındaki farkları bilmek sorunun ana nedenini tespit 

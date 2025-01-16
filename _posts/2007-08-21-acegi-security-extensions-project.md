@@ -1,4 +1,8 @@
-# Acegi Security Extensions Project
+---
+layout: post
+title: Acegi Security Extensions Project
+author: Kenan Sevindik
+---
 `AcegiSecurityFramework` for Spring is a highly popular enterprise security framework for web applications. It provides 
 many authentication and authorization features of very high quality. With the use of `Acegi`, it is now a practical reality 
 to be able to add security features to your system from the ground up without any difficulty.

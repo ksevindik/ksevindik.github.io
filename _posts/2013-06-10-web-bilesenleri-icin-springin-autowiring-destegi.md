@@ -1,4 +1,8 @@
-# Web Bileşenleri İçin Spring’in Autowiring Desteği
+---
+layout: post
+title: Web Bileşenleri İçin Spring’in Autowiring Desteği
+author: Kenan Sevindik
+---
 
 Spring kullanan Java uygulamalarının muhtemelen en az bir yerinde Spring tarafından yönetilmeyen nesnelerin Spring 
 bean’ları ile iletişime geçmesi gerekir. Spring’in AOP kabiliyeti sayesinde Spring tarafından yönetilmeyen domain 

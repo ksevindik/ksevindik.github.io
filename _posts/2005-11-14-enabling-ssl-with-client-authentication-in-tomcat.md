@@ -1,4 +1,8 @@
-# Enabling SSL with Client Authentication in Tomcat
+---
+layout: post
+title: Enabling SSL with Client Authentication in Tomcat
+author: Kenan Sevindik
+---
 It is very common to enable SSL only with server authentication, because it is required by the SSL specification. However, 
 it is not as common to activate client authentication, as it is optional.
 

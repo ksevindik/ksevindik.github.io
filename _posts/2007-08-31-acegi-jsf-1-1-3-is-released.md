@@ -1,4 +1,8 @@
-# Acegi-JSF 1.1.3 is released
+---
+layout: post
+title: Acegi-JSF 1.1.3 is released
+author: Kenan Sevindik
+---
 It was over a year ago that `Çağatay` developed some [JSF components](http://cagataycivici.wordpress.com/2006/01/19/acegi_jsf_components_hit_the/) 
 which correspond to Acegi JSP taglib. We were in the same project at that time and were using Acegi Security Framework 
 extensively. Later, our ways were separated, and we focused on different tasks.

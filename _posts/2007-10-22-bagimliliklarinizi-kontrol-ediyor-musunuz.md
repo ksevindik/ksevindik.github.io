@@ -1,4 +1,8 @@
-# Bağımlılıklarınızı Kontrol Ediyor musunuz?
+---
+layout: post
+title: Bağımlılıklarınızı Kontrol Ediyor musunuz?
+author: Kenan Sevindik
+---
 
 Geçen aylarda `www.springframework.org` sitesinde yapılan bir ankette nesnelerin ihtiyaç duyduğu bağımlılıkların sağlanıp 
 sağlanmadığının hangi yöntemlerle kontrol edildiği sorgulanmıştı. Bu anketten ortaya çıkan ilginç sonuç ise, yaklaşık 

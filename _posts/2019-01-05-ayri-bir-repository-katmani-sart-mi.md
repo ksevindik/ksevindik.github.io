@@ -1,4 +1,8 @@
-# Ayrı Bir Repository Katmanı Şart mı?
+---
+layout: post
+title: Ayrı Bir Repository Katmanı Şart mı?
+author: Kenan Sevindik
+---
 
 Kurumsal yazılım sistemlerinde üç katmanlı mimari yaklaşımı uygulamak “de facto” olmuştur. Bu tür uygulamalarda sunum 
 (presentation), servis (service/business) ve depo (DAO/repository) ayrı ayrı görevlere sahip katmanlar olarak karşımıza 

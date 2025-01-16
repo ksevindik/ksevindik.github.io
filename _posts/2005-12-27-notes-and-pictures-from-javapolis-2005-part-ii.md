@@ -1,4 +1,8 @@
-# Notes and Pictures from JavaPolis 2005 – Part II
+---
+layout: post
+title: Notes and Pictures from JavaPolis 2005 – Part II
+author: Kenan Sevindik
+---
 [..Continued from Part I](20051226_notes-and-pictures-from-javapolis-2005-part-i.md)
 Thursday morning was opened with Stephan’s speech again, and continued with RAD Race results, into which 24 teams attended, 
 and 19 of them were able to produce some sort of deliverable versions in just 12 hours. There were 3 distinct teams, honored 

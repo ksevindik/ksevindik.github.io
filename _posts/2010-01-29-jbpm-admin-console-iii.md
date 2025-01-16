@@ -1,4 +1,8 @@
-# JBPM Admin Console III
+---
+layout: post
+title: JBPM Admin Console III
+author: Kenan Sevindik
+---
 
 Oluşturulan iş akışı programatik olarak, GPD vasıtasıyla veya admin-console üzerinden deploy edilebilir. Programatik 
 olarak deploy etmek için `ProcessDefinition` sınıfının sağladığı `parseParZipInputStream` ve `parseXmlInputStream` 

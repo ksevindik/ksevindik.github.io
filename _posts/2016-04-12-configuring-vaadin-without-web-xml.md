@@ -1,4 +1,8 @@
-# Configuring Vaadin without web.xml
+---
+layout: post
+title: Configuring Vaadin without web.xml
+author: Kenan Sevindik
+---
 
 There is always room for improvement in programming world. After my [initial post](http://www.kenansevindik.com/how-to-start-working-with-vaadin/) 
 about configuring Vaadin in 6 simple steps, one of my friends indicated that we could have used annotation based 

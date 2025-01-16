@@ -1,4 +1,8 @@
-# What is the difference between Strategy and Template Method patterns…, if there is any?
+---
+layout: post
+title: What is the difference between Strategy and Template Method patterns…, if there is any?
+author: Kenan Sevindik
+---
 
 In our [Spring book](http://www.amazon.com/Beginning-Spring-Mert-Caliskan-ebook/dp/B00T1JV8TI/ref=asap_bc?ie=UTF8), we 
 discuss transaction management mechanisms available in the Spring Framework, namely declarative and programmatic 

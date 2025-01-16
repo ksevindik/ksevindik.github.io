@@ -1,4 +1,8 @@
-# JBoss JBPM Admin Console-I
+---
+layout: post
+title: JBoss JBPM Admin Console-I
+author: Kenan Sevindik
+---
 Admin console JBPM dağıtımı ile birlikte gelen bir web uygulamasıdır. `jsf-console.war`’ı web container’ınıza deploy 
 ettiğinizde çalışması için container’da `JbpmDataSource` isimli bir JNDI datasource nesnesinin olması gerekmektedir. 
 Ayrıca console uygulamasının mesaj, yetkilendirme gibi kısımlarında kendinize özgü değişiklikler yapmanız pek muhtemeldir. 

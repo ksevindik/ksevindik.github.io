@@ -1,4 +1,8 @@
-# Hibernate mi, JPA mı?
+---
+layout: post
+title: Hibernate mi, JPA mı?
+author: Kenan Sevindik
+---
 
 Hibernate ile ilgili eğitimlerimizde ve danışmanlık faaliyetlerimizde sıklıkla karşılaştığım sorulardan bazıları JPA mı 
 kullanalım, Hibernate mi? Siz hangisini tercih ediyorsunuz? veya Niçin Hibernate/JPA? şeklinde oluyor.

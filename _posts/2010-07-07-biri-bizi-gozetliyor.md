@@ -1,4 +1,8 @@
-# Biri Bizi Gozetliyor
+---
+layout: post
+title: Biri Bizi Gozetliyor
+author: Kenan Sevindik
+---
 
 Bir süredir tasarım örüntüleri hakkında yazılar yayımlıyorum. Bazı arkadaşlar Java dilinde tasarım örüntülerinin 
 gerçekleştirimi için ne tür hazır yapıların olduğunu merak ettiklerini belirtiyorlar. Gelen sorular doğrultusunda bu 

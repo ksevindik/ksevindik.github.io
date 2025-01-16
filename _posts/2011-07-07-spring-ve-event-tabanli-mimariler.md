@@ -1,4 +1,8 @@
-# Spring ve Event Tabanlı Mimariler
+---
+layout: post
+title: Spring ve Event Tabanlı Mimariler
+author: Kenan Sevindik
+---
 
 Dört günlük [**Spring Application Framework Core Eğitimi**](http://www.java-egitimleri.com/spring.html)‘mizde Spring hakkında pek çok konu üzerinde duruyoruz. Bu 
 konulardan birisi de Spring container’ın event publish mekanizmasıdır. Spring Application Framework ile sistemimizi event 

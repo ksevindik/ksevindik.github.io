@@ -1,4 +1,8 @@
-# Applet Life Cycle Issues in Internet Explorer
+---
+layout: post
+title: Applet Life Cycle Issues in Internet Explorer
+author: Kenan Sevindik
+---
 In the previous blog entry, I had just mentioned about our server-side context sharing mechanism between an `Applet` and 
 web pages in our GIS-enabled project. Users will try to accomplish their scenarios by using those two views. Obviously, 
 there will be switches many times between them during the execution of any use case. Simply, users will enter some data 

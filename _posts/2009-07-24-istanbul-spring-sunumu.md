@@ -1,4 +1,8 @@
-# İstanbul Spring Sunumu
+---
+layout: post
+title: İstanbul Spring Sunumu
+author: Kenan Sevindik
+---
 Bu hafta başında İstanbul Swiss Hotel’de SpringSource’dan Michael Isvy’nin "Spring: from prehistoric times until today" 
 başlıklı konuşmasına katıldım. SpringSource 21-24 Temmuz tarihleri için İstanbul’da Core Spring Eğitimi düzenlemiş. 
 Sanırım buralara kadar gelmişken hem İstanbul’daki Spring kullanıcılarını bir araya getirelim, hem de Spring hakkında 

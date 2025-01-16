@@ -1,4 +1,8 @@
-# Weird Connection Problems with Spring and Hibernate
+---
+layout: post
+title: Weird Connection Problems with Spring and Hibernate
+author: Kenan Sevindik
+---
 At the beginning of this week, a colleague of mine said to me that some JDBC connections were left open in one of our web 
 projects. Before continuing to the rest of the story, let me first draw a rough architectural picture of the project.
 

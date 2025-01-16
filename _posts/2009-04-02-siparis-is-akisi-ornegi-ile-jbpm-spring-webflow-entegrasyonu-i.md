@@ -1,4 +1,8 @@
-# Sipariş İş Akışı Örneği İle JBPM Spring WebFlow Entegrasyonu-I
+---
+layout: post
+title: Sipariş İş Akışı Örneği İle JBPM Spring WebFlow Entegrasyonu-I
+author: Kenan Sevindik
+---
 ## Sipariş Tedarik Süreci
 
 Şimdi bir örnek üzerinden giderek JBPM SWF entegrasyonunu daha yakından inceleyelim. Örnek iş akışımız bir organizasyondaki 

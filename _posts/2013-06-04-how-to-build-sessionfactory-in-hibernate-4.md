@@ -1,4 +1,8 @@
-# How to build SessionFactory in Hibernate 4
+---
+layout: post
+title: How to build SessionFactory in Hibernate 4
+author: Kenan Sevindik
+---
 
 Well, I think it is the first time in Hibernate’s history that it is released with incomplete feature implementations and 
 documentation. I came to this conclusion when I see `Configuration.buildSessionFactory()` method as deprecated.

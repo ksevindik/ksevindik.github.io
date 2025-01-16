@@ -1,4 +1,8 @@
-# Çankaya Üniversitesindeydik
+---
+layout: post
+title: Çankaya Üniversitesindeydik
+author: Kenan Sevindik
+---
 
 [CETÜRK](http://www.ceturk.com/) ve Çankaya Üniversitesi’nin birlikte organize ettiği “Java ve Kariyer Günü” isimli bir 
 günlük etkinlikte bende Java, Kariyer ve Gelecek başlıklı bir sunum yaptım. Çok güzel ve verimli bir etkinlik olduğunu 

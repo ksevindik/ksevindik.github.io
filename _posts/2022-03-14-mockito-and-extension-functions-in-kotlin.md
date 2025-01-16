@@ -1,4 +1,8 @@
-# Mockito and Extension Functions in Kotlin
+---
+layout: post
+title: Mockito and Extension Functions in Kotlin
+author: Kenan Sevindik
+---
 
 Being able to define extension functions to classes that belong to third-party libraries looks very nice at the first 
 point. However, they might become a road blocker during your unit testing, if you are working with Mockito as the mocking 

@@ -1,4 +1,8 @@
-# Moving libraries of web apps into shared folder
+---
+layout: post
+title: Moving libraries of web apps into shared folder
+author: Kenan Sevindik
+---
 
 If you plan to move repeating libraries that several of your web applications depend on to a shared folder of your 
 application server, I would definitely say NO! to this request. One of my clients asked me about centralizing such 

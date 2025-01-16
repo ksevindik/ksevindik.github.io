@@ -1,4 +1,8 @@
-# Yazılım Projelerinde İletişim Kanalları
+---
+layout: post
+title: Yazılım Projelerinde İletişim Kanalları
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/iletisim_kanallari.gif)
 

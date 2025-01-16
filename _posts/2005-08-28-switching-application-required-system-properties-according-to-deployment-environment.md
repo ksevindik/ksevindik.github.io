@@ -1,4 +1,8 @@
-# Switching Application Required System Properties According to Deployment Environment
+---
+layout: post
+title: Switching Application Required System Properties According to Deployment Environment
+author: Kenan Sevindik
+---
 Any serious application depends on a number of configuration properties, such as JDBC connection properties and caching 
 properties. These properties should change according to the target deployment environment.
 

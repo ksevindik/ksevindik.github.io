@@ -1,4 +1,8 @@
-# Neden JSF Değil?
+---
+layout: post
+title: Neden JSF Değil?
+author: Kenan Sevindik
+---
 
 Son zamanlarda bana neden JSF’i terk ettiğimi sıkça soruyorlar. Aslında terk ettiğim sadece JSF değil, kurumsal web 
 uygulamalarında doğrudan XML ve Javascript ile UI geliştirmeyi zorlayan her türlü UI teknolojisi. Kurumsal web 

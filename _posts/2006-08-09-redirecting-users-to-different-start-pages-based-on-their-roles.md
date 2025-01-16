@@ -1,4 +1,8 @@
-# Redirecting Users to Different Start Pages based on Their Roles
+---
+layout: post
+title: Redirecting Users to Different Start Pages based on Their Roles
+author: Kenan Sevindik
+---
 In our project, there is a requirement such that some users may have to be redirected to different start pages based on 
 roles assigned to them other than initially provided `defaultTargetUrl`. Actually, there is a similar discussion in Spring 
 Framework’s forum, suggesting a solution to this issue with extending `AuthenticationProcessingFilter` and overriding its 

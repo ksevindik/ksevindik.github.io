@@ -1,4 +1,8 @@
-# Hibernate ve İkincil ÖnBellek Yazı Dizisi
+---
+layout: post
+title: Hibernate ve İkincil ÖnBellek Yazı Dizisi
+author: Kenan Sevindik
+---
 
 Hibernate ve Second Level Cache’in anlatıldığı bir yazı dizisini yayımladık. Yazılarda Hibernate’in çok sık kullanılmayan, 
 kullanıldığında da zaman zaman saç baş yolduran bu özelliği hakkında dikkat edilmesi gereken noktalar, eşzamanlı erişim 

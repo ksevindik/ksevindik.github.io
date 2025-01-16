@@ -1,4 +1,8 @@
-# Eclipse ve Kubuntu Arasında Kopyala-Yapıştır Problemi
+---
+layout: post
+title: Eclipse ve Kubuntu Arasında Kopyala-Yapıştır Problemi
+author: Kenan Sevindik
+---
 
 Uzun bir aradan sonra dizüstü bilgisayarımda Ubuntu dağıtımı ile Linux kullanmaya başladım. Genel olarak Ubuntu’dan oldukça 
 memnun olmama rağmen geliştirme ortamım ile ilgili bazı problemlerle de karşı karşıya kalmadım değil. Problemlerin çoğu 

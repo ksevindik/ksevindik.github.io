@@ -1,4 +1,8 @@
-# Managing Dependencies With Ant
+---
+layout: post
+title: Managing Dependencies With Ant
+author: Kenan Sevindik
+---
 Every non-trivial Java application has many dependencies on other resources, especially JAR files. We must keep track of 
 which JARs we are utilizing and their versions as the project develops. Systems may undergo several releases during their 
 development lifecycle, and among those releases, dependency lists may change. New JARs may be added, or old versions may 

@@ -1,4 +1,8 @@
-# How to Start Working with Vaadin
+---
+layout: post
+title: How to Start Working with Vaadin
+author: Kenan Sevindik
+---
 
 We are highly satisfied with Vaadin UI Framework in our enterprise Java projects. I recommend it to anyone who are asking 
 advice about what UI framework to use in their enterprise web applications. This article, however, is not about why we 

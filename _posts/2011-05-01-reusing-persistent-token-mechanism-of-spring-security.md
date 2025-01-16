@@ -1,4 +1,8 @@
-# Reusing Persistent Token Mechanism of Spring Security
+---
+layout: post
+title: Reusing Persistent Token Mechanism of Spring Security
+author: Kenan Sevindik
+---
 
 Spring Security Framework exists in my enterprise application development tool suite for ages. Over the years, it has 
 evolved a lot and become a much more reusable and extendable framework for various security needs.

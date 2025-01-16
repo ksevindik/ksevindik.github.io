@@ -1,4 +1,8 @@
-# Peki Apple Kimden Çalmış?
+---
+layout: post
+title: Peki Apple Kimden Çalmış?
+author: Kenan Sevindik
+---
 
 Sene 95, o yaz Bill Gates’in büyük bir gürültü ile Windows 95’i tüm dünyaya tanıttığını daha dün gibi hatırlıyorum. 
 Windows 95, 3.1 ile kıyaslandığında kesinlikle bir ilerlemeydi, ancak Windows 95 ile tanıştığımız pek çok yeniliğin 

@@ -1,4 +1,8 @@
-# Run all TestNG tests with just one click inside Eclipse
+---
+layout: post
+title: Run all TestNG tests with just one click inside Eclipse
+author: Kenan Sevindik
+---
 It can be a little bit annoying if you have looked around in Eclipse and tried to find a shortcut to run all of your 
 tests using **TestNG** with one mouse click. One way of running **TestNG** tests is by creating a `testng.xml` file and 
 defining tests in it. There are several options to define and group tests in this file, in addition to including or 

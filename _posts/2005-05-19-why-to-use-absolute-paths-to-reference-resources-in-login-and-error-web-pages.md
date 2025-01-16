@@ -1,4 +1,8 @@
-# Why to use absolute paths to reference resources in login and error web pages
+---
+layout: post
+title: Why to use absolute paths to reference resources in login and error web pages
+author: Kenan Sevindik
+---
 I think it is a well-known practice to use absolute names to access resources in login and global error pages, but the 
 reason behind it might not be so clear for some of us. The Servlet specification states that when a protected resource 
 is accessed, the request should be directed first to the login page unless the user is authenticated, but it leaves how 

@@ -1,4 +1,8 @@
-# Experiences with JSR-170 and Alfresco, Part I
+---
+layout: post
+title: Experiences with JSR-170 and Alfresco, Part I
+author: Kenan Sevindik
+---
 Nowadays, I have found a chance to read about Java Content Repository API specification, also known as `JSR-170`, and play 
 with `Alfresco`, which is a nice implementation of it.
 

@@ -1,4 +1,8 @@
-# İlginç Bir Transaction Propagation Hikayesi 2
+---
+layout: post
+title: İlginç Bir Transaction Propagation Hikayesi 2
+author: Kenan Sevindik
+---
 
 İlginç Bir Transaction Propagation Hikayesi isimli [blog yazımızın](http://www.kenansevindik.com/ilginc-bir-transaction-propagation-hikayesi/) 
 ilk bölümünde `Foo`, `Bar` ve `Baz` entity’lerini insert eden `FooService` ve `BarService` bean’lerinin birbirlerini 

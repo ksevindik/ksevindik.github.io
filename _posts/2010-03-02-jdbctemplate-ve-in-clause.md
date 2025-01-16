@@ -1,4 +1,8 @@
-# JdbcTemplate ve IN clause
+---
+layout: post
+title: JdbcTemplate ve IN clause
+author: Kenan Sevindik
+---
 
 Farz edelim ki elinizde `select r.id, r.rolename from role_table r where r.rolename in (?)` şeklinde bir sorgu olsun. 
 Başka bir deyişle bir veya daha fazla sayıda `rolename` değeri içeren bir liste ile `role_table`’daki kayıtların bir 

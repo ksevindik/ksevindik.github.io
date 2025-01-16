@@ -1,4 +1,8 @@
-# Hibernate Merge may Cause EAGER Initialization of LAZY OneToOne Associations
+---
+layout: post
+title: Hibernate Merge may Cause EAGER Initialization of LAZY OneToOne Associations
+author: Kenan Sevindik
+---
 
 Let’s have following two simple entities, having 1:1 lazy association between each other.
 

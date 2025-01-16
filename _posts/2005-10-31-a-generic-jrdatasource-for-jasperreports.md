@@ -1,4 +1,8 @@
-# A Generic JRDataSource for JasperReports
+---
+layout: post
+title: A Generic JRDataSource for JasperReports
+author: Kenan Sevindik
+---
 
 It is possible to pass data to JasperReports templates via a custom data source, which implements the `JRDataSource` 
 interface. The reporting engine iterates over the report data collection with the boolean `next()` method and evaluates 

@@ -1,4 +1,8 @@
-# ThreadLocal Değişken Kullananlar, Aman Dikkat!
+---
+layout: post
+title: ThreadLocal Değişken Kullananlar, Aman Dikkat!
+author: Kenan Sevindik
+---
 
 ThreadLocal değişkenler hem Java hem de .NET ile geliştirilen kurumsal uygulamalarda zaman zaman karşımıza çıkıyor. 
 ThreadLocal bir değişkenin değeri her Thread için farklı farklı olabilmektedir. Bu değişkenler, en çok uygulamanın 

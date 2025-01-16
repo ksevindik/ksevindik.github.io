@@ -1,4 +1,8 @@
-# Alırım Façanı Aşağı!
+---
+layout: post
+title: Alırım Façanı Aşağı!
+author: Kenan Sevindik
+---
 
 Geçenlerde İlber Ortaylı’nın **İstanbul’dan Sayfalar** isimli kitabını okurken bu argo deyimle karşılaştım. İlber Ortaylı 
 Osmanlı dönemindeki İstanbul Türkçe’sinin evrenselliğinden bahsederken verdiği örnekler arasında bu deyimde geçiyordu. 

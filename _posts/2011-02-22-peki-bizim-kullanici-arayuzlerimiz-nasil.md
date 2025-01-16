@@ -1,4 +1,8 @@
-# Peki Bizim Kullanıcı Arayüzlerimiz Nasıl?
+---
+layout: post
+title: Peki Bizim Kullanıcı Arayüzlerimiz Nasıl?
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/our_ux_experience.jpeg)
 Resim şimdilerde Fransa’daki kazadan sonra uçuşları durdurulmuş Concorde’ların cockpit’inden bir görüntü. Sizin de bazen 

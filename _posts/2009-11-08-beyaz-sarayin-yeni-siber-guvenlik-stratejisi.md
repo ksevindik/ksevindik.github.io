@@ -1,4 +1,8 @@
-# Beyaz Saray'ın Yeni Siber Güvenlik Stratejisi
+---
+layout: post
+title: Beyaz Saray'ın Yeni Siber Güvenlik Stratejisi
+author: Kenan Sevindik
+---
 
 Başlagıçta sadece Amerika’daki askeri ve akademik çevreleri bir araya getirmesi düşünülen İnternet bugün insanlık için 
 vazgeçilmez bir konuma gelmiştir. Artık global bir bilgi ve iletişim altyapısı olan siberalem, modern toplumun hemen her 

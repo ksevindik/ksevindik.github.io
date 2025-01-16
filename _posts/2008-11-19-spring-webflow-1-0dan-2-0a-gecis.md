@@ -1,4 +1,8 @@
-# Spring WebFlow 1.0’dan 2.0’a Geçiş
+---
+layout: post
+title: Spring WebFlow 1.0’dan 2.0’a Geçiş
+author: Kenan Sevindik
+---
 Bir süredir projelerimizde `Spring WebFlow 1.0.x`’i kullanmaktaydık. `1.0.x`’i kullanmaya başladığımız dönemlerde Spring 
 WebFlow ekibi de `2.0.x` için hummalı bir çalışma içine girmesine rağmen `2.0.x`’in ilk dönemleri üretim hattındaki 
 uygulamaların ihtiyaçlarını karşılayacak kalitede değildi, milestone sürümleri arasında ciddi mimarisel ve APIsel 

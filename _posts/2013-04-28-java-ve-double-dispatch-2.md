@@ -1,4 +1,8 @@
-# Java ve Double Dispatch 2
+---
+layout: post
+title: Java ve Double Dispatch 2
+author: Kenan Sevindik
+---
 
 İlk yazımızda Java’da “single dispatch“in nasıl çalıştığını ve “multiple dispatch” problemini incelemiştik. Eğer metot 
 çözümleme sırasında input argümanında dikkate alınmasını istiyorsak izlememiz gereken yol “metot çözümlemeyi input 

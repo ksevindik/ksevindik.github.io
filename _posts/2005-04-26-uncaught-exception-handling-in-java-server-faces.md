@@ -1,4 +1,8 @@
-# Uncaught Exception Handling in Java Server Faces
+---
+layout: post
+title: Uncaught Exception Handling in Java Server Faces
+author: Kenan Sevindik
+---
 First, a brief flashback on how we can handle uncaught exceptions in web applications. As you're likely aware, there's a 
 general exception/error trapping mechanism for servlet/JSP-based web applications. We simply add error-page definitions 
 in the web.xml file for uncaught exceptions or HTTP status codes to display custom error pages to users, rather than 

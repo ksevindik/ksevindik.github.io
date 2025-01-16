@@ -1,4 +1,8 @@
-# Spring XML ve Annotation Tabanlı Konfigürasyonlar Birbirinin Aynısı mı?
+---
+layout: post
+title: Spring XML ve Annotation Tabanlı Konfigürasyonlar Birbirinin Aynısı mı?
+author: Kenan Sevindik
+---
 
 Yakın bir zamanda [Beginning Spring](http://www.amazon.com/Kenan-Sevindik/e/B00Q4E10XM/) isimli kitabımız üzerinden Spring 
 öğrenmeye çalışan bir arkadaşımdan kitapta okudukları sonrasında kafasında beliren böyle bir soru geldi. Kendisine verdiğim 

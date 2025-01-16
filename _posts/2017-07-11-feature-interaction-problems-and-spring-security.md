@@ -1,4 +1,8 @@
-# Feature Interaction Problems and Spring Security
+---
+layout: post
+title: Feature Interaction Problems and Spring Security
+author: Kenan Sevindik
+---
 
 Feature interaction problem is something that features work smoothly and without any problem in your system individually; 
 however, problems arise with those features when you bring them together. Bertrand Meyer has recently 

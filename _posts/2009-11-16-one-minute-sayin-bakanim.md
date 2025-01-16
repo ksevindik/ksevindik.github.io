@@ -1,4 +1,8 @@
-# One Minute Sayın Bakanım
+---
+layout: post
+title: One Minute Sayın Bakanım
+author: Kenan Sevindik
+---
 
 Ulaştırma Bakanı Binali Yıldırım webstar ödül töreninde Youtube yasağı hakkında konuştu. Keşke konuşmasaydı. Daha bir 
 sene öncesinde bu yasağın artık amacını aştığını belirten kendisiydi. Ancak bu törende yaptığı konuşmada ise Youtube 

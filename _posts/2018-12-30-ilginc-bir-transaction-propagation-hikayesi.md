@@ -1,4 +1,8 @@
-# İlginç Bir Transaction Propagation Hikayesi
+---
+layout: post
+title: İlginç Bir Transaction Propagation Hikayesi
+author: Kenan Sevindik
+---
 
 Aşağıdaki örnekte Foo, Bar ve Baz şeklinde üç basit entity sınıf görüyorsunuz. Foo ve Baz içerisinde PK dışında hiçbir 
 property mevcut değilken, Bar sınıfında ise not null özelliğinde bir name property’si tanımlı. Ayrıca bu entity’leri 

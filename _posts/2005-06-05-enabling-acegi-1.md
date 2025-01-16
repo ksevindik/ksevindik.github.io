@@ -1,4 +1,8 @@
-# Enabling Acegi (1)
+---
+layout: post
+title: Enabling Acegi (1)
+author: Kenan Sevindik
+---
 We have decided to use the [Acegi Security Framework](https://en.wikipedia.org/wiki/Spring_Security) to implement security requirements in our web-based project. However, 
 we might possibly have diverse security requirements beyond form-based authentication and role-based authorization. These 
 could include remoting support, domain object security, run-as capability, single sign-on (SSO), after-invocation security, 

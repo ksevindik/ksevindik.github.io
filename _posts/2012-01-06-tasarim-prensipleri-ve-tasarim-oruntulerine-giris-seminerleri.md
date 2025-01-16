@@ -1,4 +1,8 @@
-# Tasarım Prensipleri ve Tasarım Örüntülerine Giriş Seminerleri
+---
+layout: post
+title: Tasarım Prensipleri ve Tasarım Örüntülerine Giriş Seminerleri
+author: Kenan Sevindik
+---
 
 Aralık 2011’de ODTÜ Enformatik Enstitüsü’nde, arından da dün ODTÜ Bilgisayar Mühendisliği’nde tasarım örüntülerinden ve 
 nesne yönelimli yazılım geliştirmede temel bazı tasarım prensiplerinden bahsettiğimiz iki sunum gerçekleştirdik. Bunlardan 

@@ -1,4 +1,8 @@
-# JSF ViewScope ve JVM Memory Problemleri
+---
+layout: post
+title: JSF ViewScope ve JVM Memory Problemleri
+author: Kenan Sevindik
+---
 
 Şu sıralar büyük bir müşterimizin kurumsal web uygulamasının performans optimizasyonu üzerinde çalışıyoruz. Süreç sonunda 
 uygulamanın kaldırabileceği kullanıcı sayısında ve istekleri ele alma hızında önemli ölçüde iyileşme oldu. Bu iyileştirme 

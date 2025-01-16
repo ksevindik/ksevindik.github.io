@@ -1,4 +1,8 @@
-# Kotlin Exception'ları ve Spring Transaction Yönetimi
+---
+layout: post
+title: Kotlin Exception'ları ve Spring Transaction Yönetimi
+author: Kenan Sevindik
+---
 
 Bilindiği üzere Java programalama dilinde exception’lar checked ve unchecked şeklinde ikiye ayrılır ve geliştirme sürecinde 
 genellikle unchecked exception’larla çalışma tercih edilir. Kotlin’in Java programlama pratiği üzerine koyduğu 

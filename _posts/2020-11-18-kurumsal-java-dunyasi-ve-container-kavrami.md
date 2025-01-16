@@ -1,4 +1,8 @@
-# Kurumsal Java Dünyası ve Container Kavramı
+---
+layout: post
+title: Kurumsal Java Dünyası ve Container Kavramı
+author: Kenan Sevindik
+---
 
 Kurumsal Java dünyasının “Container” kavramı ile ilk tanışması sanırım Java Servlet teknolojisi ve Apache Tomcat ile 
 olmuştur. O günden bu güne kadar da hayatımıza JSP Container’dan EJB Container’a, JSF Container’dan Spring Container’a 

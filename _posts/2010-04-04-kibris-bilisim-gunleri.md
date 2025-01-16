@@ -1,4 +1,8 @@
-# Kıbrıs Bilişim Günleri
+---
+layout: post
+title: Kıbrıs Bilişim Günleri
+author: Kenan Sevindik
+---
 
 3 Nisan 2010 günü Kıbrıs Doğu Akdeniz Üniversitesi’ndeydik. Üniversitenin Yazılım Kulübü’nün düzenlediği Bilişim Günleri 
 isimli etkinlikte [Java, Kariyer ve Gelecek](http://docs.google.com/View?docid=dfvmbc8h_545nvc337fx) isimli bir sunumumu 

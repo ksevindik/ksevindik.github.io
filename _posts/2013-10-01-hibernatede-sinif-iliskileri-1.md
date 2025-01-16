@@ -1,4 +1,8 @@
-# Hibernate’de Sınıf İlişkileri 1
+---
+layout: post
+title: Hibernate’de Sınıf İlişkileri 1
+author: Kenan Sevindik
+---
 
 Herhangi bir ORM çözümünün nesne model üzerinden çalışmayı sağlayabilmesi için öncelikle uygulamanın nesne modeli ile 
 veri modeli arasında eşleştirme yapılması gerekir. Bu aşamada;

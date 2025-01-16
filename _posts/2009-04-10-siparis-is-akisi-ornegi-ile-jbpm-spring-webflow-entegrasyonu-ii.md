@@ -1,4 +1,8 @@
-# Sipariş İş Akışı Örneği İle JBPM Spring WebFlow Entegrasyonu-II
+---
+layout: post
+title: Sipariş İş Akışı Örneği İle JBPM Spring WebFlow Entegrasyonu-II
+author: Kenan Sevindik
+---
 
 Geçen [yazımda](20090402_siparis-is-akisi-ornegi-ile-jbpm-spring-webflow-entegrasyonu-i.md) sipariş iş akışı örneğinden 
 bahsetmeye başlamıştık. Bu yazımda da örneğe devam ederek sipariş iş akışında kullanıcılara atanmış görevlerin işletilmesi 

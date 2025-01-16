@@ -1,4 +1,8 @@
-# Reassociated object has dirty collection reference
+---
+layout: post
+title: Reassociated object has dirty collection reference
+author: Kenan Sevindik
+---
 
 This is something really weird Hibernate error you may come up in several situations. When I first googled around, I 
 found some sites commenting the source of error as “trying to attach a transient entity with the session, or entity with 

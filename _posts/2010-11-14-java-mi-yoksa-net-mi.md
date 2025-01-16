@@ -1,4 +1,8 @@
-# Java mı Yoksa .NET mi?
+---
+layout: post
+title: Java mı Yoksa .NET mi?
+author: Kenan Sevindik
+---
 
 Yada neden Java? Benzer sorularla sık sık karşılaşıyorum. Kişisel olarak hangi platforma yönelmeleri gerektiğini öğrenmek 
 isteyen öğrenci ve yeni mezun arkadaşların yanı sıra, kurumsal olarak da hangi platforma yatırım yapmalarını öğrenmek 

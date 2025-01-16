@@ -1,4 +1,8 @@
-# Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java Teknolojileri
+---
+layout: post
+title: Güncel Yazılım Mühendisliği Pratikleri ve Kurumsal Java Teknolojileri
+author: Kenan Sevindik
+---
 
 28 Nisan 2008 Pazartesi günü ODTÜ Bilgisayar Mühendisliği Bölümü’nde “**Contemporary Software Engineering Practices Together 
 with Enterprise Java Technolojies**” başlıklı bir sunum gerçekleştirme fırsatı buldum. Aşağıda sunumdan yola çıkarak

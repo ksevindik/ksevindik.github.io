@@ -1,4 +1,8 @@
-# A Criteria Builder Idiom for Hibernate Queries
+---
+layout: post
+title: A Criteria Builder Idiom for Hibernate Queries
+author: Kenan Sevindik
+---
 
 This simple idiom continuously appears in our search/find use cases, and several other ones, which have parts, in which 
 we find some data to act on it, according to some specific condition.

@@ -1,4 +1,8 @@
-# Ivy: Agile Dependency Management Tool
+---
+layout: post
+title: Ivy: Agile Dependency Management Tool
+author: Kenan Sevindik
+---
 
 In my opinion, `Ivy` is the best dependency management tool compared to others in the field. Unfortunately, good things 
 don’t always receive enough interest they deserve from the developer community. `Ivy` shares the same destiny in this 

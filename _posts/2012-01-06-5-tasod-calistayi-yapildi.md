@@ -1,4 +1,8 @@
-# 5. TASOD Çalıştayı Yapıldı
+---
+layout: post
+title: 5. TASOD Çalıştayı Yapıldı
+author: Kenan Sevindik
+---
 
 Bedir Tekinerdoğan’nın gayretleri ile her sene düzenlenen Ulusal İlgiye Yönelik Yazılım Geliştirme Çalıştayı’nın 5.si 
 geçen hafta Bilkent Üniversitesi’nde yapıldı. Bu çalıştayların çoğuna katılan birisi olarak sunumlardan oldukça 

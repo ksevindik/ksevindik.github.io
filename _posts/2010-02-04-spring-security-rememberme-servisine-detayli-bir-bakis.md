@@ -1,4 +1,8 @@
-# Spring Security RememberMe Servisine Detaylı Bir Bakış
+---
+layout: post
+title: Spring Security RememberMe Servisine Detaylı Bir Bakış
+author: Kenan Sevindik
+---
 
 ### Spring Security’nin "Beni Hatırla" (Remember-Me) Servisi
 

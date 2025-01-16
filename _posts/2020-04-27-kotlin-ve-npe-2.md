@@ -1,4 +1,8 @@
-# Kotlin ve NPE (2)
+---
+layout: post
+title: Kotlin ve NPE (2)
+author: Kenan Sevindik
+---
 
 Bir önceki [yazımızda](http://www.kenansevindik.com/kotlin-ve-npe/) başladığımız Kotlin’de NPE konusunu incelemeye devam 
 ediyoruz. Peki önceki yazımızda bahsettiğimiz durumların dışında başka hangi durumlarda NPE hatası ile karşılaşırız?

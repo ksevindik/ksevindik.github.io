@@ -1,4 +1,8 @@
-# Korkunun Ecele Faydası Yok Derler
+---
+layout: post
+title: Korkunun Ecele Faydası Yok Derler
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/me_tenis.jpeg)
 

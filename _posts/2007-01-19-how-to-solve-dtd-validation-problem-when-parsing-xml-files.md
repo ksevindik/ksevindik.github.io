@@ -1,4 +1,8 @@
-# How to Solve DTD Validation Problem When Parsing XML Files
+---
+layout: post
+title: How to Solve DTD Validation Problem When Parsing XML Files
+author: Kenan Sevindik
+---
 I think many people, including myself, mistakenly assume that setting the validation feature of an XML parser to `false` 
 is sufficient to prevent exceptions when the DTD specified in an XML file is inaccessible. However, this is not the case. 
 Even if validation is not requested, the XML parser still requires access to the DTD to expand any entity references. 

@@ -1,4 +1,8 @@
-# A Picture From Oracle Coherence Workshop in Istanbul
+---
+layout: post
+title: A Picture From Oracle Coherence Workshop in Istanbul
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/me_andras_at_coherence_workshop.jpeg)
 

@@ -1,4 +1,8 @@
-# Fractal Project
+---
+layout: post
+title: Fractal Project
+author: Kenan Sevindik
+---
 
 Son zamanlarda fraktalların programlamaya uygulanması üzerine kafa yoruyorum. Daha önceki yazımda da bahsettiğim gibi 
 fraktal model ile composite örüntü arasında bire bir örtüşme söz konusu. Bu konuyla ilgili yazılmış çizilmiş başka neler 

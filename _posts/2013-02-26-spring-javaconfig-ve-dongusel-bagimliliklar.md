@@ -1,4 +1,8 @@
-# Spring JavaConfig ve Döngüsel Bağımlılıklar
+---
+layout: post
+title: Spring JavaConfig ve Döngüsel Bağımlılıklar
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/spring_javaconfig_circularity_01.png)
 ![](http://kenansevindik.com/assets/images/spring_javaconfig_circularity_02.png)

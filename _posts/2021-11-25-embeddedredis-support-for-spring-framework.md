@@ -1,4 +1,8 @@
-# EmbeddedRedis Support For Spring Framework
+---
+layout: post
+title: EmbeddedRedis Support For Spring Framework
+author: Kenan Sevindik
+---
 
 When I was working on one of our microservice projects, I’ve come up with a nice [project](https://github.com/ozimov/embedded-redis) 
 which help us to run a Redis Server as embedded within our Java integration tests. Actually, by using such a library, it 

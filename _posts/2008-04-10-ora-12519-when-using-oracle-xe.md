@@ -1,4 +1,8 @@
-# ORA-12519 When Using Oracle XE
+---
+layout: post
+title: ORA-12519 When Using Oracle XE
+author: Kenan Sevindik
+---
 
 I recently installed `Oracle XE` on my laptop and tried to run our project which normally uses `Oracle 10g` in our company. 
 After creating a db user and enabling it, I created tables, sequences, triggers, and stored procedures, etc., by running 

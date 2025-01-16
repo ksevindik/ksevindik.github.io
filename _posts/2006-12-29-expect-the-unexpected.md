@@ -1,4 +1,8 @@
-# Expect the Unexpected
+---
+layout: post
+title: Expect the Unexpected
+author: Kenan Sevindik
+---
 Yes, most of the time you should expect to find out the root causes of performance degradations in your system somewhere 
 else other than your first guess. We have again experienced this rule during previous days. For some period, there was an 
 obvious slowness in our web applications while our web requests were being processed in the system.

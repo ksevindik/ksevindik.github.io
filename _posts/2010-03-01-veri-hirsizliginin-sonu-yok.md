@@ -1,4 +1,8 @@
-# Veri Hırsızlığının Sonu Yok
+---
+layout: post
+title: Veri Hırsızlığının Sonu Yok
+author: Kenan Sevindik
+---
 
 Son dönemlerde dizüstü bilgisayarların yaygınlaşması ile beraber şirketlere özel bilgilerin, kaybolan veya çalınan dizüstü 
 bilgisayarlar nedeni ile istenmeyen kimselerin eline geçmemesi için değişik önlemlerin kullanımı gün geçtikçe artıyor. 

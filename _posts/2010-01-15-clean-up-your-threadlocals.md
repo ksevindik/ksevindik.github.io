@@ -1,4 +1,8 @@
-# Clean Up Your ThreadLocals
+---
+layout: post
+title: Clean Up Your ThreadLocals
+author: Kenan Sevindik
+---
 
 Forgetting to clean up `ThreadLocal` variables might really hurt you. Let’s see how. I have several integration tests with 
 Spring WebFlow and JSF, and in one of them, I have a `setUp` method like this:

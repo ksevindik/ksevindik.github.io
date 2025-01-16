@@ -1,4 +1,8 @@
-# Mockito'da Mock ve Spy Nesnelerin Eğitilmesi
+---
+layout: post
+title: Mockito'da Mock ve Spy Nesnelerin Eğitilmesi
+author: Kenan Sevindik
+---
 
 Bir önceki yazımızda Mockito kütüphanesinin Kotlin projelerinde kullanılması üzerinde durmuştuk. Bu konuya devam edeceğiz. 
 Ancak bu yazımızda Kotlin özelinden çıkıp Mockito’nun kullanımı ile ilgili daha genel bir konudan bahsetmek istiyorum.

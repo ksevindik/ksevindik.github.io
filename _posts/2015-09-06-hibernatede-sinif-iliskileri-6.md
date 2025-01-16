@@ -1,4 +1,8 @@
-# Hibernate’de Sınıf İlişkileri 6
+---
+layout: post
+title: Hibernate’de Sınıf İlişkileri 6
+author: Kenan Sevindik
+---
 
 Bir önceki [yazımız](http://www.kenansevindik.com/hibernatede-sinif-iliskileri-5/)da 1:M entity-bileşen türü ilişkileri 
 incelemiştik. Bu yazımızda ise M:N ilişkileri incelemeye başlayacağız.

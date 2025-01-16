@@ -1,4 +1,8 @@
-# Integrating JSFUnit To Your Project
+---
+layout: post
+title: Integrating JSFUnit To Your Project
+author: Kenan Sevindik
+---
 Actually I am not a big fan of in-container unit testing approaches. They have longer execution times, e.g. container and 
 database startup, initialization times, etc. In addition, they create configuration complexity in terms of packaging of 
 tests and deployment of application together with them. Anyway, recently I needed to examine `JSFUnit` solution more 

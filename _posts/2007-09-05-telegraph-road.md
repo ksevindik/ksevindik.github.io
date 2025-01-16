@@ -1,4 +1,8 @@
-# Telegraph Road
+---
+layout: post
+title: Telegraph Road
+author: Kenan Sevindik
+---
 ![](http://kenansevindik.com/assets/images/telegraph_road.jpeg)
 
 I am a big fan of the British music band Dire Straits. Their “Telegraph Road” song is among the ones I like the most and 

@@ -1,4 +1,8 @@
-# Spring Boot Test Ortamı ve Redis
+---
+layout: post
+title: Spring Boot Test Ortamı ve Redis
+author: Kenan Sevindik
+---
 
 Spring ekosisteminde çalışırken en çok hoşuma giden özelliklerden birisi de entegrasyon testlerini çalıştırırken veri 
 erişim işlemleri ile ilgili işlemleri hafızada çalışan gömülü bir veritabanı (H2 veya Derby) ile kolayca gerçekleştirebilmemizdir. 

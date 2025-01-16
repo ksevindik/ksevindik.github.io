@@ -1,4 +1,8 @@
-# EhCache Configuration in Replicated Mode
+---
+layout: post
+title: EhCache Configuration in Replicated Mode
+author: Kenan Sevindik
+---
 
 <img height="300" (src="http://kenansevindik.com/assets/images/cache_peers.png" width="300"/>
 

@@ -1,4 +1,8 @@
-# Javanın Geleceği Hakkında Tahminler
+---
+layout: post
+title: Javanın Geleceği Hakkında Tahminler
+author: Kenan Sevindik
+---
 
 Java dünyasında yakın bir gelecekte meydana gelebilecek gelişmeler ve yeniliklerle ilgili güzel bir 
 [makale](http://www.drdobbs.com/java/223101669). Makalede artık Java’nın multicore donanım mimarilerindeki gelişmeleri 

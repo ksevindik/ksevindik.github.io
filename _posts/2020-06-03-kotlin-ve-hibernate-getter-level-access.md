@@ -1,4 +1,8 @@
-# Kotlin ve Hibernate Getter Level Access
+---
+layout: post
+title: Kotlin ve Hibernate Getter Level Access
+author: Kenan Sevindik
+---
 
 JPA/Hibernate ile çalışırken PersistenceContext’in entity nesnelerin state’ine doğrudan field düzeyinde mi, yoksa getter 
 metot ile mi erişeceğini @Id anotasyonunu nerede kullandığımız belirlemektedir. Eğer @Id anotasyonunu field üzerinde 

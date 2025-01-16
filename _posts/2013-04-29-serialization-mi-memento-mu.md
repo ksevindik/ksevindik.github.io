@@ -1,4 +1,8 @@
-# Serialization mı Memento mu?
+---
+layout: post
+title: Serialization mı Memento mu?
+author: Kenan Sevindik
+---
 
 Geçen hafta düzenlediğimiz ve hem benim hem de katılımcılar için oldukça verimli ve eğlenceli geçtiğini düşündüğüm 
 uygulamalı “Nesne Yönelimli Tasarım Prensipleri ve Tasarım Örüntüleri Eğitimi”nde Memento örüntüsünü inceleyip Java’da 

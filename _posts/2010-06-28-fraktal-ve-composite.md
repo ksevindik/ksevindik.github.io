@@ -1,4 +1,8 @@
-# Fraktal ve Composite
+---
+layout: post
+title: Fraktal ve Composite
+author: Kenan Sevindik
+---
 
 Geçenlerde okuduğum bir [kitapta](http://www.amazon.com/Business-Engineering-Object-Technology-Taylor/dp/0471045217), 
 fraktal örüntülerin aslında sağlam bir programlama modeli oluşturabileceğinden 

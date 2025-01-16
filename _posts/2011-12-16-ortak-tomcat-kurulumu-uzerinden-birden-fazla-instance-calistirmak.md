@@ -1,4 +1,8 @@
-# Ortak Tomcat Kurulumu Üzerinden Birden Fazla Instance Çalıştırmak
+---
+layout: post
+title: Ortak Tomcat Kurulumu Üzerinden Birden Fazla Instance Çalıştırmak
+author: Kenan Sevindik
+---
 
 Zaman zaman aynı makina üzerinde birden fazla Tomcat instance’ını çalıştırmak isteyebiliriz. Bunun için farklı Tomcat 
 kurulumları yapmak kolay ve hızlı bir çözüm olabilir, ancak güncelleme ve projelerin paylaştıkları kütüphanelerin yönetimi 

@@ -1,4 +1,8 @@
-# Spring Konfigürasyonu: XML mi, Annotasyonlar mı, Yoksa Java mı?
+---
+layout: post
+title: Spring Konfigürasyonu: XML mi, Annotasyonlar mı, Yoksa Java mı?
+author: Kenan Sevindik
+---
 
 Spring Application Framework konfigürasyon metadatasının oluşturulabilmesi için üç farklı yol sunmaktadır. Bunlar XML, 
 java annotasyonları ve java kodu şeklindedir. Spring ilk çıktığı günden bu yana XML konfigürasyon metadata formatını 

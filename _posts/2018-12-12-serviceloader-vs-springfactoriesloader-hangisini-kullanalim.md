@@ -1,4 +1,8 @@
-# ServiceLoader vs SpringFactoriesLoader, Hangisini Kullanalım?
+---
+layout: post
+title: ServiceLoader vs SpringFactoriesLoader, Hangisini Kullanalım?
+author: Kenan Sevindik
+---
 
 Java’nın ServiceLoader kabiliyeti, Java 1.6’dan bu yana sunulan, ancak pek de bilinmeyen, basit bir kabiliyettir. Biraz 
 da Spring’in gölgesinde kalmıştır diyebiliriz. Sonuçta ServiceLoader ile sunulan kabiliyeti de kapsayan ve çok daha 

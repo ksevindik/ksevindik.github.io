@@ -1,4 +1,8 @@
-# Kafka Transactions in Spring Enabled Applications
+---
+layout: post
+title: Kafka Transactions in Spring Enabled Applications
+author: Kenan Sevindik
+---
 
 Kafka’s transactions are very suitable for scenarios that have a read-process-write pattern. It will be enough to add the 
 following property definition in your application in order to enable Kafka transactions while you are working with Spring 

@@ -1,4 +1,8 @@
-# Customizing JSF Required Field Messages per Component Instance
+---
+layout: post
+title: Customizing JSF Required Field Messages per Component Instance
+author: Kenan Sevindik
+---
 JSF is advantageous in that it provides several useful built-in features for validating entered values or ensuring that 
 required values are provided. However, it falls short in providing sufficient mechanisms for developers to customize 
 these features at the level of each component instance. This is a common drawback of the JSF specification in general.

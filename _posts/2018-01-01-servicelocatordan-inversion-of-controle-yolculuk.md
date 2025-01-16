@@ -1,4 +1,8 @@
-# ServiceLocator'dan Inversion of Control'a Yolculuk
+---
+layout: post
+title: ServiceLocator'dan Inversion of Control'a Yolculuk
+author: Kenan Sevindik
+---
 Harezmi Bilişim Çözümleri olarak 7 seneden fazla bir zamandır `Spring Application Framework` ile ilgili eğitimler 
 veriyoruz. `J2EE`’nin ilk dönemlerinde kurumsal Java uygulamaları geliştirilirken kullanılan `ServiceLocator` 
 örüntüsünün nasıl `IoC` veya `Dependency Injection`’a doğru evrildiğini anlamanın `Spring Application Framework`’ün özünü 

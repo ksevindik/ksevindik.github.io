@@ -1,4 +1,8 @@
-# JBPM Admin Console II
+---
+layout: post
+title: JBPM Admin Console II
+author: Kenan Sevindik
+---
 
 JBPM’in JPA ile entegre edilmesi, Spring WebFlow ile birlikte kullanılması hakkında yayımladığım blog yazılarından sonra 
 sık sık JBPM ile ilgili sorular alıyorum. Bu soruların bir kısmı genel olarak JBPM’in tercih edilmesi, diğer bir kısmı 

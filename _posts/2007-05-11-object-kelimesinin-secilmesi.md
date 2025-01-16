@@ -1,4 +1,8 @@
-# Object Kelimesinin Seçilmesi
+---
+layout: post
+title: Object Kelimesinin Seçilmesi
+author: Kenan Sevindik
+---
 
 Kelimeler hiç şüphesiz düşüncelerimizi, hayal dünyamızı, algılarımızı şekillendiriyor. Fikir dünyamız için yeni açılımlar 
 getirmede kolaylaştırıcı bir rol üstlenebiliyorlar, veya tam tersine düşüncelerimiz önünde zaman zaman engel olabiliyorlar.

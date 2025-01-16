@@ -1,4 +1,8 @@
-# Bir Bulut Olsam
+---
+layout: post
+title: Bir Bulut Olsam
+author: Kenan Sevindik
+---
 
 Sürekli bir dönüşüm içerisinde olan ve hemen her gün yeni teknolojilerin, uygulamaların ve cihazların karşımıza çıktığı 
 bilişim dünyasında son dönemde ortaya çıkan bir yenilik ise “cloud computing” yani Türkçe’deki yaygın kullanımı ile 

@@ -1,4 +1,8 @@
-# Styling HTML Input File Elements
+---
+layout: post
+title: Styling HTML Input File Elements
+author: Kenan Sevindik
+---
 It is nearly impossible to ensure that HTML input file elements match the appearance of other parts of web applications. 
 Browsers offer limited possibilities for styling them, if any at all. However, in newer browser versions, there are some 
 tricks that can help alleviate this common styling problem, and one such method for styling input file elements is 

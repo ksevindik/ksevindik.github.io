@@ -1,4 +1,8 @@
-# Notes and Pictures from JavaPolis 2005 – Part I
+---
+layout: post
+title: Notes and Pictures from JavaPolis 2005 – Part I
+author: Kenan Sevindik
+---
 This year, I had a chance to attend `JavaPolis 2005` in Antwerpen, Belgium with 3 of my colleagues. I want to provide day 
 by day information about this year's workouts, and other interesting happenings in my blog. This year's activity had 
 consisted mainly of University, Conference, BOF, Quicky sessions and lasted 5 days between 12th and 16th of December.

@@ -1,4 +1,8 @@
-# Accessing An Object Whose Class Is Already Loaded By Another ClassLoader
+---
+layout: post
+title: Accessing An Object Whose Class Is Already Loaded By Another ClassLoader
+author: Kenan Sevindik
+---
 Let’s assume you use the inter-ServletContext communication mechanism to transfer an Object created by one web application 
 to another web application. In order to make this object fully available to your target web application, you must ensure 
 that those two web applications use the same ClassLoader to load that object’s class.

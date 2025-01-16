@@ -1,4 +1,8 @@
-# Things to Fix When Upgrading from Spring Security 3.2.x to 4.x
+---
+layout: post
+title: Things to Fix When Upgrading from Spring Security 3.2.x to 4.x
+author: Kenan Sevindik
+---
 
 Some things have been changed in Spring Security 4.x compared to previous 3.2.x branches. They are not overwhelming but 
 you may have to deal with them so that your application can work without any problem after upgrading to Spring 4.x 

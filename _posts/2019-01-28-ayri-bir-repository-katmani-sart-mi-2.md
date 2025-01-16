@@ -1,4 +1,8 @@
-# Ayrı Bir Repository Katmanı Şart mı? (2)
+---
+layout: post
+title: Ayrı Bir Repository Katmanı Şart mı? (2)
+author: Kenan Sevindik
+---
 
 Daha önceki bir [yazımda](http://www.kenansevindik.com/ayri-bir-repository-katmani-sart-mi/) ayrı bir repository katmanı 
 şart mı? diye sormuş ve ORM teknolojilerinin ve JPA’nın popülerleşmesi ile CRUD tabanlı bir takım uygulamalarda yazılım 

@@ -1,4 +1,8 @@
-# Spring Uygulamalarında Kafka ile Transaction Yönetimi
+---
+layout: post
+title: Spring Uygulamalarında Kafka ile Transaction Yönetimi
+author: Kenan Sevindik
+---
 
 Kafka’nın transaction kabiliyeti read-process-write örüntüsüne sahip senaryolar için gayet uygundur. Spring Boot ve Spring 
 Kafka ile çalışırken Kafka’nın transaction kabiliyetini devreye almak için aşağıdaki property tanımını yapmak yeterlidir.

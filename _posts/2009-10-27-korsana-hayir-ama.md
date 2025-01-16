@@ -1,4 +1,8 @@
-# Korsana hayır ama...
+---
+layout: post
+title: Korsana hayır ama...
+author: Kenan Sevindik
+---
 
 Bir kitapçıdan satın aldığımız ve çok beğendiğimiz bir romanı arkadaşımızın okuması için ona bir süreliğine ödünç veririz. 
 Yada eskimiş, artık okumadığımız, kullanmadığımız kitaplarımız, dinlemediğimiz plaklarımız, seyretmediğimiz video 

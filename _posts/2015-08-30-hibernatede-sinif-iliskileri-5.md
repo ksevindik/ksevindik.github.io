@@ -1,4 +1,8 @@
-# Hibernate’de Sınıf İlişkileri 5
+---
+layout: post
+title: Hibernate’de Sınıf İlişkileri 5
+author: Kenan Sevindik
+---
 
 Hibernate’de sınıf ilişkilerini incelediğimiz yazı dizimizin [bir önceki bölümü](http://www.kenansevindik.com/hibernatede-sinif-iliskileri-4/)nde 
 entity’ler arasındaki 1:M türünden ilişkileri ele almıştık. Bu bölümde ise target sınıfı component yani bileşen olan 1:M 

@@ -1,4 +1,8 @@
-# Enabling SSL on Apache HTTP Server
+---
+layout: post
+title: Enabling SSL on Apache HTTP Server
+author: Kenan Sevindik
+---
 
 After opening our JIRA to outside world via Apache HTTP Server, the next obvious thing was securing communication between
 users and the web server. Enabling SSL on Apache HTTP Server is really easy. The key ingredients of securing Apache are

@@ -1,4 +1,8 @@
-# Is It Possible To Change Entity Fetch Strategy During Hibernate Merge?
+---
+layout: post
+title: Is It Possible To Change Entity Fetch Strategy During Hibernate Merge?
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/hibernate_sherlock_holmes.jpg)
 

@@ -1,4 +1,8 @@
-# Spring ve Test Driven Programlama
+---
+layout: post
+title: Spring ve Test Driven Programlama
+author: Kenan Sevindik
+---
 
 Bir önceki yazımda `Spring Framework`'ün test driven yazılım geliştirmeye ciddi katkılarının olduğunu ifade etmiştim. Bu 
 3 temel nedene dayanıyor;

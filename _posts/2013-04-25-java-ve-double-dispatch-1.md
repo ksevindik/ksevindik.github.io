@@ -1,4 +1,8 @@
-# Java ve Double Dispatch 1
+---
+layout: post
+title: Java ve Double Dispatch 1
+author: Kenan Sevindik
+---
 
 Hepimizin bildiği gibi Java polymorphic (çok formlu) bir dildir. Çok formluluk java uygulamasının içindeki metot 
 çağrılarının spesifik olarak hangi sınıftaki metot tanımı ile yapılacağının çalışma zamanına kadar ötelenmesi ile 

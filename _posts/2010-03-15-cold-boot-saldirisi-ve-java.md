@@ -1,4 +1,8 @@
-# Cold Boot Saldırısı ve Java
+---
+layout: post
+title: Cold Boot Saldırısı ve Java
+author: Kenan Sevindik
+---
 
 Daha önceki bir [yazımda](http://www.kenansevindik.com/veri-hirsizliginin-sonu-yok/) “cold booting” yöntemi ile kapanmasının 
 üzerinden az bir zaman geçmiş olan bir bilgisayarın hafızasındaki verilerin kopyalanıp, bu veriler arasından sizin 

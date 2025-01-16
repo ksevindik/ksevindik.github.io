@@ -1,4 +1,8 @@
-# Providing Tooltip Help Messages Dynamically Using Ajax Functionality
+---
+layout: post
+title: Providing Tooltip Help Messages Dynamically Using Ajax Functionality
+author: Kenan Sevindik
+---
 This is actually part of context-sensitive help requirements in our web application project. We should be able to provide 
 small informative messages for HTML components, displaying them as tooltips on our web pages when the user moves the mouse 
 over those components.

@@ -1,4 +1,8 @@
-# Java Dergisi Yazıları
+---
+layout: post
+title: Java Dergisi Yazıları
+author: Kenan Sevindik
+---
 
 2010 yılında bir girişimle Özcan Acar tarafından hayata geçirilen Java Dergisi malesef kısa bir süre sonra yayın hayatına 
 veda etmişti. O dönemde bende dergiye yazılarımla katkıda bulunuyordum. Derginin ilk iki sayısında yayımlanan ve 3. sayısı 

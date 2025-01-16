@@ -1,4 +1,8 @@
-# İstanbul Cup Üçüncü Sınıf Kalmaya Mahkum Edildi
+---
+layout: post
+title: İstanbul Cup Üçüncü Sınıf Kalmaya Mahkum Edildi
+author: Kenan Sevindik
+---
 
 Şimdiye kadar toprak kortta düzenlenen `WTA İstanbul Cup` turnuvası, bu sene mekan değişikliği ile İstinye’de yapılan 
 sert kortlara taşındı. Ayrıca organizasyonun tarihi de Mayıs’ın son haftasından Temmuz’un son haftasına kaydırıldı.

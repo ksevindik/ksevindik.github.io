@@ -1,4 +1,8 @@
-# Kotlin'de Singleton Nasıl Implement Edilir?
+---
+layout: post
+title: Kotlin'de Singleton Nasıl Implement Edilir?
+author: Kenan Sevindik
+---
 
 Java programlama dilinde “static” keyword ile statik sınıflar , statik metotlar ve statik değişkenler tanımlarız. Java’da 
 statik olarak tanımlanmış metot ve değişkenlere de, herhangi bir nesneye ihtiyaç duymadan, sınıf düzeyinde erişebiliriz. 

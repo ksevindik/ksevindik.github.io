@@ -1,4 +1,8 @@
-# BeanFactoryLocator ve Spring ile Modüler Programlama
+---
+layout: post
+title: BeanFactoryLocator ve Spring ile Modüler Programlama
+author: Kenan Sevindik
+---
 
 Spring ile ilgili bir önceki [yazımızda](http://www.kenansevindik.com/spring-ve-applicationcontext-hiyerarsisi/) 
 BeanFactoryLocator yardımı ile web uygulamalarında parent-child ApplicationContext 

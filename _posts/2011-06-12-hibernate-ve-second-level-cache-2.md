@@ -1,4 +1,8 @@
-# Hibernate ve Second Level Cache
+---
+layout: post
+title: Hibernate ve Second Level Cache
+author: Kenan Sevindik
+---
 ![](http://kenansevindik.com/assets/images/hibernate_second_level_cache.png)
 
 Hibernate iki seviyeli cache mimarisine sahiptir. Birinci düzeyde cache rolünü persistence context üstlenmektedir ve 

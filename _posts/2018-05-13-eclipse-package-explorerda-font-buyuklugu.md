@@ -1,4 +1,8 @@
-# Eclipse Package Explorer'da Font Büyüklüğü
+---
+layout: post
+title: Eclipse Package Explorer'da Font Büyüklüğü
+author: Kenan Sevindik
+---
 
 Uzun zamandır geliştirme platformu olarak Eclipse/Spring Tool Suite’i tercih ediyorum ve Kurumsal Java Eğitimleri’mizde 
 de bunu kullanıyorum. Eğitimler sırasında Eclipse içerisinde açılan editor’lerin fontlarını 

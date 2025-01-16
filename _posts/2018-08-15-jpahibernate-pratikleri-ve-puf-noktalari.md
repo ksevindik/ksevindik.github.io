@@ -1,4 +1,8 @@
-# JPA/Hibernate Pratikleri ve Püf Noktaları
+---
+layout: post
+title: JPA/Hibernate Pratikleri ve Püf Noktaları
+author: Kenan Sevindik
+---
 
 ![](http://kenansevindik.com/assets/images/jpa_hibernate_tips_tricks.png)
 

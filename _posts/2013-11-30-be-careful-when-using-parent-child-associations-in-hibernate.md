@@ -1,4 +1,8 @@
-# Be Careful When Using Parent-Child Associations in Hibernate
+---
+layout: post
+title: Be Careful When Using Parent-Child Associations in Hibernate
+author: Kenan Sevindik
+---
 
 Parent-child relationships are a special case of more general 1:M associations. They are simply part-whole relationships 
 and for Hibernate it is not meaningful that parts (children) should exist without belonging to a whole (parent).

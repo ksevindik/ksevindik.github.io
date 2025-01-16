@@ -1,4 +1,8 @@
-# Error while generating JAXB Classes from XSD File
+---
+layout: post
+title: Error while generating JAXB Classes from XSD File
+author: Kenan Sevindik
+---
 
 You may get following error when you try to generate JAXB classes from your XSD files within Eclipse IDE.
 

@@ -1,4 +1,8 @@
-# Spring ve Tapestry’de IoC Yaklaşımları 2
+---
+layout: post
+title: Spring ve Tapestry’de IoC Yaklaşımları 2
+author: Kenan Sevindik
+---
 
 [İlk bölümde](http://www.kenansevindik.com/spring-ve-tapestryde-ioc-yaklasimlari/) Spring ve Tapestry Framework’lerini 
 IoC container oluşturma kabiliyetleri ve bağımlılıkların enjekte edilmesi konuları üzerinde durmuştuk. Bu bölümde ise 

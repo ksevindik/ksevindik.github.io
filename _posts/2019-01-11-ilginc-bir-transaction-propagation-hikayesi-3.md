@@ -1,4 +1,8 @@
-# İlginç Bir Transaction Propagation Hikayesi 3
+---
+layout: post
+title: İlginç Bir Transaction Propagation Hikayesi 3
+author: Kenan Sevindik
+---
 
 İlginç Bir Transaction Propagation Hikayesi başlıklı yazı dizisinin [ikinci bölümü](http://www.kenansevindik.com/ilginc-bir-transaction-propagation-hikayesi-2/)nde 
 Foo, Bar ve Baz entity’lerinden hiçbirinin mevcut durumda DB’ye insert edilemediğini söylemiştim. Ancak problemde 

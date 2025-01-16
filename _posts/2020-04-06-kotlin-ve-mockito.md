@@ -1,4 +1,8 @@
-# Kotlin ve Mockito
+---
+layout: post
+title: Kotlin ve Mockito
+author: Kenan Sevindik
+---
 
 TDD ile programlama yapan Java yazılım geliştiricilerin en temel araçlarından birisi de Mockito mock kütüphanesidir. 
 Mockito yardımı ile arayüz ve sınıflardan mock ve stub nesneler oluşturarak, bunları eğittikten sonra test ettiğimiz 

@@ -1,4 +1,8 @@
-# Delegating Authentication to JAAS Module in Acegi Security
+---
+layout: post
+title: Delegating Authentication to JAAS Module in Acegi Security
+author: Kenan Sevindik
+---
 We are currently using Acegi Security in our web project. At the moment, we employ its form-based authentication. In the 
 future, we have to integrate our web application with an environment in which JAAS-based single sign-on mechanism will be 
 used for authentication. As a first step, we tried to delegate authentication to a JAAS module using Acegi’s 

@@ -1,4 +1,8 @@
-# Spring Application Framework ve Tasarım Örüntüleri 2
+---
+layout: post
+title: Spring Application Framework ve Tasarım Örüntüleri 2
+author: Kenan Sevindik
+---
 
 Önceki [yazılarımızdan](http://www.kenansevindik.com/spring-application-frameworkde-kullanilan-tasarim-oruntuleri/) birinde 
 Spring Application Framework’de kullanılan örüntülerin bir kısmından bahsetmiştik. Factory Method, Singleton, Prototype, 
