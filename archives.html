@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Archive
+title: Post Archives
 permalink: /archives/
 ---
 
-<h1>Post Archive</h1>
+<h1>Post Archives</h1>
 <ul>
     {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
     {% for year_group in posts_by_year %}
