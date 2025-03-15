@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the World of APIs:: Understanding Different Styles
+title: Navigating the World of APIs, Understanding Different Styles
 author: Kenan Sevindik
 ---
 
