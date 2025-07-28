@@ -8,41 +8,39 @@
 
 ## Summary
 
-Highly experienced **Software Architect** with over two decades of expertise in **Enterprise Java, microservices, and software architecture**. Proven ability to lead and contribute to numerous projects, helping organizations adopt modern technologies such as **Spring Boot, JPA/Hibernate, Vaadin**.&#x20;
+Highly experienced **Software Architect** with over two decades of expertise in **scalable system design, microservices, and enterprise Java solutions**. Skilled in **event-driven architectures, advanced software design principles**, and modern technologies such as Spring Boot, Kafka, Kubernetes, and Docker, with a strong track record of **technical leadership and architectural decision-making** across distributed teams.
 
 Strong background in:
 
-* Software Development Practices & Architectures
-* Technical Leadership & Consulting
-* Infrastructure & Middleware Development
-* Agile Software Project Management
-* Object Oriented Software Analysis & Design Methods
-* Software Testing & Quality Assurance
-* Enterprise Java Technologies, Spring, Spring Security, JPA/Hibernate, AspectJ, Vaadin
+* Software Architecture & Scalable System Design with Java and Microservices
+* Designing and implementing Event-Driven Architectures (EDA) with Kafka-based messaging systems
+* Applying advanced architectural principles such as Domain-Driven Design (DDD), CQRS, Event Sourcing
+* Object-Oriented Analysis & Design using UML and Design Patterns
+* Enterprise Java Technologies, including Spring Boot, Spring Security, JPA/Hibernate, AspectJ, Vaadin
+* Technical Leadership, Architectural Decision Making & Consulting across distributed teams
+* Infrastructure & Middleware Development in enterprise environments
+* Containerized application orchestration and monitoring with Kubernetes, Rancher, and Docker
+* Various data management and persistence technologies, such as MySQL, Oracle, Elasticsearch, Redis
+* Agile Software Project Management and iterative development practices
+* Software Testing, and Quality Assurance
 
 ## Experience
 
-### **Software Architect** | Udemy | *Full-time*
+### **Software Architect** | Udemy | *Contractor, Full-time*
 
-📅 *Sep 2021 - Present · 3 yrs 7 mos* | 📍 *Ankara, Turkey · Hybrid*
-
-* Expanded responsibilities to support multiple teams in Turkey, including payments and instructor teams.
-* Initiated and lead development of an acceptance testing framework and library for Spring Kotlin-based microservices, actively supporting its adoption and maintenance across the organization.
-
-### **Software Architect** | Udemy | *Contractor*
-
-📅 *Sep 2019 - Sep 2021 · 2 yrs 1 mo* | 📍 *Ankara, Turkey*
+📅 *Sep 2019 - Present · 5 yrs 10 mos* | 📍 *Ankara, Turkey · Hybrid*
 
 * Helped the company adopt microservices and enterprise Java technologies while leading development of a software solution supporting partnership team business functionalities.
-* Participated in a technology council to transform the organization’s skills and technology ecosystem.
+* Initiated and lead development of an acceptance testing framework and library for Spring Kotlin-based microservices, actively supporting its adoption and maintenance across the organization.
 * Initiated and continue to guide a collaborative knowledge and experience-sharing program to facilitate expertise diffusion and foster strong employee bonds across Udemy.
+* Supported multiple teams in Turkey, including partnership, comms, payments and instructor teams over time.
 
 ### **Technical Consultant** | Trendyol Group | *Contractor*
 
 📅 *Apr 2019 - Sep 2019 · 6 mos* | 📍 *Istanbul, Turkey*
 
 * Provided technical consultancy and mentoring for multiple software teams.
-* Applied expertise in Software Design and Microservices.
+* Applied expertise in design and development of several microservices.
 
 ### **Founder & Partner** | Harezmi IT Solutions | *Full-time*
 
