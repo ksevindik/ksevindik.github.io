@@ -23,3 +23,5 @@ Developer, Business Component Developer, and Vaadin UI Framework Developer.
 I am one of the authors of the book [Beginning Spring](https://www.amazon.com/author/kenansevindik), published by Wiley Publishing in 2015. Writing and speaking 
 engagements have allowed me to share my experiences with software developers across different organizations and seminars 
 for years, which I thoroughly enjoy.
+
+My classical CV can be found [here](cv).
