@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: 
+subtitle:
 ---
 
 I graduated from the Computer Engineering Department of Middle East Technical University (METU) in 1999, and my 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Tech Talks
+subtitle:
 ---
 - [Spring AOP ve Hibernate ile Servis Düzeyinde Audit Logları Oluşturmak - CETURK İstanbul 2009](https://www.youtube.com/watch?v=_dcc9cfBw6s)
 - [Java Kariyer ve Gelecek - CETURK Ankara, Çankaya Üniversitesi 2010](https://youtu.be/FxUVjFYIdIE)
