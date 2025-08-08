@@ -15,5 +15,5 @@ subtitle:
 - [JPA / Hibernate Practices and Tips - JakartaOne Livestream Turkish 2021](https://www.youtube.com/watch?v=llIGWirvxcs)
 - [Consumer Driven Contract Tests in Microservices - Java Day Istanbul 2021](https://www.youtube.com/watch?v=AbKDTpLF7XQ)
 - [Bir Dinazorun Java'dan Kotlin'e yolculuğu - Istanbul Java User Group 2022](https://www.youtube.com/watch?v=ZJa8i7VHPIM)
-- [mikroservis Geliştirme Perspektifinden Farklı API Stilleri - Udemy Meetup Day 2022](https://youtu.be/L_JkekFd0Dc?t=7494)
+- [Mikroservis Geliştirme Perspektifinden Farklı API Stilleri - Udemy Meetup Day 2022](https://youtu.be/L_JkekFd0Dc?t=7494)
 - [Building Reliable Microservices: Simplifying Functional Integration Testing with Ease - Java Day Istanbul 2025](https://www.youtube.com/watch?v=jwzrLbg1Z_c)
