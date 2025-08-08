@@ -24,4 +24,4 @@ I am one of the authors of the book [Beginning Spring](https://www.amazon.com/au
 engagements have allowed me to share my experiences with software developers across different organizations and seminars 
 for years, which I thoroughly enjoy.
 
-My classical CV can be found [here](cv).
+My classical CV can be found [here](/cv).
