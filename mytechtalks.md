@@ -3,8 +3,10 @@ layout: page
 title: My Tech Talks
 subtitle:
 ---
+- [Spring AOP ve Hibernate ile Servis Düzeyinde Audit Logları Oluşturmak - CETURK Ankara 2009](https://vimeo.com/5984038)
 - [Spring AOP ve Hibernate ile Servis Düzeyinde Audit Logları Oluşturmak - CETURK İstanbul 2009](https://www.youtube.com/watch?v=_dcc9cfBw6s)
-- [Java Kariyer ve Gelecek - CETURK Ankara, Çankaya Üniversitesi 2010](https://youtu.be/FxUVjFYIdIE)
+- [Java Kariyer ve Gelecek Sunum - CETURK Ankara, Çankaya Üniversitesi 2010](https://vimeo.com/10697648)
+- [Java Kariyer ve Gelecek Panel - CETURK Ankara, Çankaya Üniversitesi 2010](https://vimeo.com/10748296)
 - [Spring Application Framework'e Giriş - CETURK Ankara, Çankaya Üniversitesi 2011](https://www.youtube.com/watch?v=O1JYpY202Ss)
 - [Developing Reusable Software Components - Voxxed Days Istanbul 2015](http://youtube.com/watch?v=wz5Oq_HJmDU)
 - [Dinamik Proxy Tabanlı View Model API - Java Day Istanbul 2016](https://www.youtube.com/watch?v=L1mgNceNIm0)
