@@ -26,9 +26,20 @@ Strong background in:
 
 ## Experience
 
+### **Senior Staff Engineer** | Trendyol Group | *Full-time*
+
+📅 *Sep 2025 - Present · 10 mos* | 📍 *Ankara, Turkey · Hybrid*
+
+* Provide technical leadership for the architecture and evolution of Trendyol Group's fintech platform, with a primary focus on digital wallets and payment systems.
+* Design and implement scalable, resilient, and secure platform capabilities by collaborating closely with multiple engineering teams across the organization.
+* Drive architectural decisions, solve complex distributed systems challenges, and establish engineering best practices that improve platform reliability, performance, and maintainability.
+* Contribute hands-on through software design, coding, architecture reviews, and technical problem solving while enabling teams to deliver high-quality solutions.
+* Mentor engineers and provide architectural guidance across teams, helping scale both the fintech platform and the organization's engineering capabilities.
+
+
 ### **Software Architect** | Udemy | *Contractor, Full-time*
 
-📅 *Sep 2019 - Present · 5 yrs 10 mos* | 📍 *Ankara, Turkey · Hybrid*
+📅 *Sep 2019 - Aug 2025 · 5 yrs 10 mos* | 📍 *Ankara, Turkey · Hybrid*
 
 * Helped the company adopt microservices and enterprise Java technologies while leading development of a software solution supporting partnership team business functionalities.
 * Initiated and lead development of an acceptance testing framework and library for Spring Kotlin-based microservices, actively supporting its adoption and maintenance across the organization.

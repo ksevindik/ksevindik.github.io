@@ -17,8 +17,8 @@ shared my experiences and solutions on various platforms. My areas of interest f
 programming, design patterns, aspect-oriented programming (AOP), enterprise web applications, and security topics.
 
 Throughout my career, I have been involved in almost every phase of projects developed with enterprise Java technologies. 
-Currently, I am working as a Software Architect at Udemy. I hold certifications such as Java Programmer, Web Component 
-Developer, Business Component Developer, and Vaadin UI Framework Developer.
+Currently, I am working as a Senior Staff Engineer at Trendyol Group. I hold certifications such as Java Programmer, 
+Web Component Developer, Business Component Developer, and Vaadin UI Framework Developer.
 
 I am one of the authors of the book [Beginning Spring](https://www.amazon.com/author/kenansevindik), published by Wiley Publishing in 2015. Writing and speaking 
 engagements have allowed me to share my experiences with software developers across different organizations and seminars 
